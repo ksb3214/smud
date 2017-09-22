@@ -1,0 +1,10 @@
+Take
+
+Syntax:
+ttaakkee [[oobbjjeecctt]]
+get [object]
+
+Take or get allows you to pick up an object from the current room, provided that you
+have enough space and weight allowance to carry that object.
+
+See also: drop, give.

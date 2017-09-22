@@ -1,0 +1,15 @@
+Newsedit
+
+`newsedit' creates a new news item and drops you in SMUD's editor:
+
+Editor Commands:
+.quit   - Quit and abandon changes.
+.end    - Quit and save changes.
+.stats  - Current buffer stats.
+.del    - Delete current line.
+.wipe   - Wipes whole buffer.
+.+      - Next line.
+.-      - Previous line.
+.view   - Output current buffer.
+
+See also: newsreset

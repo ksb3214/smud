@@ -1,0 +1,6 @@
+Info
+
+The `info' command gives an overview of how full the SMUD data systems are.  
+This is useful to ensure that enought space is available for all necessary 
+structures and to view game stats.
+

@@ -1,0 +1,12 @@
+Quests - not yet implemented
+
+Experience points may be gained by questing. Each quest may only be completed
+once per player. There are two types of quest: quest areas and world wide
+quests.
+Quest areas are those in which you may not return to the main game until the
+quest is completed, although you will still gain xp from killing mobiles whilst
+completeing the quest. The only way to leave the area is to die or complete the
+quest.
+World wide quests are those in which you will have to find a specific mobile or
+object and return it to the correct location. While you are hunting, you may
+play the game as normal.

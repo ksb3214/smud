@@ -1,0 +1,9 @@
+# ksb 2002
+
+10000 {
+	name Riding the Bus
+	desc Built a century earlier, the fact this bus still moves is a miracle\nhold on to the straps and pray
+	flags CNPR
+	direction
+}
+

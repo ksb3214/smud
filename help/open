@@ -1,0 +1,8 @@
+Opening and closing
+
+From time to time you may encounter an object that you need to open,
+e.g. a door or a container.  This is easily done with `open object'.
+
+Especially in the case of doors, you may wish to close objects, done
+simply with `close object'.
+

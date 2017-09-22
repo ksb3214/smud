@@ -1,0 +1,5 @@
+Save
+
+The `save' command saves your character.  SMUD regularly autosaves, so there
+is no need to use this command unless you want an absolute guard against a
+system crash!

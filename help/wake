@@ -1,0 +1,17 @@
+Resting
+
+In SMUD, you may be in one of three states: awake, resting or asleep.
+
+Awake, you can do pretty much anything but your hp, mana and mv will 
+regain very slowly.
+
+While resting, you may not move or initiate attacks, although you are 
+alert and can see and hear everything in the room.
+
+While asleep you will not be aware of anything happening in your current
+location (although you will still be able to hear all worldwide public
+communication), and you may be attacked.  You will regain hp, mana and mv
+at its quickest rate while asleep.
+
+Syntax:
+Sleep, rest, stand, wake.

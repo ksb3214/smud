@@ -1,0 +1,10 @@
+Drivel channel
+
+The drivel channel is designed for public communication of a lower quality
+than that for `chat'.  It follows a form similar to that of chat, and you 
+may emote on this channel:
+
+Syntax:
+drivel [message]
+? [message]
+dremote [emote]

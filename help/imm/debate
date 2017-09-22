@@ -1,0 +1,20 @@
+Debates
+
+Debates on SMUD are to gain players opinions on all things pertaining
+to the game, and give you the chance to let your views be known. Only
+IMMs can create debates, although feel free to suggest topic ideas.
+
+debate list           - list current active debates
+debate show [number]  - show more information about a debate
+debate add [subject]  - add a new debate, drops you in the editor so
+                        you can input the body of the debate (for show)
+debate close [number] - close an existing debate
+
+To vote use:
+debate vote [number] [yes/no/abstain]
+
+If you have no feelings either way on a debate please use `abstain'
+rather than just ignoring the debate so the IMMs know when an item
+has been seen by most of the players.
+
+Players must be level 2 to vote. 

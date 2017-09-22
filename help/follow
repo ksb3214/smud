@@ -1,0 +1,9 @@
+Follow
+
+You may follow other players using:
+            follow <playername>
+
+You with then automatically follow them every time they exit a room.
+You must be following in order to be grouped.
+
+See also: grouping, group.

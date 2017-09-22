@@ -1,0 +1,28 @@
+Showlist
+
+The `showlist' command details all the players for whom you have special 
+instructions.  All of these commands are invoked using:
+               command playername
+
+To remove an entry, repeat the command.  For example:
+               
+	       friend kenny
+	       >You set the Friend flag for Kenny.
+	       friend kenny
+	       >You unset the Friend flag for Kenny.
+
+The instructions are:
+               noisy  : player may `tell' to you even when you are `quiet'
+	       ignore : you ignore all output from this player
+	       inform : you recieve system information about the player
+	       grabme : player may `grab' you into their homeroom
+	       friend : player hears your friends channel communication
+	       bar    : player may not enter your homeroom even when visitable
+	       invite : player may enter your home room when unvisitable
+	       beep   : causes a beep when information about the player ocurrs
+	       block  : player may not tell or page you
+	       find   : player can see you when you are invisable
+	       key    : player may enter your homeroom when you are offline
+
+
+See also: communication, homerooms, fwho.

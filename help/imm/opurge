@@ -1,0 +1,8 @@
+Opurge
+
+Syntax:
+opurge [object]
+
+This command removes the specified object from a room as if it had
+been taken.  It will refresh normally.
+

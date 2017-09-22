@@ -1,0 +1,17 @@
+# transport system
+# you need a room to act as the carrage, these should be found in rooms/transport.mff
+
+1 {
+	room 10000
+	name A big red bus
+	instr A big red bus disappears into the distance
+	outstr A big red bus arrives
+	move The bus shakes as it moves
+	stop With a squeal of breaks the bus stops
+	warning The bus driver shouts 'All aboard, about to leave!'
+	exit 9
+	route 17x901x1300x1600x1300z2500
+	wait 5
+	gap 1
+}
+

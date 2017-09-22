@@ -1,0 +1,11 @@
+Tell
+
+Tell is used to send a message to one person and is thus more suitable for
+private conversation than `chat' or `say'. You may also send emotes to specific
+players.
+
+Syntax:
+tell [player] [message]
+>[player] [message]
+remote [player] [message]
+<[player] [message]

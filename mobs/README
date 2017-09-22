@@ -1,0 +1,6 @@
+Mobs..
+
+All the actual mobs must go in mobs.def but the associations are area
+specific and should go in a file associated with the originating area of
+the mob.
+

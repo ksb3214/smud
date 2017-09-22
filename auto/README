@@ -1,0 +1,7 @@
+SMUD auto area generator
+(c) 2002, Karl Bastiman
+
+The Map file is pretty simple, take a look at test.map to see it in action. '.' indicates null space, '+' indicates a room-link, and anything else is a room tag which should correspond to one of the labels.
+
+use '=vnum' to specify a room which is defined elsewhere
+

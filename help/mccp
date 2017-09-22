@@ -1,0 +1,9 @@
+MCCP - Mud Client Compression Protocol
+
+Smud supports MCCP version 1 and 2, using a client which supports MCCP achieves 2 major goals, firstly if you are on a 'slow' link it will effectively speed up the response of Smud and go someway towards reducing any lag you may experience.  Secondly it cuts down on the bandwidth demands of the Smud server.
+
+A list of clients which support MCCP (including a patch for TF) can be found here:
+
+http://www.randomly.org/projects/MCCP/clients.html
+
+If you experience any problems with MCCP please let us know.

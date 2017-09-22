@@ -1,0 +1,156 @@
+# Auto generated with makemob
+
+1300 {
+  name a rat
+  shortdesc a rat
+  objects 
+  level 1
+  home 1415
+  longdesc It would seem they let any sort of creature into this city, including this poor beast.
+  sex N
+  alignment 0
+}
+
+1301 {
+  name a tabby cat
+  shortdesc a tabby cat
+  objects 
+  level 13
+  home 1470
+  longdesc It would seem they let any sort of creature into this city, including this poor beast.
+  sex N
+  alignment 0
+}
+
+1302 {
+  name a ginger cat
+  shortdesc a ginger cat
+  objects 
+  level 9
+  home 1454
+  longdesc It would seem they let any sort of creature into this city, including this poor beast.
+  sex N
+  alignment 0
+}
+
+1303 {
+  name a small dog
+  shortdesc a small dog
+  objects 
+  level 15
+  home 1501
+  longdesc It would seem they let any sort of creature into this city, including this poor beast.
+  sex N
+  alignment 0
+}
+
+1304 {
+  name a scottish terrier
+  shortdesc a scottish terrier
+  objects 
+  level 15
+  home 1476
+  longdesc It would seem they let any sort of creature into this city, including this poor beast.
+  sex N
+  alignment 0
+}
+
+1305 {
+  name a goat
+  shortdesc a goat
+  objects 
+  level 3
+  home 1397
+  longdesc It would seem they let any sort of creature into this city, including this poor beast.
+  sex N
+  alignment 0
+}
+
+1306 {
+  name a small donkey
+  shortdesc a small donkey
+  objects 
+  level 15
+  home 1426
+  longdesc It would seem they let any sort of creature into this city, including this poor beast.
+  sex N
+  alignment 0
+}
+
+1307 {
+  name a rat
+  shortdesc a rat
+  objects 
+  level 13
+  home 1443
+  longdesc It would seem they let any sort of creature into this city, including this poor beast.
+  sex N
+  alignment 0
+}
+
+1308 {
+  name a tabby cat
+  shortdesc a tabby cat
+  objects 
+  level 7
+  home 1502
+  longdesc It would seem they let any sort of creature into this city, including this poor beast.
+  sex N
+  alignment 0
+}
+
+1309 {
+  name a ginger cat
+  shortdesc a ginger cat
+  objects 
+  level 6
+  home 1479
+  longdesc It would seem they let any sort of creature into this city, including this poor beast.
+  sex N
+  alignment 0
+}
+
+1310 {
+  name a small dog
+  shortdesc a small dog
+  objects 
+  level 1
+  home 1316
+  longdesc It would seem they let any sort of creature into this city, including this poor beast.
+  sex N
+  alignment 0
+}
+
+1311 {
+  name a scottish terrier
+  shortdesc a scottish terrier
+  objects 
+  level 4
+  home 1337
+  longdesc It would seem they let any sort of creature into this city, including this poor beast.
+  sex N
+  alignment 0
+}
+
+1312 {
+  name a goat
+  shortdesc a goat
+  objects 
+  level 4
+  home 1407
+  longdesc It would seem they let any sort of creature into this city, including this poor beast.
+  sex N
+  alignment 0
+}
+
+1313 {
+  name a small donkey
+  shortdesc a small donkey
+  objects 
+  level 7
+  home 1464
+  longdesc It would seem they let any sort of creature into this city, including this poor beast.
+  sex N
+  alignment 0
+}
+

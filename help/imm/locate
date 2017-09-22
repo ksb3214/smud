@@ -1,0 +1,10 @@
+Locate
+
+As an imm you may wish to find a particular location or mob.
+This can be done in IMM mode using the locate command:
+
+locate [string]
+
+searches for the specified string and returns the vnum of the
+room or mob, so you can `goto' it easily.
+

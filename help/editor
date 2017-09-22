@@ -1,0 +1,12 @@
+SMUD Editor
+
+To create your home room description, write letters etc, you will need to use the SMUD editor.
+
+.quit   - Quit and abandon changes.
+.end    - Quit and save changes.
+.stats  - Current buffer stats.
+.del    - Delete current line.
+.wipe   - Wipes whole buffer.
+.+      - Next line.
+.-      - Previous line.
+.view   - Output current buffer.

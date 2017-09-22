@@ -1,0 +1,15 @@
+League
+
+There are several leagues that are used to measure success on SMUD:
+
+league            - Players ranked by xp score
+league kills      - Players ranked by total number of (non-trivial) kills
+league areas      - Areas ranked by number of mobs killed 
+league mobs       - Mobs ranked by number of times they have died
+
+Without further argument, division 1 will be shown.  To view further
+divisions add the required number after the command:
+e.g. league 2
+     league kills 3
+
+Use this information in whatever manner you see fit ... ;)

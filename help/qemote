@@ -1,0 +1,12 @@
+Question channel
+
+The question channel is designed for players to ask questions about the game
+for more experienced players to answer.  It may be accessed using the following 
+commands:
+
+          question   :  speak a question
+	  qemote     :  emote a question
+	  answer     :  reply to a question
+	  aemote     :  emote a reply
+
+If you wish to ask a single person a question then please use the `ask' command.

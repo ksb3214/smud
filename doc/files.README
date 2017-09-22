@@ -1,0 +1,353 @@
+Definition for area creation in SMUD
+*******************************
+
+Rooms
+-----
+
+Room files are continuous and follow this pattern:
+
+
+Room_num
+%
+Name (up to 70 characters)
+%
+Description
+%
+Flags (see below)
+%
+direction<door information>room linked
+%
+
+Directions are represented by the following numbers:
+
+n=0 e=1 s=2 w=3 ne=4 nw=5 se=6 sw=7 u=8 d=9
+
+Room Flags:
+
+Default Room: indoors, continual light, non soundproof, combat allowed,
+	magic allowed, all people allowed to enter, teleportation allowed,
+	normal ground, recall allowed.
+
+Flags:
+
+D	Dark (need torch)
+C	Peaceful (no combat - e.g. recall sites or healing zones)
+S	Soundproof (no socials heard int he room)
+N	No Magic allowed
+P	Private (cannot teleport into this room)
+G	God room (only immortals allowed)
+M	Mages only
+W	Warriors only
+T	Thieves only
+A	Assassins only
+E	Templars only
+O	Outside (follows weather and light/dark patterns)
+B	Boat required
+U	Underwater (need breathe water)
+I	Swimable water
+F	Need to be able to fly
+R 	No Recall
+
+Doors:
+
+In the exit line, after the direction number there is an optional
+door flag:
+
+d<status><keynumber>
+
+after the room vnum.
+
+Status:
+
+O	door open
+C	closed (unlocked)
+L	locked (pickable)
+P	unpickable
+
+Keynumber is simply the vnum of the object that locks and unlocks the door
+regardless of its initial status.
+
+For example:
+
+021dL43
+
+indicates a door to the north locked by object 43 that opens onto room 21.
+As with all exits a similar reference to the door must be inthe definition
+for the room to which the door leads.
+
+
+Mobs
+----
+
+Shopkeepers are a special type of mob, but are dealt with in the same way
+as other mobs.
+
+A mob file is continuous with the following format:
+
+
+Mob number
+%
+Name (to fit with `The ...')
+%
+Short description (A .... is here)
+%
+Long description (for `look' command
+%
+Level (defines hp, mana and movement)
+%
+Sex
+%
+HitRoll
+%
+AC
+%
+DamRoll
+%
+Alignment
+%
+Flags
+%
+Objects list (what mob is wearing/holding/wielding)
+%
+Trade
+%
+Shopkeeper attributes (vnum of objects shop normally stocks, and price)
+%
+
+Sex can be 1 (Male), 2 (Female) or 3 (Neutral).
+
+Hitroll and damroll  are the chances of hitting and causing
+damage respectively, the same as for players.
+
+Ac is armour class and works the same as for players.
+
+Alignment is as for players between -1000 and 1000.
+
+Flags for mobs:
+
+Default mob: wanders, does not scavenge, is unaware, will stay in
+	own zone, peaceful, will not flee, no memory, no helper,
+	no seller and is affected by all spells. 
+
+Flags:
+
+S	Stationary (no wander)
+C	Scavenger (picks up items in rooms)
+B	Aware (cannot be backstabbed, pickpocketed)
+V	see invis (objects, mobs and players)
+A	Aggressive (auto attack
+F	Will flee when down to 20% of its hp
+E	Anti evil - will attack
+G	Anti good - will attack
+N	Anti neutral - will attack
+M	Memory - will remember who has attacked/helped it and
+	will treat accordingly
+Z	Can move out of zone
+H	Helper - will attack any player that is attacking a mob
+	in the same room
+D	Cannot be blinded
+P	Cannot be put to sleep/drugged
+R	Cannot be charmed
+O	Cannot be summoned
+I	Invisable
+T	Protected by Sactuary
+J	Infravision (can see in the dark)
+K 	Can Sneak (room not informed of movements)
+L	Can poison
+Q	Carries plague
+U	Can breathe underwater
+W	Can walk on water (no need for boat or swim skill)
+X 	Can fly 
+Y	Mage  - may cast mage combat spells against opponent
+	during combat
+s	Shopkeeper - can buy and sell items
+
+Object list:
+
+Objects are listed one per line by vnum.  There is no need to define what
+the mob is doing with an object as this is implicit in the onject
+definition file.
+
+Shopkeeper information:
+
+Trade: (left blank if mob does not trade) the numbers of object types in
+	which a mob will trade on idividual lines. e.g. if a mob only
+	traded in armour, weapons and boats then the trade line would be:
+
+5
+7
+15
+
+Attributes: vnum of objects that are stocked followed by a comma then the
+	starting price when the room is reset. Each object is stated on a
+	seperate line. e.g.
+
+145,10
+3,7
+654,500
+
+If a mob is not a shopkeeper then this line is left blank also.
+
+Flags for shopkeepers should generally be:
+
+sSCBRODP
+
+which defines: shopkeeper, Stationary, scavenger, aware, cannot be
+blinded, charmed, drugged or summoned.
+
+Defining a shopkeeper as a helper also tends to prevent combat in shops as
+players usually think twice about fighting infront of a much higher level
+mob.
+
+Mobs are loaded into rooms using information in mobs.idx
+
+Objects
+-------
+
+Objects are produced in a continuous file in the following format:
+
+
+Number
+%
+Name
+%
+Sentance description (used when object is left lying in a room)
+%
+Long description (for look/examine)
+%
+Type
+%
+Flags
+%
+Weight
+%
+Cost
+%
+Other info
+%
+
+Type:
+
+1    LIGHT          Item is a light source.
+2    SCROLL         Item is a magical scroll.
+3    WAND           Item is a magical wand.
+4    STAFF          Item is a magical staff.
+5    WEAPON         Item is a weapon.
+6    TREASURE       Item is treasure other than gold coins (e.g.
+			gems)
+7    ARMOUR         Item is armour.
+8    POTION         Item is a magical potion.
+9    OTHER          Miscellaneous object with no special
+			properties.
+10   TRASH          Trash -- junked by cleaners, not bought by
+			shopkeepers.
+11   CONTAINER      Item is a container.
+12   DRINKCON       Item is a drink container.
+13   KEY            Item is a key.
+14   FOOD           Item is food.
+15   MONEY          Item is money (gold coins).
+16   BOAT           Item is a boat.
+17   FOUNTAIN       Item is a fountain.
+18   DRINK	    Item is drink.
+
+Flags:
+
+I	Invisible
+D	Nodrop
+G	Anti-good
+N	Anti-neutral
+E	Anti-evil
+A	Anti-Mage
+M	Mages only
+S	No sell
+H	hold
+W 	wield
+T	Cannot be taken (e.g. fountains :) )
+d	Wear on head
+K       Wear around neck
+F       Wear on arms
+B       Wear about body
+C       Wear on chest
+J       Wear on legs
+O       Wear on feet
+P       Wear about wrist (whichever is available)
+Q       Wear on hand (whichever is available)
+R       Wear as a shield
+L       Use as a light
+$		ATM
+
+Other information depends on the object type:
+
+1    LIGHT    -  Time left on light, vanishes at 0, an eternal
+		 light source is set to -1
+2    SCROLL   -  Number of charges and spell contained
+3    WAND     -  Number of charges and spell contained
+4    STAFF    -  Number of charges and spell contained
+5    WEAPON   -  Weapon type, bonuses (see below)
+6    TREASURE -  No info
+7    ARMOR    -  No info - determined using Z values (see below)
+8    POTION   -	 Effect on stats
+9    OTHER    -  No info
+10   TRASH    -  No info
+11   CONTAINER-  Weight capacity      
+12   DRINKCON -  Number of portions held      
+13   KEY      -  No info      
+14   FOOD     -  Number of hours hunger sated, P = poisoned      
+15   MONEY    -  No info      
+16   BOAT     -  No info      
+17   FOUNTAIN -  No info      
+18   DRINK    -  Number of hours thirst sated      
+
+For weapons, the text of the fight depends on the type of weapon
+used, the following code determines this:
+a    hit/hits
+b    sting/stings
+c    whip/whips
+d    slash/slashes
+e    bite/bites
+f    bludgeon/bludgeons
+g    crush/crushes
+h    pound/pounds
+i    claw/claws
+j    maul/mauls
+k    thrash/thrashes
+l    pierce/pierces
+m    blast/blasts
+n    punch/punches
+o    stab/stabs
+
+Affects on statistics are determined by a list in the other info
+field consisting of:
+ Z<attribute><affect>
+
+where Z indicates the start of an attribute modification:
+
+A	strength
+B	dexterity
+C	intelligence
+D	wisdom
+E	constitution
+F	weight
+G	mana
+H	hitpoints
+I	movement
+J	armour class
+K	hitroll
+L	damroll
+M	save versus spell
+
+Effect is default positive value regardless of the physical effect
+this will have, especially important in armour class, so determine
+the effect carefully.
+
+These effects only take place when the object is held, wielded or
+worn, not just when being carried.
+
+So to specify a weapon that blasts with a plus 2 bonus to damroll
+and hitroll:
+
+mZK2ZL2
+
+Objects are loaded onto mobs and into rooms via obj.idx, although the mob
+files will specify how the object is being used.
+

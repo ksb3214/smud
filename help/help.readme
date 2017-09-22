@@ -1,0 +1,9 @@
+Configuration of help files
+***************************
+
+Help files are written in simple HTML to enable them to be accessed online
+easily. Help files are stored by topic in the appropriate directory.  In
+each directory (except the spells directory) there should be a help file
+that has the same name as the directory, listing the files and giving them
+a brief description so that players can quickly and easily find the help
+they need.  

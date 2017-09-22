@@ -1,0 +1,12 @@
+Chat
+
+The `chat' command is used to send messages to everyone currently logged on to
+SMUD. It is a public channel but there are no restrictions on topics. It is
+mostly used for general greetings and any conversation in which you want
+everyone to join. You may also emote on the chat channel.
+
+Syntax:
+chat [message]
+.[message]
+chemote [emote]
+,[emote]

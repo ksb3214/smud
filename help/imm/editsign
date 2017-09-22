@@ -1,0 +1,10 @@
+Signs
+
+As an IMM you may place signs around SMUD.  Each room may contain
+one sign:
+
+`editsign'   - edits the current sign, if there is no current sign
+               then one is created.
+
+`removesign' - removes the current sign from the room.
+

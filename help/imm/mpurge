@@ -1,0 +1,8 @@
+Mpurge
+
+Syntax:
+mpurge [mobname]
+
+This removes the specified mob from a room as if it had been killed.  It
+will refresh as normal.
+

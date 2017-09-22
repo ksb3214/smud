@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for files in `ls *.html`
+do
+	html2text $files > ${files%.html}
+done
+

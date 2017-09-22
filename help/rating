@@ -1,0 +1,13 @@
+Rating
+
+If your level is a measure of how experienced you are, then your rating
+is indicative of how tough you are.  Your rating is a combination of
+your ability in attack and defense and is dynamic: changing your armour, 
+weapon and anyspells or affects will change your rating.
+
+You can see your rating with the `score' command.
+
+Mobs also have ratings, and these are also dynamic.  The `areas' command
+shows the current minimum and maximum ratings for the mobs in that area.
+
+See also: `score', `areas'.

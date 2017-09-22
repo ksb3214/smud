@@ -1,0 +1,17 @@
+Roomedit
+
+You may edit your homeroom using `roomedit', but you must be in your 
+homeroom to use this command.  IMMs may also use this command to edit 
+the room in which they are currently located.  
+
+Roomedit uses SMUD's inbuilt editor:
+
+Editor Commands:
+.quit   - Quit and abandon changes.
+.end    - Quit and save changes.
+.stats  - Current buffer stats.
+.del    - Delete current line.
+.wipe   - Wipes whole buffer.
+.+      - Next line.
+.-      - Previous line.
+.view   - Output current buffer.

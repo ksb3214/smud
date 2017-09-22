@@ -1,0 +1,8 @@
+Makehome
+
+Players are not automatically allocated homerooms at a specified level,
+they must ask an IMM, who can then create it at their discretion. You can
+do this with:
+
+makehome [player]
+

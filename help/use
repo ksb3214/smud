@@ -1,0 +1,7 @@
+Use
+
+In order to use an object, you must either be carrying it or be in the 
+same room (if the object is fixed).  Not all objects can be used.
+
+Syntax:
+use [object]

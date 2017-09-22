@@ -1,0 +1,12 @@
+who
+
+This will show you who is currently online playing Smud, players will not however appear on this list if the are invisible or in the process of logging on.
+
+The flags to left indicate:
+
+	i = Immortal (player mode)
+	I = Immortal (Imm mode)
+	M = Using MCCP
+	A = Away from keyboard (AFK)
+	E = Currently editing something
+

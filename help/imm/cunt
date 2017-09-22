@@ -1,0 +1,10 @@
+Cunt
+
+Be a cunt to a player.
+
+This command basically disconnects a player from the mud, losing any information
+and score since the last time the player was saved.
+
+Syntax: cunt [player]
+
+See also: boot, nuke

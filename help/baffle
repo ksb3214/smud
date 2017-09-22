@@ -1,0 +1,5 @@
+Syntax: cast baffle [character]
+
+A baffled character will not be able to determine where they are or what they
+are doing. Baffled characters will move at random, and will suffer decreases in
+any skill tests.

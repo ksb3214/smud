@@ -1,0 +1,32 @@
+Attributes Info
+
+str - Strength  - How hard you can hit, how much you can lify and carry
+spe - Speed     - How fast you can move, attack and retreat
+res - Resilience- How much you can withstand injury, illness and fatigue
+int - Intelligence How easily you can learn new skills
+mem - Memory    - How easily you remember what you learn
+agi - Agility   - How dextrous you are with weapons and difficult moves
+
+An average score for any of these attributes will be in 10-15 range.
+You have 60 points to split between the attributes when you create your
+character and each attribute may rise by 5 points during the game.
+
+e.g. 
+Yss the adventurer:
+        str spe res int mem agi
+Start : 10  10  10  10  10  10
+Max   : 15  15  15  15  15  15
+
+Kenny the assassin:
+        str spe res int mem agi
+Start :  5  12  10   9  12  12
+Max   : 10  17  15  14  17  17
+
+Numpty the unbalanced:
+        str spe res int mem agi
+Start : 20   5  20   5   5   5
+Max   : 25  10  25  10  10  10
+
+Players can choose a predefined balanced set of attributes or may define
+their own [advanced players].
+			

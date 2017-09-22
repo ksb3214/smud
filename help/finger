@@ -1,0 +1,7 @@
+Finger information
+
+`Finger' provides limited information about the specified user in terms of
+logon details and death details.
+
+Syntax:
+finger <playername>

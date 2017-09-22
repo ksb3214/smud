@@ -1,0 +1,1491 @@
+1401 {
+  name Exit Causeway
+  desc You are on Exit Causeway running east from here.\n
+  flags O
+  direction 11402\n
+}
+
+1402 {
+  name Exit Causeway
+  desc You are on Exit Causeway running east-west from here.\n
+  flags O
+  direction 11403\n31401\n
+}
+
+1403 {
+  name Exit Causeway
+  desc You are on Exit Causeway running east-west from here.\n
+  flags O
+  direction 11404\n31402\n
+}
+
+1404 {
+  name Exit Causeway
+  desc You are on Exit Causeway running east-west from here.\n
+  flags O
+  direction 11405\n31403\n
+}
+
+1405 {
+  name Exit Causeway
+  desc You are on Exit Causeway running east-west from here.\n
+  flags O
+  direction 11406\n31404\n
+}
+
+1406 {
+  name Exit Causeway
+  desc You are on Exit Causeway running east-west from here.\n
+  flags O
+  direction 11407\n31405\n
+}
+
+1407 {
+  name Exit Causeway
+  desc You are on Exit Causeway running east-west from here.\n
+  flags O
+  direction 11408\n31406\n
+}
+
+1408 {
+  name Exit Causeway
+  desc You are on Exit Causeway running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11409\n31407\n
+}
+
+1409 {
+  name Exit Causeway
+  desc You are on Exit Causeway running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11410\n31408\n
+}
+
+1410 {
+  name Exit Causeway
+  desc You are on Exit Causeway running west from here.\nMarket Close is to the east.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11411\n31409\n
+}
+
+1345 {
+  name Long Walk
+  desc You are on Long Walk running south-northeast from here.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 21362\n41338\n
+}
+
+1362 {
+  name Long Walk
+  desc You are on Long Walk running north from here.\nMarket Close is to the south.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 01345\n21372\n
+}
+
+1372 {
+  name Market Close
+  desc You are on Market Close running east-south from here.\nLong Walk is to the north.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01362\n11373\n21389\n
+}
+
+1389 {
+  name Market Close
+  desc You are on Market Close running north-south from here.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01372\n21411\n
+}
+
+1411 {
+  name Market Close
+  desc You are on Market Close running north-south from here.\nExit Causeway is to the east and west.\nTo the north,east and west you can make out other junctions.\n
+  flags O
+  direction 01389\n11412\n21442\n31410\n
+}
+
+1442 {
+  name Market Close
+  desc You are on Market Close running north-south from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01411\n21449\n
+}
+
+1449 {
+  name Market Close
+  desc You are on Market Close running north-east from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01442\n11450\n
+}
+
+1338 {
+  name Long Walk
+  desc You are on Long Walk running northeast-southwest from here.\n
+  flags O
+  direction 41327\n71345\n
+}
+
+1373 {
+  name Market Close
+  desc You are on Market Close running west-southeast from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 31372\n61390\n
+}
+
+1412 {
+  name Exit Causeway
+  desc You are on Exit Causeway running east from here.\nMarket Close is to the west.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11413\n31411\n
+}
+
+1450 {
+  name Market Close
+  desc You are on Market Close running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11451\n31449\n
+}
+
+1327 {
+  name Long Walk
+  desc You are on Long Walk running northeast-southwest from here.\nTo the northeast you can make out other junctions.\n
+  flags O
+  direction 41317\n71338\n
+}
+
+1390 {
+  name Market Close
+  desc You are on Market Close running east-northwest from here.\n
+  flags O
+  direction 11391\n51373\n
+}
+
+1413 {
+  name Exit Causeway
+  desc You are on Exit Causeway running east-west from here.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11414\n31412\n
+}
+
+1451 {
+  name Market Close
+  desc You are on Market Close running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11452\n31450\n
+}
+
+1317 {
+  name Long Walk
+  desc You are on Long Walk running northeast-southwest from here.\nTo the northeast you can make out other junctions.\n
+  flags O
+  direction 41308\n71327\n
+}
+
+1391 {
+  name Market Close
+  desc You are on Market Close running west-southeast from here.\nTo the southeast you can make out other junctions.\n
+  flags O
+  direction 31390\n61415\n
+}
+
+1414 {
+  name Exit Causeway
+  desc You are on Exit Causeway running west from here.\nMarket Close is to the east.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11415\n31413\n
+}
+
+1452 {
+  name Market Close
+  desc You are on Market Close running west-northeast from here.\nCurvy Street is to the southeast.\nTo the northeast and southeast you can make out other junctions.\n
+  flags O
+  direction 31451\n41443\n61458\n
+}
+
+1308 {
+  name Long Walk
+  desc You are on Long Walk running east-southwest from here.\nWind Road is to the south.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 11309\n21318\n71317\n
+}
+
+1318 {
+  name Wind Road
+  desc You are on Wind Road running south from here.\nLong Walk is to the north.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01308\n21328\n
+}
+
+1328 {
+  name Wind Road
+  desc You are on Wind Road running north-southeast from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01318\n61339\n
+}
+
+1415 {
+  name Market Close
+  desc You are on Market Close running east-northwest from here.\nExit Causeway is to the west.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11416\n31414\n51391\n
+}
+
+1443 {
+  name Market Close
+  desc You are on Market Close running northeast-southwest from here.\nTo the northeast and southwest you can make out other junctions.\n
+  flags O
+  direction 41416\n71452\n
+}
+
+1458 {
+  name Curvy Street
+  desc You are on Curvy Street running southeast from here.\nMarket Close is to the northwest.\nTo the northwest you can make out other junctions.\n
+  flags O
+  direction 51452\n61476\n
+}
+
+1309 {
+  name Long Walk
+  desc You are on Long Walk running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11310\n31308\n
+}
+
+1339 {
+  name Wind Road
+  desc You are on Wind Road running northwest-southeast from here.\n
+  flags O
+  direction 51328\n61346\n
+}
+
+1416 {
+  name Market Close
+  desc You are on Market Close running west-southwest from here.\nCross Street is to the east.\nTo the east,west and southwest you can make out other junctions.\n
+  flags O
+  direction 11417\n31415\n71443\n
+}
+
+1476 {
+  name Curvy Street
+  desc You are on Curvy Street running northwest-southeast from here.\nTo the northwest you can make out other junctions.\n
+  flags O
+  direction 51458\n61482\n
+}
+
+1310 {
+  name Long Walk
+  desc You are on Long Walk running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11311\n31309\n
+}
+
+1346 {
+  name Wind Road
+  desc You are on Wind Road running east-northwest from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11347\n51339\n
+}
+
+1417 {
+  name Cross Street
+  desc You are on Cross Street running east from here.\nMarket Close is to the west.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11418\n31416\n
+}
+
+1482 {
+  name Curvy Street
+  desc You are on Curvy Street running northwest-southeast from here.\nTo the northwest you can make out other junctions.\n
+  flags O
+  direction 51476\n61488\n
+}
+
+1311 {
+  name Long Walk
+  desc You are on Long Walk running east-west from here.\n
+  flags O
+  direction 11312\n31310\n
+}
+
+1347 {
+  name Wind Road
+  desc You are on Wind Road running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11348\n31346\n
+}
+
+1418 {
+  name Cross Street
+  desc You are on Cross Street running east-west from here.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11419\n31417\n
+}
+
+1488 {
+  name Curvy Street
+  desc You are on Curvy Street running east-northwest from here.\n
+  flags O
+  direction 11489\n51482\n
+}
+
+1312 {
+  name Long Walk
+  desc You are on Long Walk running west-northeast from here.\n
+  flags O
+  direction 31311\n41305\n
+}
+
+1348 {
+  name Wind Road
+  desc You are on Wind Road running south-west from here.\nDemon Walk is to the northeast.\nTo the northeast you can make out other junctions.\n
+  flags O
+  direction 21363\n31347\n41340\n
+}
+
+1363 {
+  name Wind Road
+  desc You are on Wind Road running north-southeast from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01348\n61374\n
+}
+
+1419 {
+  name Cross Street
+  desc You are on Cross Street running west from here.\nWind Road is to the east.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11420\n31418\n
+}
+
+1489 {
+  name Curvy Street
+  desc You are on Curvy Street running east-west from here.\n
+  flags O
+  direction 11490\n31488\n
+}
+
+1300 {
+  name Long Walk
+  desc You are on Long Walk running south from here.\n
+  flags O
+  direction 21305\n
+}
+
+1305 {
+  name Long Walk
+  desc You are on Long Walk running north-southwest from here.\n
+  flags O
+  direction 01300\n71312\n
+}
+
+1340 {
+  name Demon Walk
+  desc You are on Demon Walk running northeast from here.\nWind Road is to the southwest.\nTo the southwest you can make out other junctions.\n
+  flags O
+  direction 41329\n71348\n
+}
+
+1374 {
+  name Wind Road
+  desc You are on Wind Road running south-northwest from here.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 21392\n51363\n
+}
+
+1392 {
+  name Wind Road
+  desc You are on Wind Road running north-south from here.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 01374\n21420\n
+}
+
+1420 {
+  name Wind Road
+  desc You are on Wind Road running north-south from here.\nCross Street is to the east and west.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 01392\n11421\n21444\n31419\n
+}
+
+1444 {
+  name Wind Road
+  desc You are on Wind Road running north-southeast from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01420\n61453\n
+}
+
+1490 {
+  name Curvy Street
+  desc You are on Curvy Street running east-west from here.\n
+  flags O
+  direction 11491\n31489\n
+}
+
+1329 {
+  name Demon Walk
+  desc You are on Demon Walk running east-southwest from here.\nTo the southwest you can make out other junctions.\n
+  flags O
+  direction 11330\n71340\n
+}
+
+1421 {
+  name Cross Street
+  desc You are on Cross Street running northeast from here.\nWind Road is to the west.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 31420\n41393\n
+}
+
+1453 {
+  name Wind Road
+  desc You are on Wind Road running northwest-southeast from here.\n
+  flags O
+  direction 51444\n61459\n
+}
+
+1491 {
+  name Curvy Street
+  desc You are on Curvy Street running west-northeast from here.\nTo the northeast you can make out other junctions.\n
+  flags O
+  direction 31490\n41483\n
+}
+
+1330 {
+  name Demon Walk
+  desc You are on Demon Walk running east-west from here.\n
+  flags O
+  direction 11331\n31329\n
+}
+
+1375 {
+  name Cross Street
+  desc You are on Cross Street running south-northeast from here.\n
+  flags O
+  direction 21393\n41364\n
+}
+
+1393 {
+  name Cross Street
+  desc You are on Cross Street running north-southwest from here.\nTo the southwest you can make out other junctions.\n
+  flags O
+  direction 01375\n71421\n
+}
+
+1459 {
+  name Wind Road
+  desc You are on Wind Road running east-northwest from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11460\n51453\n
+}
+
+1483 {
+  name Curvy Street
+  desc You are on Curvy Street running northeast-southwest from here.\nTo the northeast you can make out other junctions.\n
+  flags O
+  direction 41477\n71491\n
+}
+
+1331 {
+  name Demon Walk
+  desc You are on Demon Walk running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11332\n31330\n
+}
+
+1364 {
+  name Cross Street
+  desc You are on Cross Street running northeast-southwest from here.\nTo the northeast you can make out other junctions.\n
+  flags O
+  direction 41349\n71375\n
+}
+
+1460 {
+  name Wind Road
+  desc You are on Wind Road running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11461\n31459\n
+}
+
+1477 {
+  name Curvy Street
+  desc You are on Curvy Street running southwest from here.\nWind Road is to the northeast.\nTo the northeast you can make out other junctions.\n
+  flags O
+  direction 41461\n71483\n
+}
+
+1306 {
+  name Blood Walk
+  desc You are on Blood Walk running northeast-southeast from here.\n
+  flags O
+  direction 41301\n61313\n
+}
+
+1332 {
+  name Demon Walk
+  desc You are on Demon Walk running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11333\n31331\n
+}
+
+1349 {
+  name Cross Street
+  desc You are on Cross Street running northeast-southwest from here.\nTo the northeast you can make out other junctions.\n
+  flags O
+  direction 41341\n71364\n
+}
+
+1461 {
+  name Wind Road
+  desc You are on Wind Road running east-west from here.\nCurvy Street is to the southwest.\nTo the east and southwest you can make out other junctions.\n
+  flags O
+  direction 11462\n31460\n71477\n
+}
+
+1301 {
+  name Blood Walk
+  desc You are on Blood Walk running east-southwest from here.\n
+  flags O
+  direction 11302\n71306\n
+}
+
+1313 {
+  name Blood Walk
+  desc You are on Blood Walk running east-northwest from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11314\n51306\n
+}
+
+1333 {
+  name Demon Walk
+  desc You are on Demon Walk running west from here.\nNorth Street is to the east.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11334\n31332\n
+}
+
+1341 {
+  name Cross Street
+  desc You are on Cross Street running southwest from here.\nNorth Street is to the east.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11342\n71349\n
+}
+
+1462 {
+  name Wind Road
+  desc You are on Wind Road running west from here.\nNorth Street is to the east.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11463\n31461\n
+}
+
+1302 {
+  name Blood Walk
+  desc You are on Blood Walk running east-west from here.\n
+  flags O
+  direction 11303\n31301\n
+}
+
+1314 {
+  name Blood Walk
+  desc You are on Blood Walk running east-west from here.\nNorth Street is to the south.\nTo the east and south you can make out other junctions.\n
+  flags O
+  direction 11315\n21319\n31313\n
+}
+
+1319 {
+  name North Street
+  desc You are on North Street running south from here.\nBlood Walk is to the north.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01314\n21334\n
+}
+
+1334 {
+  name North Street
+  desc You are on North Street running north-south from here.\nDemon Walk is to the west.\nTo the north,south and west you can make out other junctions.\n
+  flags O
+  direction 01319\n21342\n31333\n
+}
+
+1342 {
+  name North Street
+  desc You are on North Street running north-south from here.\nCross Street is to the west.\nTo the north,south and west you can make out other junctions.\n
+  flags O
+  direction 01334\n21350\n31341\n
+}
+
+1350 {
+  name North Street
+  desc You are on North Street running north-south from here.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01342\n21365\n
+}
+
+1365 {
+  name North Street
+  desc You are on North Street running north-south from here.\nMasons Lane is to the east.\nTo the north and east you can make out other junctions.\n
+  flags O
+  direction 01350\n11366\n21376\n
+}
+
+1376 {
+  name North Street
+  desc You are on North Street running north-south from here.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01365\n21394\n
+}
+
+1394 {
+  name North Street
+  desc You are on North Street running north-south from here.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01376\n21422\n
+}
+
+1422 {
+  name North Street
+  desc You are on North Street running north-south from here.\nFergil Lane is to the east.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 01394\n11423\n21445\n
+}
+
+1445 {
+  name North Street
+  desc You are on North Street running north-south from here.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01422\n21454\n
+}
+
+1454 {
+  name North Street
+  desc You are on North Street running north-south from here.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01445\n21463\n
+}
+
+1463 {
+  name North Street
+  desc You are on North Street running north-south from here.\nMasons Lane is to the east.\nWind Road is to the west.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 01454\n11464\n21478\n31462\n
+}
+
+1478 {
+  name North Street
+  desc You are on North Street running north-southeast from here.\nTo the north and southeast you can make out other junctions.\n
+  flags O
+  direction 01463\n61484\n
+}
+
+1303 {
+  name Blood Walk
+  desc You are on Blood Walk running east-west from here.\n
+  flags O
+  direction 11304\n31302\n
+}
+
+1315 {
+  name Blood Walk
+  desc You are on Blood Walk running east-west from here.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11316\n31314\n
+}
+
+1366 {
+  name Masons Lane
+  desc You are on Masons Lane running east from here.\nNorth Street is to the west.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11367\n31365\n
+}
+
+1423 {
+  name Fergil Lane
+  desc You are on Fergil Lane running northeast from here.\nNorth Street is to the west.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 31422\n41395\n
+}
+
+1464 {
+  name Masons Lane
+  desc You are on Masons Lane running east from here.\nNorth Street is to the west.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11465\n31463\n
+}
+
+1484 {
+  name North Street
+  desc You are on North Street running northwest-southeast from here.\nTo the southeast you can make out other junctions.\n
+  flags O
+  direction 51478\n61492\n
+}
+
+1304 {
+  name Blood Walk
+  desc You are on Blood Walk running west-southeast from here.\n
+  flags O
+  direction 31303\n61307\n
+}
+
+1316 {
+  name Blood Walk
+  desc You are on Blood Walk running west-northeast from here.\nFergil Lane is to the southeast.\nTo the west and southeast you can make out other junctions.\n
+  flags O
+  direction 31315\n41307\n61320\n
+}
+
+1367 {
+  name Masons Lane
+  desc You are on Masons Lane running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11368\n31366\n
+}
+
+1395 {
+  name Fergil Lane
+  desc You are on Fergil Lane running east-southwest from here.\nTo the east and southwest you can make out other junctions.\n
+  flags O
+  direction 11396\n71423\n
+}
+
+1465 {
+  name Masons Lane
+  desc You are on Masons Lane running west-northeast from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 31464\n41455\n
+}
+
+1492 {
+  name North Street
+  desc You are on North Street running northwest-southeast from here.\nBurns Way is to the east.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11493\n51484\n61499\n
+}
+
+1307 {
+  name Blood Walk
+  desc You are on Blood Walk running northwest-southwest from here.\nTo the southwest you can make out other junctions.\n
+  flags O
+  direction 51304\n71316\n
+}
+
+1320 {
+  name Fergil Lane
+  desc You are on Fergil Lane running southeast from here.\nBlood Walk is to the northwest.\nTo the northwest and southeast you can make out other junctions.\n
+  flags O
+  direction 51316\n61335\n
+}
+
+1368 {
+  name Masons Lane
+  desc You are on Masons Lane running south-west from here.\nTo the south and west you can make out other junctions.\n
+  flags O
+  direction 21377\n31367\n
+}
+
+1377 {
+  name Masons Lane
+  desc You are on Masons Lane running north from here.\nFergil Lane is to the south.\nTo the south and southwest you can make out other junctions.\n
+  flags O
+  direction 01368\n21396\n
+}
+
+1396 {
+  name Fergil Lane
+  desc You are on Fergil Lane running east-west from here.\nMasons Lane is to the north and south.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01377\n11397\n21424\n31395\n
+}
+
+1424 {
+  name Masons Lane
+  desc You are on Masons Lane running south from here.\nFergil Lane is to the north.\nNewtown Way is to the east.\nTo the north,east and northeast you can make out other junctions.\n
+  flags O
+  direction 01396\n11425\n21446\n
+}
+
+1446 {
+  name Masons Lane
+  desc You are on Masons Lane running north-south from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01424\n21455\n
+}
+
+1455 {
+  name Masons Lane
+  desc You are on Masons Lane running north-southwest from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01446\n71465\n
+}
+
+1493 {
+  name Burns Way
+  desc You are on Burns Way running east from here.\nNorth Street is to the west.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11494\n31492\n
+}
+
+1499 {
+  name North Street
+  desc You are on North Street running east-northwest from here.\nTo the northwest you can make out other junctions.\n
+  flags O
+  direction 11500\n51492\n
+}
+
+1335 {
+  name Fergil Lane
+  desc You are on Fergil Lane running northwest-southeast from here.\nRainy Crescent is to the northeast.\nTo the northeast and northwest you can make out other junctions.\n
+  flags O
+  direction 41321\n51320\n61343\n
+}
+
+1397 {
+  name Fergil Lane
+  desc You are on Fergil Lane running west-northeast from here.\nTo the west and northeast you can make out other junctions.\n
+  flags O
+  direction 31396\n41378\n
+}
+
+1425 {
+  name Newtown Way
+  desc You are on Newtown Way running east from here.\nMasons Lane is to the west.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11426\n31424\n
+}
+
+1494 {
+  name Burns Way
+  desc You are on Burns Way running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11495\n31493\n
+}
+
+1500 {
+  name North Street
+  desc You are on North Street running west-southeast from here.\n
+  flags O
+  direction 31499\n61503\n
+}
+
+1321 {
+  name Rainy Crescent
+  desc You are on Rainy Crescent running east from here.\nFergil Lane is to the southwest.\nTo the southwest you can make out other junctions.\n
+  flags O
+  direction 11322\n71335\n
+}
+
+1343 {
+  name Fergil Lane
+  desc You are on Fergil Lane running northwest-southeast from here.\nTo the northwest you can make out other junctions.\n
+  flags O
+  direction 51335\n61351\n
+}
+
+1378 {
+  name Fergil Lane
+  desc You are on Fergil Lane running northeast-southwest from here.\nMeriath Road is to the east.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11379\n41369\n71397\n
+}
+
+1426 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11427\n31425\n
+}
+
+1495 {
+  name Burns Way
+  desc You are on Burns Way running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11496\n31494\n
+}
+
+1503 {
+  name North Street
+  desc You are on North Street running east-northwest from here.\n
+  flags O
+  direction 11504\n51500\n
+}
+
+1322 {
+  name Rainy Crescent
+  desc You are on Rainy Crescent running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11323\n31321\n
+}
+
+1351 {
+  name Fergil Lane
+  desc You are on Fergil Lane running south-northwest from here.\nTo the northwest you can make out other junctions.\n
+  flags O
+  direction 21369\n51343\n
+}
+
+1369 {
+  name Fergil Lane
+  desc You are on Fergil Lane running north-southwest from here.\nTo the southwest you can make out other junctions.\n
+  flags O
+  direction 01351\n71378\n
+}
+
+1379 {
+  name Meriath Road
+  desc You are on Meriath Road running east from here.\nFergil Lane is to the west.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11380\n31378\n
+}
+
+1427 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11428\n31426\n
+}
+
+1496 {
+  name Burns Way
+  desc You are on Burns Way running west-northeast from here.\n
+  flags O
+  direction 31495\n41485\n
+}
+
+1504 {
+  name North Street
+  desc You are on North Street running east-west from here.\n
+  flags O
+  direction 11505\n31503\n
+}
+
+1323 {
+  name Rainy Crescent
+  desc You are on Rainy Crescent running west-southeast from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 31322\n61336\n
+}
+
+1380 {
+  name Meriath Road
+  desc You are on Meriath Road running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11381\n31379\n
+}
+
+1428 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11429\n31427\n
+}
+
+1485 {
+  name Burns Way
+  desc You are on Burns Way running northeast-southwest from here.\n
+  flags O
+  direction 41479\n71496\n
+}
+
+1505 {
+  name North Street
+  desc You are on North Street running east-west from here.\n
+  flags O
+  direction 11506\n31504\n
+}
+
+1336 {
+  name Rainy Crescent
+  desc You are on Rainy Crescent running northeast-northwest from here.\n
+  flags O
+  direction 41324\n51323\n
+}
+
+1381 {
+  name Meriath Road
+  desc You are on Meriath Road running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11382\n31380\n
+}
+
+1429 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\nBurns Way is to the south.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 11430\n21447\n31428\n
+}
+
+1447 {
+  name Burns Way
+  desc You are on Burns Way running south from here.\nNewtown Way is to the north.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01429\n21456\n
+}
+
+1456 {
+  name Burns Way
+  desc You are on Burns Way running north-south from here.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01447\n21466\n
+}
+
+1466 {
+  name Burns Way
+  desc You are on Burns Way running north-south from here.\nWarring Lane is to the east.\nTo the north and east you can make out other junctions.\n
+  flags O
+  direction 01456\n11467\n21479\n
+}
+
+1479 {
+  name Burns Way
+  desc You are on Burns Way running north-southwest from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01466\n71485\n
+}
+
+1506 {
+  name North Street
+  desc You are on North Street running east-west from here.\n
+  flags O
+  direction 11507\n31505\n
+}
+
+1324 {
+  name Rainy Crescent
+  desc You are on Rainy Crescent running east-southwest from here.\n
+  flags O
+  direction 11325\n71336\n
+}
+
+1382 {
+  name Meriath Road
+  desc You are on Meriath Road running east-west from here.\n
+  flags O
+  direction 11383\n31381\n
+}
+
+1430 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11431\n31429\n
+}
+
+1467 {
+  name Warring Lane
+  desc You are on Warring Lane running east from here.\nBurns Way is to the west.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11468\n31466\n
+}
+
+1507 {
+  name North Street
+  desc You are on North Street running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11508\n31506\n
+}
+
+1325 {
+  name Rainy Crescent
+  desc You are on Rainy Crescent running east-west from here.\n
+  flags O
+  direction 11326\n31324\n
+}
+
+1383 {
+  name Meriath Road
+  desc You are on Meriath Road running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11384\n31382\n
+}
+
+1431 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11432\n31430\n
+}
+
+1468 {
+  name Warring Lane
+  desc You are on Warring Lane running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11469\n31467\n
+}
+
+1508 {
+  name North Street
+  desc You are on North Street running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11509\n31507\n
+}
+
+1326 {
+  name Rainy Crescent
+  desc You are on Rainy Crescent running west-southeast from here.\n
+  flags O
+  direction 31325\n61337\n
+}
+
+1384 {
+  name Meriath Road
+  desc You are on Meriath Road running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11385\n31383\n
+}
+
+1432 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11433\n31431\n
+}
+
+1469 {
+  name Warring Lane
+  desc You are on Warring Lane running east-west from here.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11470\n31468\n
+}
+
+1509 {
+  name North Street
+  desc You are on North Street running west from here.\nNeedles Street is to the east.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11510\n31508\n
+}
+
+1337 {
+  name Rainy Crescent
+  desc You are on Rainy Crescent running northwest-southeast from here.\n
+  flags O
+  direction 51326\n61344\n
+}
+
+1385 {
+  name Meriath Road
+  desc You are on Meriath Road running west from here.\nRainy Crescent is to the east.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11386\n31384\n
+}
+
+1433 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11434\n31432\n
+}
+
+1470 {
+  name Warring Lane
+  desc You are on Warring Lane running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11471\n31469\n
+}
+
+1510 {
+  name Needles Street
+  desc You are on Needles Street running northeast from here.\nNorth Street is to the west.\nTo the west and northeast you can make out other junctions.\n
+  flags O
+  direction 31509\n41501\n
+}
+
+1344 {
+  name Rainy Crescent
+  desc You are on Rainy Crescent running south-northwest from here.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 21352\n51337\n
+}
+
+1352 {
+  name Rainy Crescent
+  desc You are on Rainy Crescent running north-south from here.\nNewtown Way is to the east.\nTo the east and south you can make out other junctions.\n
+  flags O
+  direction 01344\n11353\n21370\n
+}
+
+1370 {
+  name Rainy Crescent
+  desc You are on Rainy Crescent running north-south from here.\nTo the north,south and southeast you can make out other junctions.\n
+  flags O
+  direction 01352\n21386\n
+}
+
+1386 {
+  name Rainy Crescent
+  desc You are on Rainy Crescent running north-south from here.\nMeriath Road is to the east and west.\nTo the north,east,south and west you can make out other junctions.\n
+  flags O
+  direction 01370\n11387\n21398\n31385\n
+}
+
+1398 {
+  name Rainy Crescent
+  desc You are on Rainy Crescent running north from here.\nNewtown Way is to the south.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01386\n21434\n
+}
+
+1434 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\nRainy Crescent is to the north.\nTo the north and east you can make out other junctions.\n
+  flags O
+  direction 01398\n11435\n31433\n
+}
+
+1471 {
+  name Warring Lane
+  desc You are on Warring Lane running east-west from here.\nAvatar Road is to the south.\nTo the east and south you can make out other junctions.\n
+  flags O
+  direction 11472\n21480\n31470\n
+}
+
+1480 {
+  name Avatar Road
+  desc You are on Avatar Road running south from here.\nWarring Lane is to the north.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01471\n21486\n
+}
+
+1486 {
+  name Avatar Road
+  desc You are on Avatar Road running north-south from here.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01480\n21497\n
+}
+
+1497 {
+  name Avatar Road
+  desc You are on Avatar Road running north from here.\nNeedles Street is to the south.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01486\n21501\n
+}
+
+1501 {
+  name Needles Street
+  desc You are on Needles Street running southeast-southwest from here.\nAvatar Road is to the north.\nTo the north and southwest you can make out other junctions.\n
+  flags O
+  direction 01497\n61511\n71510\n
+}
+
+1353 {
+  name Newtown Way
+  desc You are on Newtown Way running east from here.\nRainy Crescent is to the west.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11354\n31352\n
+}
+
+1387 {
+  name Meriath Road
+  desc You are on Meriath Road running southeast from here.\nRainy Crescent is to the west.\nTo the west and southeast you can make out other junctions.\n
+  flags O
+  direction 31386\n61399\n
+}
+
+1435 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11436\n31434\n
+}
+
+1472 {
+  name Warring Lane
+  desc You are on Warring Lane running east-west from here.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11473\n31471\n
+}
+
+1511 {
+  name Needles Street
+  desc You are on Needles Street running east-northwest from here.\nTo the northwest you can make out other junctions.\n
+  flags O
+  direction 11512\n51501\n
+}
+
+1354 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11355\n31353\n
+}
+
+1399 {
+  name Meriath Road
+  desc You are on Meriath Road running northwest from here.\nNewtown Way is to the south.\nTo the south and northwest you can make out other junctions.\n
+  flags O
+  direction 21436\n51387\n
+}
+
+1436 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\nMeriath Road is to the north and south.\nTo the north,south and west you can make out other junctions.\n
+  flags O
+  direction 01399\n11437\n21448\n31435\n
+}
+
+1448 {
+  name Meriath Road
+  desc You are on Meriath Road running south from here.\nNewtown Way is to the north.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01436\n21457\n
+}
+
+1457 {
+  name Meriath Road
+  desc You are on Meriath Road running north from here.\nWarring Lane is to the south.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01448\n21473\n
+}
+
+1473 {
+  name Warring Lane
+  desc You are on Warring Lane running east-west from here.\nMeriath Road is to the north.\nTo the north,east and west you can make out other junctions.\n
+  flags O
+  direction 01457\n11474\n31472\n
+}
+
+1512 {
+  name Needles Street
+  desc You are on Needles Street running west-northeast from here.\n
+  flags O
+  direction 31511\n41502\n
+}
+
+1355 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11356\n31354\n
+}
+
+1437 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\nTo the west and northwest you can make out other junctions.\n
+  flags O
+  direction 11438\n31436\n
+}
+
+1474 {
+  name Warring Lane
+  desc You are on Warring Lane running east-west from here.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11475\n31473\n
+}
+
+1502 {
+  name Needles Street
+  desc You are on Needles Street running northeast-southwest from here.\n
+  flags O
+  direction 41498\n71512\n
+}
+
+1356 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\n
+  flags O
+  direction 11357\n31355\n
+}
+
+1438 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11439\n31437\n
+}
+
+1475 {
+  name Warring Lane
+  desc You are on Warring Lane running west from here.\nNeedles Street is to the south.\nTo the south and west you can make out other junctions.\n
+  flags O
+  direction 21481\n31474\n
+}
+
+1481 {
+  name Needles Street
+  desc You are on Needles Street running south from here.\nWarring Lane is to the north.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01475\n21487\n
+}
+
+1487 {
+  name Needles Street
+  desc You are on Needles Street running north-south from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01481\n21498\n
+}
+
+1498 {
+  name Needles Street
+  desc You are on Needles Street running north-southwest from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01487\n71502\n
+}
+
+1357 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\n
+  flags O
+  direction 11358\n31356\n
+}
+
+1439 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\n
+  flags O
+  direction 11440\n31438\n
+}
+
+1358 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\n
+  flags O
+  direction 11359\n31357\n
+}
+
+1440 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\n
+  flags O
+  direction 11441\n31439\n
+}
+
+1359 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\n
+  flags O
+  direction 11360\n31358\n
+}
+
+1441 {
+  name Newtown Way
+  desc You are on Newtown Way running west-northeast from here.\n
+  flags O
+  direction 31440\n41400\n
+}
+
+1360 {
+  name Newtown Way
+  desc You are on Newtown Way running east-west from here.\n
+  flags O
+  direction 11361\n31359\n
+}
+
+1400 {
+  name Newtown Way
+  desc You are on Newtown Way running northeast-southwest from here.\n
+  flags O
+  direction 41388\n71441\n
+}
+
+1361 {
+  name Newtown Way
+  desc You are on Newtown Way running west-southeast from here.\n
+  flags O
+  direction 31360\n61371\n
+}
+
+1388 {
+  name Newtown Way
+  desc You are on Newtown Way running northeast-southwest from here.\n
+  flags O
+  direction 41371\n71400\n
+}
+
+1371 {
+  name Newtown Way
+  desc You are on Newtown Way running northwest-southwest from here.\n
+  flags O
+  direction 51361\n71388\n
+}
+

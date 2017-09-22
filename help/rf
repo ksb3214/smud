@@ -1,0 +1,10 @@
+Friends Channel
+
+You may speak to all the people for whon you have set the `friend' flag 
+using the friends channel.  You may also emote on this channel.
+
+Synatx:
+tf [message]
+rf [emote]
+
+See also: showlist.

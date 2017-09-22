@@ -1,0 +1,3 @@
+CNT=`ls -l | wc -l`
+echo $(( $CNT - 3 ))
+

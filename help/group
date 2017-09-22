@@ -1,0 +1,12 @@
+Group
+
+The command `group' without arguments will show all the members of your current 
+group, the default being just you, with current values of hp, mana, movement 
+and xp.
+
+If another player is following you then you may group them using:
+       group <playername>
+
+Players may leave the group by ceasing to follow you.
+
+See also: grouping, gsay, gtell, gemote, follow.

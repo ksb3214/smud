@@ -1,0 +1,50 @@
+# Magic scrolls
+# this file will use vnums 2000-2599
+# 44/magic
+# 45/.discipline
+# 46/..simple,B
+# 47/..elementalism,B
+# 48/..necromancy,B
+# 49/..psych,B
+# 50/..kinesis,B
+# 51/..alchemy,B
+# 52/..witchcraft,B
+
+# languages
+# 81/..common,B
+# 82/..latin,B
+# 83/..ancient,B
+# 84/..mayan,B
+# 85/..sanscrit,B
+# 86/..inuit,B
+
+2000 {
+	name Health
+	shortdesc a scroll of health
+	type 2
+	weight 1
+	cost 500
+	info 1
+	discipline 46
+	writing This scroll allows you to restore a players health (or your own) by a certain factor, recite at your target for full effect.  It may only be used once.
+	language  81
+}
+
+2001 {
+	name Energy
+	shortdesc a scroll of energy
+	type 2
+	weight 1
+	cost 200
+	info 1
+	discipline 46
+	writing This will restore some movement you have lost through everyday adventuring.
+	language  81
+}
+
+0 {
+	type 2
+	weight 1
+	longdesc This is a small tube with a piece of rolled paper inside.
+}
+

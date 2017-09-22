@@ -1,0 +1,16 @@
+Areas
+
+Typing `areas' will list all available areas.  The values before the area
+name shows the current minimum and maximum `rating' values of the mobs in 
+that area as a guide for how difficult the area is.  This is a dynamic value
+so it may be an idea to check vefore travelling to an area...
+
+There are two sorts of area - `real' locations that a UK road map will guide
+you through, and `fantasy' areas that are reached through transportation.
+
+Anyone can submit an area. The area writing guide is available on the SMUD
+webpages at: www.amber.org.uk/~smud/development/areaguide.html or on request
+from any immortal.
+Areas should be submitted to: smud@amber.org.uk 
+
+See also: help rating

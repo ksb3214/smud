@@ -1,0 +1,13 @@
+Pager
+
+Every player on SMUD has a pager. This can be used for sending short messages,
+even when that player is not online. Paging is most useful if the person you
+wish to contact may miss a tell i.e. through fighting or being afk. Short
+messages such as `want to group?', `email me' or `back in 20 mins' work well.
+You will be informed when you log on if you have any new messages and if you
+recieve a message whilst online your pager will beep at you.
+
+Syntax:
+page send [player] [message] - sends a message
+page read - reads all your messages
+page delete [message number] - permanently deletes that message from your pager

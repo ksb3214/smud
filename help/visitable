@@ -1,0 +1,9 @@
+Making your homeroom accessable
+
+Your homeroom is open to all players by default (you can see this in your
+`score' information).  To toggle this use:
+
+       visitable    : your home is open to any player while you are online
+       unvisitable  : your home is closed to any player without invite
+
+See also: invite, key, homerooms.

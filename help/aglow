@@ -1,0 +1,4 @@
+Syntax: cast aglow [object]
+
+Casting this spell on a holdable object causes it to glow with ethereal fire.
+The object can then be used as a torch.

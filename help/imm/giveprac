@@ -1,0 +1,7 @@
+GivePrac
+
+With this command you can reward a particularly good player with some extra
+practice points.  It can also be used by you to test new skills code out.
+
+Syntax: giveprac [player] [number]
+

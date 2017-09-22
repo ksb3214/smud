@@ -1,0 +1,4 @@
+Syntax: cast ablation [object] [character]
+
+This spell destroys an object that is either loose in the room, or carried by a
+character, by increasing its age so it weathers and melts.

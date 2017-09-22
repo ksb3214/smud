@@ -1,0 +1,18 @@
+Watch
+
+For debugging or monitoring of harrassment, you may wish to observe what
+a player sees.  This is done using:
+
+watch [player]
+
+A message is flashed on the player's screen so they are aware they are
+being watched.  Everything they recieve will be echoed to your own screen
+ so you do not need to be following them.  Indeed, it is better if you are
+ in your home room so as not to be confused.  Only one IMM may watch a 
+ specific player at one time, but as an IMM you may watch more than one player.
+
+The watch command is a toggle, and can be stopped by retyping watch [player].
+
+Watch should only be used with the full consent of the player being watched
+unless in exceptional circumstances.  Either way, the watched player is
+informed.

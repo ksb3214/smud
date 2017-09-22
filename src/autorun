@@ -1,0 +1,30 @@
+#!/bin/sh
+#SMUD - Slight MUD
+#(c) 2000, Karl Bastiman, Janet Hyde
+#
+#Title   :autorun
+#Purpose :Keep smud alive in the event of a crash/reboot
+#
+#Date     Ver  Who Why
+#-------------------------------------------------------------
+#24-06-00 0.00 ksb First Version
+#
+
+while ( : ) do
+
+  DATE=`date`
+  echo "autorun starting game $DATE" >> smudlog
+  echo "running smud" >> smudlog
+
+  ./smud >> smudlog
+
+  if [ -r .killscript ]; then
+    DATE=`date`;
+    echo "autoscript killed $DATE" >> smudlog
+    rm .killscript
+    exit
+  fi
+
+  sleep 20
+
+done

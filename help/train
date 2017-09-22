@@ -1,0 +1,9 @@
+Train 
+
+Syntax: train [attribute]
+
+The `train' command allows you to exchange practise points for increases in
+one of your five attributes.  In order to train you must be in your Guild
+training room (even if you are an adventurer).
+
+See also: attributes, guilds.

@@ -1,0 +1,7 @@
+Look
+
+When you enter a room, SMUD will automatically report what and whom 
+you can see.  You can repeat this description at any time by typing
+`look'.
+
+To look in more detail at players, mobs and objects see `help examine'.

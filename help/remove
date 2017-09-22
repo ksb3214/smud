@@ -1,0 +1,9 @@
+Remove
+
+If you wish to stop holding or wearing an item use:
+
+     remove [item]
+
+This will return the item to the `carrying' part of your inventory.
+
+See also: wear, inventory.

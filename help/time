@@ -1,0 +1,5 @@
+Time
+
+The `time' command shows you the game time and date and also
+information about when SMUD startedup (since last hard reboot)
+and the current system time.

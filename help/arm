@@ -1,0 +1,7 @@
+Arming bombs
+
+Bombs need to be armed before they will detonate.  To arm a bomb you must have it in your inventory and se `arm [item]'.  The bomb will now be live and will start it's countdown the next time it touches the ground (dropped).
+
+An armed dropped bomb will tick down until it explodes, there is no way of knowing how long this fuse will be, but don't be around when it explodes...
+
+See also: help throw.

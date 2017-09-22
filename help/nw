@@ -1,0 +1,10 @@
+Movement
+
+You may move in 10 directions on SMUD:
+n, ne, e, se, s, sw, w, nw, up and down.
+
+Not all directions may be accessable from any one room, and some exits may only
+be one way, so take care when mapping areas. You may also need encounter doors.  
+Some locations may only be reached by transportation using objects...
+
+See also: open, close, use.

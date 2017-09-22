@@ -1,0 +1,5 @@
+Syntax: cast allergy [character] [object]
+
+This spell allows you to make a character allergis to a specific object for the
+duration of the spell. If the victim carries an object to which they are
+allergic then they lose health.

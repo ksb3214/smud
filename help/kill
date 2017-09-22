@@ -1,0 +1,8 @@
+Kill
+
+Syntax:
+kill [mob]
+
+Kill causes you to attack the specified mob in your current room. There will be
+a short pause while you prepare to attack (draw your weapons etc) before the
+combat begins properly, much can happen during this short time...

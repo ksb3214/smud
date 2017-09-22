@@ -1,0 +1,15 @@
+Give
+
+You may wish to give some of your equipment or money to another character,
+whether they are a secondary character or a friend or clan member.
+
+Syntax:   give [item] to [player]
+          give [amount] coins to [player]
+
+In both of these commands you may omit the `to' for brevity.  
+
+In order to `give' you must be carrying (not wearing or wielding) the
+object or have at least [amount] of coins in your purse (rather than your
+bank account.
+
+See also: remove, take, drop, banking.

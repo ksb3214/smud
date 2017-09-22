@@ -1,0 +1,17 @@
+Read
+
+Syntax:  read [item]
+         recite [item] [player]
+
+From time to time you may need to read signs, notices, books or scrolls as
+you wander around SMUD.  Whether you can read an item depends on how well
+you understand the language.  Most signs are written in the common tongue.
+(see `skills other')
+
+If you want to read an item out loud, then you can use `recite'.  Reciting 
+is necessary for magical scrolls and will be heard by everyone in the room.
+If you want to read something to a specific player (i.e. take them to one 
+side and whisper to them) then use `recite [item] [player]'.  Without a
+player's name recite will be to the room.
+
+See also: skills, magic, magic-disciplines, sign.

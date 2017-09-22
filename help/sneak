@@ -1,0 +1,5 @@
+Sneak
+
+Syntax: sneak [dir]
+
+Will atempt to move in [dir] without informing snyone in either you current location or the target location, if you are successfull even judges and shopkeepers will be unaware of your movement.

@@ -1,0 +1,5 @@
+Exits
+
+The `exits' command lists all the exits from your current room by
+direction and the room to which that exits leads.  Directional exits 
+are shown automatically on `look'.

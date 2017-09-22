@@ -1,0 +1,11 @@
+Wear
+
+In order to benefit from the armour objects that you may pick up from
+around SMUD you need to `wear' them:
+
+wear [object]
+
+You may only wear one item on each part of your body.  You can see what
+you are wearing with the `inventory' command.
+
+See also: wield, inventory, remove.

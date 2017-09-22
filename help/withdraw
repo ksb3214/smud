@@ -1,0 +1,14 @@
+Banking
+
+No more do you need to hide you gold under the mattress!  ATMs (automatic
+tellar machines) are scattered through SMUD.  All ATMs work via retina scan
+and can thus only be used by you.  When you are in a room containing an ATM
+you may use the banking commands: balance, deposit, withdraw.
+
+The command `balance' will show you current bank balance, which is completely
+different to your purse balance.  To make a deposit use: `deposit <amount>',
+and similarly to withdraw use `withdraw <amount>'. 
+
+Interest is paid on your banked balance per SMUD week and will be proportionate
+to your active time over this period and the current interest rate.  You can 
+see the amount of interest you have been paid using the `balance' command.

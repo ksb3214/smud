@@ -1,0 +1,4 @@
+Syntax: cast boost [character]
+
+The person on which this spell is cast recieves a temproary boost to their
+health, movement and mana as a percentage of their current maximas.

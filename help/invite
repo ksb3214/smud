@@ -1,0 +1,13 @@
+Allowing others to enter your homeroom
+
+If you would like your homeroom to be acessable to other players when you
+are not online then you need to give them a key:
+        key playername
+
+If your homeroom is unvisitable but you would like some players to visit you
+then you must give them an invite:
+        invite playername
+
+You can see who has keys or invites using `showlist'.
+
+See also: visiatble, unvisitable, homerooms, showlist.

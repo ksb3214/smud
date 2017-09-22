@@ -1,0 +1,5 @@
+Idle
+
+To find out whether the person you have been talking to for the past hour
+is still there or not, use the `idle' command.  This shows all the players 
+who are not currently active and their preiod of inactivity.

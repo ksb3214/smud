@@ -1,0 +1,11 @@
+Afk
+
+Syntax:
+aaffkk [[ttiimmee]]
+
+This command indicates on the who list that you are not present at the keyboard
+or are distracted doing other things. The time parameter is optional and counts
+down the time you are away so other players will know when you are likely to
+return.
+
+If you are idle for 10 minutes then you go AFK automatically to protect you from aggressive mobs until you type your next command.

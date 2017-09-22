@@ -1,0 +1,4 @@
+Syntax: cast blind [character]
+
+Blinding a character decreases their fighting ability and will stop them from
+seeing objects, mobs, players etc.

@@ -1,0 +1,1806 @@
+2900 {
+	name Before the Gatehouse
+	desc You stand just outside a well fortified gatehouse in the Nevada desert.  The gatehouse forms the only entrance to a large area at the base of a mountain separated from the rest of the desert by high, razor sharp barbed wire fences.  Military looking people and dogs patrol the whole area keeping a watch out for anyone who shouldn't be there.  The main entrance to the compound is through the gatehouse to the north.
+	flags CO
+	direction 002901\n102942\n203064\n302954\n
+}
+
+2901 {
+	name The Gatehouse
+	desc This fortified installation is here to stop anyone from penetrating this secure compound.  As you show the guard manning the barrier your ID card he salutes you and raises the barrier to allow you to pass.
+	flags CO
+	direction 002902\n102966\n202900\n
+}
+
+2902 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002909\n102903\n202901\n302904\n402910\n502908\n
+}
+
+2903 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002910\n102905\n302902\n402911\n502909\n
+}
+
+2904 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002908\n102902\n302906\n402909\n502907\n
+}
+
+2905 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002911\n102914\n302903\n402915\n502910\n
+}
+
+2906 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002907\n102904\n302912\n402908\n502913\n
+}
+
+2907 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002924\n102908\n202906\n302913\n402926\n502916\n602904\n702912\n
+}
+
+2908 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002926\n102909\n202904\n302907\n402933\n502924\n602902\n702906\n
+}
+
+2909 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002933\n102910\n202902\n302908\n402934\n502926\n602903\n702904\n
+}
+
+2910 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002934\n102911\n202903\n302909\n402936\n502933\n602905\n702902\n
+}
+
+2911 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002936\n102915\n202905\n302910\n402938\n502934\n602914\n702903\n
+}
+
+2912 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002913\n102906\n402907\n
+}
+
+2913 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002916\n102907\n202912\n402924\n602906\n
+}
+
+2914 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002915\n302905\n502911\n
+}
+
+2915 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002938\n202914\n302911\n502936\n702905\n
+}
+
+2916 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002917\n102924\n202913\n402923\n602907\n
+}
+
+2917 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002918\n102923\n202916\n402922\n602924\n
+}
+
+2918 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002919\n102922\n202917\n402920\n602923\n
+}
+
+2919 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 102920\n202918\n602922\n
+}
+
+2920 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 202922\n302919\n602921\n702918\n
+}
+
+2921 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 102927\n202925\n302922\n502920\n602932\n702923\n
+}
+
+2922 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002920\n102921\n202923\n302918\n502919\n602925\n702917\n
+}
+
+2923 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002922\n102925\n202924\n302917\n402921\n502918\n602926\n702916\n
+}
+
+2924 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002923\n102926\n202907\n302916\n402925\n502917\n602908\n702913\n
+}
+
+2925 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002921\n102932\n202926\n302923\n402927\n502922\n602933\n702924\n
+}
+
+2926 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002925\n102933\n202908\n302924\n402932\n502923\n602909\n702907\n
+}
+
+2927 {
+	name Bunker Entrance
+	desc You stand before the huge reinforced blast doors of an underground nuclear bunker.  Four armed soldiers stand guard making sure only authorised personnel enter the bunker.
+	flags CO
+	direction 002940\n102928\n202932\n302921\n602935\n702925\n
+}
+
+2928 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 102929\n202935\n302927\n602937\n702932\n
+}
+
+2929 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 102931\n202937\n302928\n402930\n602939\n702935\n
+}
+
+2930 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 202931\n702929\n
+}
+
+2931 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002930\n202939\n302929\n702937\n
+}
+
+2932 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002927\n102935\n202933\n302925\n402928\n502921\n602934\n702926\n
+}
+
+2933 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002932\n102934\n202909\n302926\n402935\n502925\n602910\n702908\n
+}
+
+2934 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002935\n102936\n202910\n302933\n402937\n502932\n602911\n702909\n
+}
+
+2935 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002928\n102937\n202934\n302932\n402929\n502927\n602936\n702933\n
+}
+
+2936 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002937\n102938\n202911\n302934\n402939\n502935\n602915\n702910\n
+}
+
+2937 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002929\n102939\n202936\n302935\n402931\n502928\n602938\n702934\n
+}
+
+2938 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002939\n202915\n302936\n502937\n702911\n
+}
+
+2939 {
+	name Secure Compound
+	desc You are in a secure compound in the Nevada desert.  All around you are military vehicles, crates of unknown origin and soldiers going about their tasks.  Surrounding the whole area is a heavy chainlink fence topped with razor wire, and patrolled by guards with vicious looking dogs.
+	flags CO
+	direction 002931\n202938\n302937\n502929\n702936\n
+}
+
+2940 {
+	name Entering the Bunker
+	desc You are standing under the archway entrance to the bunker built into the side of the mountain.  To the south, in blinding sunlight, you can see soldiers milling around.  To the north it all looks dark, but maybe that's just because your eyes haven't adjusted after the glare outside.
+	flags C
+	direction 002941\n202927\n
+}
+
+2941 {
+	name Deeper into the mountain
+	desc You make your way along a wide dark passage that seems to gently slope downwards deeper into the mountain.
+	flags C
+	direction 002967\n202940\n
+}
+
+2942 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 102943\n203066\n302900\n
+}
+
+2943 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 102944\n203068\n302942\n
+}
+
+2944 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 102945\n203070\n302943\n
+}
+
+2945 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 102946\n203072\n302944\n
+}
+
+2946 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002947\n103025\n203074\n302945\n
+}
+
+2947 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002948\n103024\n202946\n
+}
+
+2948 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002949\n103023\n202947\n
+}
+
+2949 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002950\n103022\n202948\n
+}
+
+2950 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002951\n103021\n202949\n
+}
+
+2951 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002952\n103020\n202950\n
+}
+
+2952 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002953\n103019\n202951\n
+}
+
+2953 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 103018\n202952\n
+}
+
+2954 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 102900\n203062\n302955\n
+}
+
+2955 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 102954\n203060\n302956\n
+}
+
+2956 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 102955\n203059\n302957\n
+}
+
+2957 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 102956\n203056\n302958\n
+}
+
+2958 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002959\n102957\n203054\n303041\n
+}
+
+2959 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002960\n202958\n303040\n
+}
+
+2960 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002961\n202959\n303039\n
+}
+
+2961 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002962\n202960\n303038\n
+}
+
+2962 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002963\n202961\n303037\n
+}
+
+2963 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002964\n202962\n303036\n
+}
+
+2964 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002965\n202963\n303035\n
+}
+
+2965 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 202964\n303034\n
+}
+
+2966 {
+	name Guards Hut
+	desc This is a small hut where the guard on duty at the gate can stay out of the glare of the desert sun.  Scattered on the table are various pieced of assorted paperwork.  In one corner on a bench is a radio system.
+	flags C
+	direction 302901\n
+}
+
+2967 {
+	name Deeper into the mountain
+	desc You make your way along a wide dark passage that seems to gently slope downwards deeper into the mountain.
+	flags C
+	direction 002968\n202941\n
+}
+
+2968 {
+	name Deeper into the mountain
+	desc You make your way along a wide dark passage that seems to gently slope downwards deeper into the mountain.
+	flags C
+	direction 002971\n102969\n202967\n302970\n
+}
+
+2969 {
+	name Barracks
+	desc This room is lined with bunk-beds.
+	flags C
+	direction 302968\n
+}
+
+2970 {
+	name Barracks
+	desc Steel bunk-beds line the walls, all alike and all neatly made.
+	flags C
+	direction 102968\n
+}
+
+2971 {
+	name Deeper into the mountain
+	desc You make your way along a wide dark passage that seems to gently slope downwards deeper into the mountain.
+	flags C
+	direction 002972\n202968\n
+}
+
+2972 {
+	name Intersection
+	desc You stand at the intersection of two large passageways.  To the south you can see the faint glow of daylight.
+	flags C
+	direction 102973\n202971\n302990\n
+}
+
+2973 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 102974\n302972\n
+}
+
+2974 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and inertly glow.
+	flags C
+	direction 002977\n102975\n302973\n
+}
+
+2975 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and inertly glow.
+	flags C
+	direction 102976\n203010\n302974\n
+}
+
+2976 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and inertly glow.
+	flags C
+	direction 002978\n102979\n302975\n
+}
+
+2977 {
+	name Debriefing Room
+	desc The center of this room is dominated by a huge steel table around which a number of chairs are laid out.  All over the table are scattered maps and paperwork of all kinds.  A large white-board covers one end wall and various diagrams are crawled on it.
+	flags C
+	direction 202974\n
+}
+
+2978 {
+	name Debriefing room
+	desc The center of this room is dominated by a huge steel table around which a number of chairs are laid out.  All over the table are scattered maps and paperwork of all kinds.  A large white-board covers one end wall and various diagrams are crawled on it.
+	flags C
+	direction 202976\n
+}
+
+2979 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 102980\n302976\n
+}
+
+2980 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 102981\n302979\n
+}
+
+2981 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 002982\n202985\n302980\n
+}
+
+2982 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 002983\n102989\n202981\n
+}
+
+2983 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 102984\n202982\n
+}
+
+2984 {
+	name Stargate Control Center 1
+	desc This room houses all the equipment needed to control the massive Stargate ring in the large open area you see through the window.  Banks and banks of computer equipment control and monitor everything that happens with the Stargate.
+	flags C
+	direction 302983\n
+}
+
+2985 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 002981\n102988\n202986\n
+}
+
+2986 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 002985\n102987\n
+}
+
+2987 {
+	name Stargate Control Center 2
+	desc This room houses all the equipment needed to control the massive Stargate ring in the large open area you see through the window.  Banks and banks of computer equipment control and monitor everything that happens with the Stargate.
+	flags C
+	direction 302986\n
+}
+
+2988 {
+	name Stargate Chamber 2
+	desc This is a large open area who's most prominent feature is a huge metallic ring standing in the center of the room.  Around the edge of the ring are strange symbols and shapes.  A ramp slopes up to the ring and stops at a large steel iris shutter.
+	flags C
+	direction 302985\n
+}
+
+2989 {
+	name Stargate Chamber 1
+	desc This is a large open area who's most prominent feature is a huge metallic ring standing in the center of the room.  Around the edge of the ring are strange symbols and shapes.  A ramp slopes up to the ring and stops at a large steel iris shutter.
+	flags C
+	direction 302982\n
+}
+
+2990 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 102972\n302991\n
+}
+
+2991 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 002992\n102990\n
+}
+
+2992 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 002993\n202991\n
+}
+
+2993 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 002994\n202992\n
+}
+
+2994 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 003016\n103004\n202993\n302995\n
+}
+
+2995 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 102994\n302996\n
+}
+
+2996 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 003015\n102995\n302997\n
+}
+
+2997 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 002998\n102996\n
+}
+
+2998 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 002999\n202997\n
+}
+
+2999 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 003000\n202998\n
+}
+
+3000 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 103001\n202999\n
+}
+
+3001 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 103002\n303000\n
+}
+
+3002 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 103003\n203013\n303001\n
+}
+
+3003 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 103007\n303002\n
+}
+
+3004 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 103005\n302994\n
+}
+
+3005 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 003017\n103006\n303004\n
+}
+
+3006 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 003012\n303005\n
+}
+
+3007 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 103008\n203014\n303003\n
+}
+
+3008 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 103009\n303007\n
+}
+
+3009 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 203011\n303008\n
+}
+
+3010 {
+	name Debriefing Room
+	desc The center of this room is dominated by a huge steel table around which a number of chairs are laid out.  All over the table are scattered maps and paperwork of all kinds.  A large white-board covers one end wall and various diagrams are crawled on it.
+	flags C
+	direction 002975\n
+}
+
+3011 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 003009\n203012\n
+}
+
+3012 {
+	name Wide Corridor
+	desc This is a wide steel-clad corridor.  Strip lighting along the arched roof gives everything a pale and unearthly glow.
+	flags C
+	direction 003011\n203006\n
+}
+
+3013 {
+	name Office
+	desc This is a large office.  In the center is a massive mahogany desk.  Littering the desk are various pieces of paperwork and some ornaments.  Behind the desk stands the American flag on a short pole.
+	flags C
+	direction 003002\n
+}
+
+3014 {
+	name Office
+	desc This is a large office.  In the center is a massive mahogany desk.  Littering the desk are various pieces of paperwork and some ornaments.  Behind the desk stands the American flag on a short pole.
+	flags C
+	direction 003007\n
+}
+
+3015 {
+	name Office
+	desc This is a large office.  In the center is a massive mahogany desk.  Littering the desk are various pieces of paperwork and some ornaments.  Behind the desk stands the American flag on a short pole.
+	flags C
+	direction 202996\n
+}
+
+3016 {
+	name Refectory
+	desc This is a large room laid out with a number of long tables.  At one end a large hatchway opens up into the kitchens where you can select food from the delicious government approved military menu.
+	flags C
+	direction 202994\n
+}
+
+3017 {
+	name Office
+	desc This is a large office.  In the center is a massive mahogany desk.  Littering the desk are various pieces of paperwork and some ornaments.  Behind the desk stands the American flag on a short pole.
+	flags C
+	direction 203005\n
+}
+
+3018 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 103026\n203019\n302953\n
+}
+
+3019 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003018\n103027\n203020\n302952\n
+}
+
+3020 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003019\n103028\n203021\n302951\n
+}
+
+3021 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003020\n103029\n203022\n302950\n
+}
+
+3022 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003021\n103030\n203023\n302949\n
+}
+
+3023 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003022\n103031\n203024\n302948\n
+}
+
+3024 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003023\n103032\n203025\n302947\n
+}
+
+3025 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003024\n103033\n203076\n302946\n
+}
+
+3026 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003083\n103080\n203027\n303018\n
+}
+
+3027 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003026\n103081\n203028\n303019\n
+}
+
+3028 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003027\n103082\n203029\n303020\n
+}
+
+3029 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003028\n103113\n203030\n303021\n
+}
+
+3030 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003029\n103114\n203031\n303022\n
+}
+
+3031 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003030\n103115\n203032\n303023\n
+}
+
+3032 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003031\n103116\n203033\n303024\n
+}
+
+3033 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003032\n203078\n303025\n
+}
+
+3034 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003085\n102965\n203035\n303042\n
+}
+
+3035 {
+	name In there Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003034\n102964\n203036\n303043\n
+}
+
+3036 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003035\n102963\n203037\n303044\n
+}
+
+3037 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003036\n102962\n203038\n303045\n
+}
+
+3038 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003037\n102961\n203039\n303046\n
+}
+
+3039 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003038\n102960\n203040\n303047\n
+}
+
+3040 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003039\n102959\n203041\n303048\n
+}
+
+3041 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003040\n102958\n203051\n303049\n
+}
+
+3042 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003086\n103034\n203043\n303089\n
+}
+
+3043 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003042\n103035\n203044\n303090\n
+}
+
+3044 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003043\n103036\n203045\n303092\n
+}
+
+3045 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003044\n103037\n203046\n303095\n
+}
+
+3046 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003045\n103038\n203047\n303096\n
+}
+
+3047 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003046\n103039\n203048\n303098\n
+}
+
+3048 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003047\n103040\n203049\n303099\n
+}
+
+3049 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003048\n103041\n203050\n303100\n
+}
+
+3050 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003049\n103051\n203052\n303101\n
+}
+
+3051 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003041\n103054\n203053\n303050\n
+}
+
+3052 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003050\n103053\n203119\n303102\n
+}
+
+3053 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003051\n103055\n203120\n303052\n
+}
+
+3054 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002958\n103056\n203055\n303051\n
+}
+
+3055 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003054\n103057\n203123\n303053\n
+}
+
+3056 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002957\n103059\n203057\n303054\n
+}
+
+3057 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003056\n103058\n203124\n303055\n
+}
+
+3058 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003059\n103061\n203126\n303057\n
+}
+
+3059 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002956\n103060\n203058\n303056\n
+}
+
+3060 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002955\n103062\n203061\n303059\n
+}
+
+3061 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003060\n103063\n203128\n303058\n
+}
+
+3062 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002954\n103064\n203063\n303060\n
+}
+
+3063 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003062\n103065\n203129\n303061\n
+}
+
+3064 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002900\n103066\n203065\n303062\n
+}
+
+3065 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003064\n103067\n203130\n303063\n
+}
+
+3066 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002942\n103068\n203067\n303064\n
+}
+
+3067 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003066\n103069\n203131\n303065\n
+}
+
+3068 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002943\n103070\n203069\n303066\n
+}
+
+3069 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003068\n103071\n203141\n303067\n
+}
+
+3070 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002944\n103072\n203071\n303068\n
+}
+
+3071 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003070\n103073\n203142\n303069\n
+}
+
+3072 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002945\n103074\n203073\n303070\n
+}
+
+3073 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003072\n103075\n203143\n303071\n
+}
+
+3074 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 002946\n103076\n203075\n303072\n
+}
+
+3075 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003074\n103077\n203147\n303073\n
+}
+
+3076 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003025\n103078\n203077\n303074\n
+}
+
+3077 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003076\n103079\n203144\n303075\n
+}
+
+3078 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003033\n203079\n303076\n
+}
+
+3079 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003078\n303077\n
+}
+
+3080 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003084\n103155\n203081\n303026\n
+}
+
+3081 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003080\n103156\n203082\n303027\n
+}
+
+3082 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003081\n103157\n203113\n303028\n
+}
+
+3083 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 103084\n203026\n
+}
+
+3084 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 203080\n303083\n
+}
+
+3085 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 203034\n303086\n
+}
+
+3086 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003087\n103085\n203042\n303088\n
+}
+
+3087 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 203086\n
+}
+
+3088 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 103086\n203089\n
+}
+
+3089 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003088\n103042\n203090\n
+}
+
+3090 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003089\n103043\n203092\n303091\n
+}
+
+3091 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 103090\n203093\n
+}
+
+3092 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003090\n103044\n203095\n303093\n
+}
+
+3093 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003091\n103092\n203094\n
+}
+
+3094 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003093\n103095\n203097\n
+}
+
+3095 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003092\n103045\n203096\n303094\n
+}
+
+3096 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003095\n103046\n203098\n303097\n
+}
+
+3097 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003094\n103096\n203103\n
+}
+
+3098 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003096\n103047\n203099\n303103\n
+}
+
+3099 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003098\n103048\n203100\n303104\n
+}
+
+3100 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003099\n103049\n203101\n303105\n
+}
+
+3101 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003100\n103050\n203102\n303106\n
+}
+
+3102 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003101\n103052\n203118\n303107\n
+}
+
+3103 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003097\n103098\n203104\n303108\n
+}
+
+3104 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003103\n103099\n203105\n303109\n
+}
+
+3105 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003104\n103100\n203106\n303110\n
+}
+
+3106 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003105\n103101\n203107\n303111\n
+}
+
+3107 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003106\n103102\n203117\n303112\n
+}
+
+3108 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 103103\n203109\n
+}
+
+3109 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003108\n103104\n203110\n
+}
+
+3110 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003109\n103105\n203111\n
+}
+
+3111 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003110\n103106\n203112\n
+}
+
+3112 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003111\n103107\n
+}
+
+3113 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003082\n203114\n303029\n
+}
+
+3114 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003113\n203115\n303030\n
+}
+
+3115 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003114\n203116\n303031\n
+}
+
+3116 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003115\n303032\n
+}
+
+3117 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003107\n103118\n
+}
+
+3118 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003102\n103119\n203121\n303117\n
+}
+
+3119 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003052\n103120\n203122\n303118\n
+}
+
+3120 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003053\n103123\n303119\n
+}
+
+3121 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003118\n103122\n
+}
+
+3122 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003119\n303121\n
+}
+
+3123 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003055\n103124\n303120\n
+}
+
+3124 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003057\n103126\n203125\n303123\n
+}
+
+3125 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003124\n103127\n
+}
+
+3126 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003058\n103128\n203127\n303124\n
+}
+
+3127 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003126\n103132\n303125\n
+}
+
+3128 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003061\n103129\n203132\n303126\n
+}
+
+3129 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003063\n103130\n203133\n303128\n
+}
+
+3130 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003065\n103131\n203134\n303129\n
+}
+
+3131 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003067\n103141\n203135\n303130\n
+}
+
+3132 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003128\n103133\n303127\n
+}
+
+3133 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003129\n103134\n203136\n303132\n
+}
+
+3134 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003130\n103135\n203137\n303133\n
+}
+
+3135 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003131\n103140\n203138\n303134\n
+}
+
+3136 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003133\n103137\n
+}
+
+3137 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003134\n103138\n303136\n
+}
+
+3138 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003135\n103139\n303137\n
+}
+
+3139 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003140\n103151\n203154\n303138\n
+}
+
+3140 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003141\n103150\n203139\n303135\n
+}
+
+3141 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003069\n103142\n203140\n303131\n
+}
+
+3142 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003071\n103143\n203150\n303141\n
+}
+
+3143 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003073\n103147\n203149\n303142\n
+}
+
+3144 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003077\n203145\n303147\n
+}
+
+3145 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003144\n303148\n
+}
+
+3146 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003148\n303152\n
+}
+
+3147 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003075\n103144\n203148\n303143\n
+}
+
+3148 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003147\n103145\n203146\n303149\n
+}
+
+3149 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003143\n103148\n203152\n303150\n
+}
+
+3150 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003142\n103149\n203151\n303140\n
+}
+
+3151 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003150\n103152\n203153\n303139\n
+}
+
+3152 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003149\n103146\n303151\n
+}
+
+3153 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003151\n303154\n
+}
+
+3154 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003139\n103153\n
+}
+
+3155 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 203156\n303080\n
+}
+
+3156 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003155\n203157\n303081\n
+}
+
+3157 {
+	name In the Desert
+	desc You are wandering around in the scorching hot Nevada Desert.
+	flags O
+	direction 003156\n303082\n
+}
+

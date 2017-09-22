@@ -1,0 +1,17 @@
+
+Ranks...
+
+As with most MUDs, we have characters who are labelled as Immortals, these players can monitor and affect the MUD and it's components in many ways, be this to remove a faulty area/mob/obj or to discipline an annoying player.
+
+The Immortal ranks on Smud are as follows:
+
+    Guide     - Helps out new players, can teleport to any room.
+    Caretaker - Can create homerooms, reset areas/mobs/objects.
+    Overseer  - Can change player attributes, load new area/obj/mob files,
+                can remove/bar annoying players, can transport players.
+    IMM       - Can promote players, shutdown Smud, and generally has
+                access to the source code.
+
+Players cannot fight/group/etc in their Immortal state, this is not so much to remove cheating but to help stop players accidentally using IMM commands out of habit.
+
+Please do not ask to be an Immortal, when there is need, players who are most dedicated to Smud will be selected.

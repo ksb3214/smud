@@ -1,0 +1,8 @@
+Email
+
+In order to use the bug, idea or typo commands within the game, you need to specify an email address. This is so that we can keep you informed of changes we make to the game based on your comments. If you do not wish to have a reply then please include `(NR)' at the end of your message.
+
+Syntax:
+set email [your_email_address]
+
+You may change your email address at any time by using this command.

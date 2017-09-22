@@ -1,0 +1,10 @@
+Iacga and colour
+
+If you use TinyFugue as a client for SMUD then you will not, by default, 
+see a prompt at the bottom of the screen.  To enable a prompt please type
+`iacga'.  You should then see a prompt immediately.  If for any reason 
+you wish to toggle this then repeat the command.
+
+Similarly, if your term supports colour then use the `colour' command to
+enable colour if you did not do so on login.  This is also a toggle. Use
+of colour greatly enhances the clarity of SMUD.

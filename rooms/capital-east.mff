@@ -1,0 +1,1078 @@
+1622 {
+  name Shingle Road
+  desc You are on Shingle Road running south from here.\nLuther Street is to the northeast.\nTo the northeast you can make out other junctions.\n
+  flags O
+  direction 21632\n41611\n
+}
+
+1632 {
+  name Shingle Road
+  desc You are on Shingle Road running north-south from here.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01622\n21642\n
+}
+
+1642 {
+  name Shingle Road
+  desc You are on Shingle Road running north-south from here.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01632\n21659\n
+}
+
+1659 {
+  name Shingle Road
+  desc You are on Shingle Road running north from here.\nRavens Road is to the south.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 01642\n21672\n
+}
+
+1672 {
+  name Ravens Road
+  desc You are on Ravens Road running east from here.\nShingle Road is to the north.\nTo the north and east you can make out other junctions.\n
+  flags O
+  direction 01659\n11673\n
+}
+
+1611 {
+  name Luther Street
+  desc You are on Luther Street running east from here.\nShingle Road is to the southwest.\nTo the east and southwest you can make out other junctions.\n
+  flags O
+  direction 11612\n71622\n
+}
+
+1673 {
+  name Ravens Road
+  desc You are on Ravens Road running east-west from here.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11674\n31672\n
+}
+
+1693 {
+  name Whitehawk Way
+  desc You are on Whitehawk Way running south from here.\nRavens Road is to the northeast.\nTo the northeast you can make out other junctions.\n
+  flags O
+  direction 21701\n41674\n
+}
+
+1701 {
+  name Whitehawk Way
+  desc You are on Whitehawk Way running north-south from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01693\n21716\n
+}
+
+1716 {
+  name Whitehawk Way
+  desc You are on Whitehawk Way running north-southeast from here.\nTo the north and southeast you can make out other junctions.\n
+  flags O
+  direction 01701\n61725\n
+}
+
+1612 {
+  name Luther Street
+  desc You are on Luther Street running east-west from here.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11613\n31611\n
+}
+
+1674 {
+  name Ravens Road
+  desc You are on Ravens Road running east-west from here.\nWhitehawk Way is to the southwest.\nTo the west and southwest you can make out other junctions.\n
+  flags O
+  direction 11675\n31673\n71693\n
+}
+
+1725 {
+  name Whitehawk Way
+  desc You are on Whitehawk Way running northeast-northwest from here.\nSouthdown Avenue is to the south.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 21743\n41717\n51716\n
+}
+
+1743 {
+  name Southdown Avenue
+  desc You are on Southdown Avenue running east from here.\nWhitehawk Way is to the north.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01725\n11744\n
+}
+
+1613 {
+  name Luther Street
+  desc You are on Luther Street running south-west from here.\nShanklin Road is to the east.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11614\n21623\n31612\n
+}
+
+1623 {
+  name Luther Street
+  desc You are on Luther Street running north-south from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01613\n21633\n
+}
+
+1633 {
+  name Luther Street
+  desc You are on Luther Street running north-east from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01623\n11634\n
+}
+
+1675 {
+  name Ravens Road
+  desc You are on Ravens Road running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11676\n31674\n
+}
+
+1717 {
+  name Whitehawk Way
+  desc You are on Whitehawk Way running northeast-southwest from here.\nTo the southwest you can make out other junctions.\n
+  flags O
+  direction 41702\n71725\n
+}
+
+1744 {
+  name Southdown Avenue
+  desc You are on Southdown Avenue running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11745\n31743\n
+}
+
+1614 {
+  name Shanklin Road
+  desc You are on Shanklin Road running east from here.\nLuther Street is to the west.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11615\n31613\n
+}
+
+1634 {
+  name Luther Street
+  desc You are on Luther Street running west-southeast from here.\nTo the southeast you can make out other junctions.\n
+  flags O
+  direction 31633\n61643\n
+}
+
+1676 {
+  name Ravens Road
+  desc You are on Ravens Road running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11677\n31675\n
+}
+
+1702 {
+  name Whitehawk Way
+  desc You are on Whitehawk Way running east-southwest from here.\nTo the southwest you can make out other junctions.\n
+  flags O
+  direction 11703\n71717\n
+}
+
+1745 {
+  name Southdown Avenue
+  desc You are on Southdown Avenue running west-southeast from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 31744\n61750\n
+}
+
+1615 {
+  name Shanklin Road
+  desc You are on Shanklin Road running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11616\n31614\n
+}
+
+1643 {
+  name Luther Street
+  desc You are on Luther Street running northwest-southeast from here.\nTo the southeast you can make out other junctions.\n
+  flags O
+  direction 51634\n61660\n
+}
+
+1677 {
+  name Ravens Road
+  desc You are on Ravens Road running east-west from here.\n
+  flags O
+  direction 11678\n31676\n
+}
+
+1703 {
+  name Whitehawk Way
+  desc You are on Whitehawk Way running east-west from here.\n
+  flags O
+  direction 11704\n31702\n
+}
+
+1750 {
+  name Southdown Avenue
+  desc You are on Southdown Avenue running east-northwest from here.\n
+  flags O
+  direction 11751\n51745\n
+}
+
+1616 {
+  name Shanklin Road
+  desc You are on Shanklin Road running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11617\n31615\n
+}
+
+1660 {
+  name Luther Street
+  desc You are on Luther Street running northwest from here.\nRavens Road is to the east.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11661\n51643\n
+}
+
+1678 {
+  name Ravens Road
+  desc You are on Ravens Road running west-northeast from here.\nTo the northeast you can make out other junctions.\n
+  flags O
+  direction 31677\n41661\n
+}
+
+1704 {
+  name Whitehawk Way
+  desc You are on Whitehawk Way running east-west from here.\n
+  flags O
+  direction 11705\n31703\n
+}
+
+1751 {
+  name Southdown Avenue
+  desc You are on Southdown Avenue running east-west from here.\n
+  flags O
+  direction 11752\n31750\n
+}
+
+1617 {
+  name Shanklin Road
+  desc You are on Shanklin Road running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11618\n31616\n
+}
+
+1661 {
+  name Ravens Road
+  desc You are on Ravens Road running northeast-southwest from here.\nLuther Street is to the west.\nTo the west and northeast you can make out other junctions.\n
+  flags O
+  direction 31660\n41644\n71678\n
+}
+
+1705 {
+  name Whitehawk Way
+  desc You are on Whitehawk Way running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11706\n31704\n
+}
+
+1752 {
+  name Southdown Avenue
+  desc You are on Southdown Avenue running west-northeast from here.\n
+  flags O
+  direction 31751\n41746\n
+}
+
+1618 {
+  name Shanklin Road
+  desc You are on Shanklin Road running east-west from here.\nTo the east and south you can make out other junctions.\n
+  flags O
+  direction 11619\n31617\n
+}
+
+1624 {
+  name Holland Road
+  desc You are on Holland Road running south from here.\nShanklin Road is to the northeast.\nTo the south and northeast you can make out other junctions.\n
+  flags O
+  direction 21635\n41619\n
+}
+
+1635 {
+  name Holland Road
+  desc You are on Holland Road running north from here.\nRavens Road is to the south.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01624\n21644\n
+}
+
+1644 {
+  name Ravens Road
+  desc You are on Ravens Road running southwest from here.\nMorshire Street is to the southeast.\nMonument Crescent is to the east.\nHolland Road is to the north.\nTo the north,east,southeast and southwest you can make out other junctions.\n
+  flags O
+  direction 01635\n11645\n61662\n71661\n
+}
+
+1706 {
+  name Whitehawk Way
+  desc You are on Whitehawk Way running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11707\n31705\n
+}
+
+1746 {
+  name Southdown Avenue
+  desc You are on Southdown Avenue running east-southwest from here.\n
+  flags O
+  direction 11747\n71752\n
+}
+
+1619 {
+  name Shanklin Road
+  desc You are on Shanklin Road running east-west from here.\nHolland Road is to the northeast and southwest.\nTo the northeast and southwest you can make out other junctions.\n
+  flags O
+  direction 11620\n31618\n41605\n71624\n
+}
+
+1645 {
+  name Monument Crescent
+  desc You are on Monument Crescent running east from here.\nRavens Road is to the west.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11646\n31644\n
+}
+
+1662 {
+  name Morshire Street
+  desc You are on Morshire Street running southeast from here.\nRavens Road is to the northwest.\nTo the northwest you can make out other junctions.\n
+  flags O
+  direction 51644\n61679\n
+}
+
+1707 {
+  name Whitehawk Way
+  desc You are on Whitehawk Way running west from here.\nMorshire Street is to the east.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11708\n31706\n
+}
+
+1747 {
+  name Southdown Avenue
+  desc You are on Southdown Avenue running east-west from here.\n
+  flags O
+  direction 11748\n31746\n
+}
+
+1605 {
+  name Holland Road
+  desc You are on Holland Road running northeast from here.\nShanklin Road is to the southwest.\nTo the southwest you can make out other junctions.\n
+  flags O
+  direction 41600\n71619\n
+}
+
+1620 {
+  name Shanklin Road
+  desc You are on Shanklin Road running west-southeast from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 31619\n61625\n
+}
+
+1646 {
+  name Monument Crescent
+  desc You are on Monument Crescent running east-west from here.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11647\n31645\n
+}
+
+1679 {
+  name Morshire Street
+  desc You are on Morshire Street running south-northwest from here.\nTo the south and northwest you can make out other junctions.\n
+  flags O
+  direction 21694\n51662\n
+}
+
+1694 {
+  name Morshire Street
+  desc You are on Morshire Street running north-south from here.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 01679\n21708\n
+}
+
+1708 {
+  name Morshire Street
+  desc You are on Morshire Street running north-south from here.\nWhitehawk Way is to the east and west.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 01694\n11709\n21718\n31707\n
+}
+
+1718 {
+  name Morshire Street
+  desc You are on Morshire Street running north-south from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01708\n21726\n
+}
+
+1726 {
+  name Morshire Street
+  desc You are on Morshire Street running north-east from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01718\n11727\n
+}
+
+1748 {
+  name Southdown Avenue
+  desc You are on Southdown Avenue running west from here.\n
+  flags O
+  direction 31747\n
+}
+
+1600 {
+  name Holland Road
+  desc You are on Holland Road running east-southwest from here.\nTo the southwest you can make out other junctions.\n
+  flags O
+  direction 11601\n71605\n
+}
+
+1625 {
+  name Shanklin Road
+  desc You are on Shanklin Road running east-northwest from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11626\n51620\n
+}
+
+1647 {
+  name Monument Crescent
+  desc You are on Monument Crescent running west-southeast from here.\nShanklin Road is to the northeast.\nTo the west and northeast you can make out other junctions.\n
+  flags O
+  direction 31646\n41636\n61663\n
+}
+
+1709 {
+  name Whitehawk Way
+  desc You are on Whitehawk Way running east from here.\nMorshire Street is to the west.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11710\n31708\n
+}
+
+1727 {
+  name Morshire Street
+  desc You are on Morshire Street running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11728\n31726\n
+}
+
+1601 {
+  name Holland Road
+  desc You are on Holland Road running east-west from here.\n
+  flags O
+  direction 11602\n31600\n
+}
+
+1626 {
+  name Shanklin Road
+  desc You are on Shanklin Road running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11627\n31625\n
+}
+
+1636 {
+  name Shanklin Road
+  desc You are on Shanklin Road running northeast from here.\nMonument Crescent is to the southwest.\nTo the northeast and southwest you can make out other junctions.\n
+  flags O
+  direction 41627\n71647\n
+}
+
+1663 {
+  name Monument Crescent
+  desc You are on Monument Crescent running south-northwest from here.\nTo the south and northwest you can make out other junctions.\n
+  flags O
+  direction 21680\n51647\n
+}
+
+1680 {
+  name Monument Crescent
+  desc You are on Monument Crescent running north-south from here.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 01663\n21695\n
+}
+
+1695 {
+  name Monument Crescent
+  desc You are on Monument Crescent running north from here.\nCroft Avenue is to the east.\nTo the east and southeast you can make out other junctions.\n
+  flags O
+  direction 01680\n11696\n
+}
+
+1710 {
+  name Whitehawk Way
+  desc You are on Whitehawk Way running west from here.\nCroft Avenue is to the east.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11711\n31709\n
+}
+
+1728 {
+  name Morshire Street
+  desc You are on Morshire Street running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11729\n31727\n
+}
+
+1602 {
+  name Holland Road
+  desc You are on Holland Road running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11603\n31601\n
+}
+
+1627 {
+  name Shanklin Road
+  desc You are on Shanklin Road running west-southwest from here.\nOriental Place is to the east.\nTo the east and southwest you can make out other junctions.\n
+  flags O
+  direction 11628\n31626\n71636\n
+}
+
+1681 {
+  name Croft Avenue
+  desc You are on Croft Avenue running south-northeast from here.\nTo the south and northwest you can make out other junctions.\n
+  flags O
+  direction 21696\n41664\n
+}
+
+1696 {
+  name Croft Avenue
+  desc You are on Croft Avenue running north-south from here.\nMonument Crescent is to the west.\nTo the south and west you can make out other junctions.\n
+  flags O
+  direction 01681\n21711\n31695\n
+}
+
+1711 {
+  name Croft Avenue
+  desc You are on Croft Avenue running north-south from here.\nWhitehawk Way is to the west and southeast.\nTo the north,south,west and southeast you can make out other junctions.\n
+  flags O
+  direction 01696\n21719\n31710\n61720\n
+}
+
+1719 {
+  name Croft Avenue
+  desc You are on Croft Avenue running north from here.\nMorshire Street is to the south.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01711\n21729\n
+}
+
+1729 {
+  name Morshire Street
+  desc You are on Morshire Street running east-west from here.\nCroft Avenue is to the north.\nTo the north and east you can make out other junctions.\n
+  flags O
+  direction 01719\n11730\n31728\n
+}
+
+1603 {
+  name Holland Road
+  desc You are on Holland Road running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11604\n31602\n
+}
+
+1628 {
+  name Oriental Place
+  desc You are on Oriental Place running east from here.\nShanklin Road is to the west.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11629\n31627\n
+}
+
+1664 {
+  name Croft Avenue
+  desc You are on Croft Avenue running northeast-southwest from here.\n
+  flags O
+  direction 41648\n71681\n
+}
+
+1720 {
+  name Whitehawk Way
+  desc You are on Whitehawk Way.\nMorshire Street is to the south.\nCroft Avenue is to the northwest.\nTo the south and northwest you can make out other junctions.\n
+  flags O
+  direction 21730\n51711\n
+}
+
+1730 {
+  name Morshire Street
+  desc You are on Morshire Street running east-west from here.\nWhitehawk Way is to the north.\nTo the north and west you can make out other junctions.\n
+  flags O
+  direction 01720\n11731\n31729\n
+}
+
+1604 {
+  name Holland Road
+  desc You are on Holland Road running west from here.\nMoat Way is to the south.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 21606\n31603\n
+}
+
+1606 {
+  name Moat Way
+  desc You are on Moat Way running east from here.\nHolland Road is to the north.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01604\n11607\n
+}
+
+1629 {
+  name Oriental Place
+  desc You are on Oriental Place running west-southeast from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 31628\n61637\n
+}
+
+1648 {
+  name Croft Avenue
+  desc You are on Croft Avenue running east-southwest from here.\n
+  flags O
+  direction 11649\n71664\n
+}
+
+1731 {
+  name Morshire Street
+  desc You are on Morshire Street running west from here.\nTo the west and northwest you can make out other junctions.\n
+  flags O
+  direction 31730\n
+}
+
+1607 {
+  name Moat Way
+  desc You are on Moat Way running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11608\n31606\n
+}
+
+1637 {
+  name Oriental Place
+  desc You are on Oriental Place running east-northwest from here.\n
+  flags O
+  direction 11638\n51629\n
+}
+
+1649 {
+  name Croft Avenue
+  desc You are on Croft Avenue running east-west from here.\n
+  flags O
+  direction 11650\n31648\n
+}
+
+1608 {
+  name Moat Way
+  desc You are on Moat Way running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11609\n31607\n
+}
+
+1638 {
+  name Oriental Place
+  desc You are on Oriental Place running east-west from here.\n
+  flags O
+  direction 11639\n31637\n
+}
+
+1650 {
+  name Croft Avenue
+  desc You are on Croft Avenue running west-southeast from here.\n
+  flags O
+  direction 31649\n61665\n
+}
+
+1609 {
+  name Moat Way
+  desc You are on Moat Way running east-west from here.\n
+  flags O
+  direction 11610\n31608\n
+}
+
+1639 {
+  name Oriental Place
+  desc You are on Oriental Place running west-southeast from here.\n
+  flags O
+  direction 31638\n61651\n
+}
+
+1665 {
+  name Croft Avenue
+  desc You are on Croft Avenue running east-northwest from here.\n
+  flags O
+  direction 11666\n51650\n
+}
+
+1610 {
+  name Moat Way
+  desc You are on Moat Way running west-southeast from here.\nTo the southeast you can make out other junctions.\n
+  flags O
+  direction 31609\n61621\n
+}
+
+1651 {
+  name Oriental Place
+  desc You are on Oriental Place running east-northwest from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11652\n51639\n
+}
+
+1666 {
+  name Croft Avenue
+  desc You are on Croft Avenue running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11667\n31665\n
+}
+
+1621 {
+  name Moat Way
+  desc You are on Moat Way running northwest-southeast from here.\nTo the southeast you can make out other junctions.\n
+  flags O
+  direction 51610\n61630\n
+}
+
+1652 {
+  name Oriental Place
+  desc You are on Oriental Place running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11653\n31651\n
+}
+
+1667 {
+  name Croft Avenue
+  desc You are on Croft Avenue running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11668\n31666\n
+}
+
+1630 {
+  name Moat Way
+  desc You are on Moat Way running south-northwest from here.\nParklands Way is to the east.\nTo the east and south you can make out other junctions.\n
+  flags O
+  direction 11631\n21640\n51621\n
+}
+
+1640 {
+  name Moat Way
+  desc You are on Moat Way running north from here.\nOriental Place is to the south.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01630\n21653\n
+}
+
+1653 {
+  name Oriental Place
+  desc You are on Oriental Place running east-west from here.\nCroft Avenue is to the south.\nMoat Way is to the north.\nTo the north,south and southeast you can make out other junctions.\n
+  flags O
+  direction 01640\n11654\n21668\n31652\n
+}
+
+1668 {
+  name Croft Avenue
+  desc You are on Croft Avenue running east-west from here.\nOriental Place is to the north.\nSelbourne Road is to the south.\nTo the north,east and south you can make out other junctions.\n
+  flags O
+  direction 01653\n11669\n21682\n31667\n
+}
+
+1682 {
+  name Selbourne Road
+  desc You are on Selbourne Road running south from here.\nCroft Avenue is to the north.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01668\n21697\n
+}
+
+1697 {
+  name Selbourne Road
+  desc You are on Selbourne Road running north-south from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01682\n21712\n
+}
+
+1712 {
+  name Selbourne Road
+  desc You are on Selbourne Road running north-south from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01697\n21721\n
+}
+
+1721 {
+  name Selbourne Road
+  desc You are on Selbourne Road running north-south from here.\n
+  flags O
+  direction 01712\n21732\n
+}
+
+1732 {
+  name Selbourne Road
+  desc You are on Selbourne Road running north from here.\n
+  flags O
+  direction 01721\n
+}
+
+1631 {
+  name Parklands Way
+  desc You are on Parklands Way running southeast from here.\nMoat Way is to the west.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 31630\n61641\n
+}
+
+1654 {
+  name Oriental Place
+  desc You are on Oriental Place running west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 31653\n
+}
+
+1669 {
+  name Croft Avenue
+  desc You are on Croft Avenue running west from here.\nPevensey Road is to the southeast.\nTo the west and southeast you can make out other junctions.\n
+  flags O
+  direction 31668\n61683\n
+}
+
+1641 {
+  name Parklands Way
+  desc You are on Parklands Way running northwest-southeast from here.\nTo the northwest you can make out other junctions.\n
+  flags O
+  direction 51631\n61655\n
+}
+
+1683 {
+  name Pevensey Road
+  desc You are on Pevensey Road running southeast from here.\nCroft Avenue is to the northwest.\nNevill Road is to the east.\nTo the east and northwest you can make out other junctions.\n
+  flags O
+  direction 11684\n51669\n61698\n
+}
+
+1655 {
+  name Parklands Way
+  desc You are on Parklands Way running east-northwest from here.\nTo the northwest you can make out other junctions.\n
+  flags O
+  direction 11656\n51641\n
+}
+
+1684 {
+  name Nevill Road
+  desc You are on Nevill Road running east from here.\nPevensey Road is to the west.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11685\n31683\n
+}
+
+1698 {
+  name Pevensey Road
+  desc You are on Pevensey Road running south-northwest from here.\nTo the northwest you can make out other junctions.\n
+  flags O
+  direction 21713\n51683\n
+}
+
+1713 {
+  name Pevensey Road
+  desc You are on Pevensey Road running north-south from here.\n
+  flags O
+  direction 01698\n21722\n
+}
+
+1722 {
+  name Pevensey Road
+  desc You are on Pevensey Road running north-southeast from here.\nTo the southeast you can make out other junctions.\n
+  flags O
+  direction 01713\n61733\n
+}
+
+1656 {
+  name Parklands Way
+  desc You are on Parklands Way running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11657\n31655\n
+}
+
+1685 {
+  name Nevill Road
+  desc You are on Nevill Road running east-west from here.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11686\n31684\n
+}
+
+1733 {
+  name Pevensey Road
+  desc You are on Pevensey Road running east-northwest from here.\nLimbrick Close is to the northeast.\nTo the northeast you can make out other junctions.\n
+  flags O
+  direction 11734\n41723\n51722\n
+}
+
+1657 {
+  name Parklands Way
+  desc You are on Parklands Way running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11658\n31656\n
+}
+
+1686 {
+  name Nevill Road
+  desc You are on Nevill Road running west from here.\nLimbrick Close is to the east.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11687\n31685\n
+}
+
+1723 {
+  name Limbrick Close
+  desc You are on Limbrick Close running northeast from here.\nPevensey Road is to the southwest.\nTo the southwest you can make out other junctions.\n
+  flags O
+  direction 41714\n71733\n
+}
+
+1734 {
+  name Pevensey Road
+  desc You are on Pevensey Road running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11735\n31733\n
+}
+
+1658 {
+  name Parklands Way
+  desc You are on Parklands Way running west-southeast from here.\nLimbrick Close is to the south.\nTo the south and southeast you can make out other junctions.\n
+  flags O
+  direction 21670\n31657\n61671\n
+}
+
+1670 {
+  name Limbrick Close
+  desc You are on Limbrick Close running south from here.\nParklands Way is to the north.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01658\n21687\n
+}
+
+1687 {
+  name Limbrick Close
+  desc You are on Limbrick Close running north-south from here.\nNevill Road is to the east and west.\nTo the north,east and west you can make out other junctions.\n
+  flags O
+  direction 01670\n11688\n21699\n31686\n
+}
+
+1699 {
+  name Limbrick Close
+  desc You are on Limbrick Close running north-south from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01687\n21714\n
+}
+
+1714 {
+  name Limbrick Close
+  desc You are on Limbrick Close running north-southwest from here.\nTo the north and southwest you can make out other junctions.\n
+  flags O
+  direction 01699\n71723\n
+}
+
+1735 {
+  name Pevensey Road
+  desc You are on Pevensey Road running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11736\n31734\n
+}
+
+1671 {
+  name Parklands Way
+  desc You are on Parklands Way running northwest-southeast from here.\nTo the northwest and southeast you can make out other junctions.\n
+  flags O
+  direction 51658\n61689\n
+}
+
+1688 {
+  name Nevill Road
+  desc You are on Nevill Road.\nLimbrick Close is to the west.\nParklands Way is to the east.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11689\n31687\n
+}
+
+1736 {
+  name Pevensey Road
+  desc You are on Pevensey Road running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11737\n31735\n
+}
+
+1689 {
+  name Parklands Way
+  desc You are on Parklands Way running northwest from here.\nNevill Road is to the east and west.\nTo the east,west and northwest you can make out other junctions.\n
+  flags O
+  direction 11690\n31688\n51671\n
+}
+
+1737 {
+  name Pevensey Road
+  desc You are on Pevensey Road running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 11738\n31736\n
+}
+
+1690 {
+  name Nevill Road
+  desc You are on Nevill Road running east from here.\nParklands Way is to the west.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11691\n31689\n
+}
+
+1715 {
+  name Gorham Road
+  desc You are on Gorham Road running south-northeast from here.\nTo the south and northeast you can make out other junctions.\n
+  flags O
+  direction 21724\n41700\n
+}
+
+1724 {
+  name Gorham Road
+  desc You are on Gorham Road running north from here.\nPevensey Road is to the south.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 01715\n21738\n
+}
+
+1738 {
+  name Pevensey Road
+  desc You are on Pevensey Road running east-west from here.\nGorham Road is to the north and south.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 01724\n11739\n21749\n31737\n
+}
+
+1749 {
+  name Gorham Road
+  desc You are on Gorham Road running south from here.\nPevensey Road is to the north.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01738\n21753\n
+}
+
+1753 {
+  name Gorham Road
+  desc You are on Gorham Road running north from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 01749\n
+}
+
+1691 {
+  name Nevill Road
+  desc You are on Nevill Road running east-west from here.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 11692\n31690\n
+}
+
+1700 {
+  name Gorham Road
+  desc You are on Gorham Road running southwest from here.\nNevill Road is to the northeast.\nTo the northeast you can make out other junctions.\n
+  flags O
+  direction 41692\n71715\n
+}
+
+1739 {
+  name Pevensey Road
+  desc You are on Pevensey Road running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11740\n31738\n
+}
+
+1692 {
+  name Nevill Road
+  desc You are on Nevill Road running west from here.\nGorham Road is to the southwest.\nTo the west and southwest you can make out other junctions.\n
+  flags O
+  direction 31691\n71700\n
+}
+
+1740 {
+  name Pevensey Road
+  desc You are on Pevensey Road running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 11741\n31739\n
+}
+
+1741 {
+  name Pevensey Road
+  desc You are on Pevensey Road running east-west from here.\n
+  flags O
+  direction 11742\n31740\n
+}
+
+1742 {
+  name Pevensey Road
+  desc You are on Pevensey Road running west from here.\n
+  flags O
+  direction 31741\n
+}
+

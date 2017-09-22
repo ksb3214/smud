@@ -1,0 +1,46 @@
+SMUD - SlightMUD
+
+I wrote this MUD in 2000 as an entry to the 16k MUD competition (see below), as you can see it grew well beyond those tight bounds into something that was a lot of fun for a lot of people.
+
+As with most MUDs, enthusiasm died out in time and the code has sat in a CVS archive since about 2005.  It isn't perfect and has kept its flagrant use of static arrays but I loved writing and playing it, so I thought I'd dig it out and shove it on github.
+
+USAGE:
+
+If you're mad enough to want to try and use it then please do so.  I haven't attempted to compile it recently but in short here's what I think one should try...
+
+You'll need to add a UU.rank=GOD into src/login.c so your first user gets immortal(admin) status then remove it after, or write a nice little routine for it.
+
+First compile libmff in its own directory
+Then compile the main code in the src directory, you might need to edit the Makefile and set the UNAME to be 'Linux' but tbh I can't remember, you might also need to use pmake/bmake
+After that it should run quite nicely from the src directory with a ./smud on port 4000
+
+FEATURES:
+
+I've forgotten a lot of what the mud can do, but heres a go:
+
+Areas
+Guilds
+Skill tree
+Spells
+Groups
+Visualish area generator
+Transportation
+News
+Debate system
+Weather
+Homerooms
+Basic scripting
+MCCP
+and more...
+
+NOTES:
+
+It wasn't finished (what ever is!) and a lot of the features could do with more effort, but it is an easy codebase to work with and if you're in the mind to host a MUD, you could do a lot worse.
+
+PULL REQUESTS:
+
+More than happy to recieve them
+
+LICENCE:
+
+See LICENCE

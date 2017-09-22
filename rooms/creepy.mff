@@ -1,0 +1,2800 @@
+2000 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12001\n22020\n
+}
+
+2020 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 02000\n22040\n
+}
+
+2040 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south from here.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 02020\n12041\n22060\n
+}
+
+2060 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 02040\n22080\n3-31975\n
+}
+
+2080 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 02060\n12081\n
+}
+
+2100 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 22120\n
+}
+
+2120 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02100\n22140\n
+}
+
+2140 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south from here.\n
+  flags O
+  direction 02120\n12141\n22160\n
+}
+
+2160 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south from here.\n
+  flags O
+  direction 02140\n12161\n22180\n
+}
+
+2180 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02160\n22200\n
+}
+
+2200 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02180\n
+}
+
+2220 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12221\n22240\n
+}
+
+2240 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02220\n22260\n
+}
+
+2260 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02240\n12261\n
+}
+
+2280 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12281\n
+}
+
+2300 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12301\n
+}
+
+2320 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12321\n22340\n
+}
+
+2340 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02320\n
+}
+
+2360 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12361\n22380\n
+}
+
+2380 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02360\n12381\n
+}
+
+2001 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12002\n22021\n32000\n
+}
+
+2021 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02001\n12022\n
+}
+
+2041 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12042\n22061\n32040\n
+}
+
+2061 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 02041\n
+}
+
+2081 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12082\n22101\n32080\n
+}
+
+2101 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02081\n22121\n
+}
+
+2121 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02101\n12122\n
+}
+
+2141 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32140\n
+}
+
+2161 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12162\n22181\n32160\n
+}
+
+2181 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02161\n22201\n
+}
+
+2201 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02181\n12202\n
+}
+
+2221 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22241\n32220\n
+}
+
+2241 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02221\n12242\n
+}
+
+2261 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12262\n32260\n
+}
+
+2281 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12282\n22301\n32280\n
+}
+
+2301 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02281\n12302\n32300\n
+}
+
+2321 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12322\n22341\n32320\n
+}
+
+2341 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02321\n22361\n
+}
+
+2361 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02341\n12362\n32360\n
+}
+
+2381 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12382\n32380\n
+}
+
+2002 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32001\n
+}
+
+2022 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12023\n32021\n
+}
+
+2042 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22062\n32041\n
+}
+
+2062 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02042\n12063\n
+}
+
+2082 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12083\n32081\n
+}
+
+2102 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12103\n22122\n
+}
+
+2122 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\n
+  flags O
+  direction 02102\n22142\n32121\n
+}
+
+2142 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02122\n22162\n
+}
+
+2162 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02142\n32161\n
+}
+
+2182 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\n
+  flags O
+  direction 22202\n
+}
+
+2202 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02182\n12203\n32201\n
+}
+
+2222 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12223\n
+}
+
+2242 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12243\n32241\n
+}
+
+2262 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12263\n32261\n
+}
+
+2282 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12283\n32281\n
+}
+
+2302 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12303\n22322\n32301\n
+}
+
+2322 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02302\n32321\n
+}
+
+2342 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\n
+  flags O
+  direction 22362\n
+}
+
+2362 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02342\n32361\n
+}
+
+2382 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12383\n32381\n
+}
+
+2003 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12004\n22023\n
+}
+
+2023 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\n
+  flags O
+  direction 02003\n22043\n32022\n
+}
+
+2043 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02023\n
+}
+
+2063 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32062\n
+}
+
+2083 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12084\n32082\n
+}
+
+2103 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22123\n32102\n
+}
+
+2123 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south from here.\n
+  flags O
+  direction 02103\n12124\n22143\n
+}
+
+2143 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02123\n22163\n
+}
+
+2163 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02143\n12164\n
+}
+
+2183 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12184\n
+}
+
+2203 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12204\n22223\n32202\n
+}
+
+2223 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02203\n32222\n
+}
+
+2243 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32242\n
+}
+
+2263 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12264\n22283\n32262\n
+}
+
+2283 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02263\n32282\n
+}
+
+2303 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22323\n32302\n
+}
+
+2323 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02303\n
+}
+
+2343 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12344\n
+}
+
+2363 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12364\n22383\n
+}
+
+2383 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02363\n12384\n32382\n
+}
+
+2004 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22024\n32003\n
+}
+
+2024 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02004\n12025\n
+}
+
+2044 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12045\n
+}
+
+2064 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12065\n22084\n
+}
+
+2084 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\n
+  flags O
+  direction 02064\n22104\n32083\n
+}
+
+2104 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02084\n
+}
+
+2124 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12125\n32123\n
+}
+
+2144 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12145\n
+}
+
+2164 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12165\n22184\n32163\n
+}
+
+2184 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02164\n32183\n
+}
+
+2204 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12205\n32203\n
+}
+
+2224 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12225\n
+}
+
+2244 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\n
+  flags O
+  direction 22264\n
+}
+
+2264 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02244\n12265\n32263\n
+}
+
+2284 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12285\n22304\n
+}
+
+2304 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02284\n22324\n
+}
+
+2324 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02304\n12325\n
+}
+
+2344 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22364\n32343\n
+}
+
+2364 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02344\n32363\n
+}
+
+2384 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12385\n32383\n
+}
+
+2005 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12006\n
+}
+
+2025 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12026\n32024\n
+}
+
+2045 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12046\n32044\n
+}
+
+2065 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12066\n32064\n
+}
+
+2085 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12086\n
+}
+
+2105 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12106\n22125\n
+}
+
+2125 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02105\n12126\n32124\n
+}
+
+2145 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12146\n32144\n
+}
+
+2165 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32164\n
+}
+
+2185 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12186\n22205\n
+}
+
+2205 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\n
+  flags O
+  direction 02185\n22225\n32204\n
+}
+
+2225 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\n
+  flags O
+  direction 02205\n22245\n32224\n
+}
+
+2245 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02225\n22265\n
+}
+
+2265 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\n
+  flags O
+  direction 02245\n22285\n32264\n
+}
+
+2285 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south-west from here.\n
+  flags O
+  direction 02265\n12286\n22305\n32284\n
+}
+
+2305 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02285\n
+}
+
+2325 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12326\n22345\n32324\n
+}
+
+2345 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02325\n
+}
+
+2365 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12366\n22385\n
+}
+
+2385 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02365\n32384\n
+}
+
+2006 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22026\n32005\n
+}
+
+2026 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\n
+  flags O
+  direction 02006\n22046\n32025\n
+}
+
+2046 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south-west from here.\n
+  flags O
+  direction 02026\n12047\n22066\n32045\n
+}
+
+2066 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\n
+  flags O
+  direction 02046\n22086\n32065\n
+}
+
+2086 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02066\n32085\n
+}
+
+2106 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32105\n
+}
+
+2126 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12127\n22146\n32125\n
+}
+
+2146 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\n
+  flags O
+  direction 02126\n22166\n32145\n
+}
+
+2166 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02146\n12167\n
+}
+
+2186 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22206\n32185\n
+}
+
+2206 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south from here.\n
+  flags O
+  direction 02186\n12207\n22226\n
+}
+
+2226 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02206\n12227\n
+}
+
+2246 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12247\n
+}
+
+2266 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12267\n22286\n
+}
+
+2286 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south-west from here.\n
+  flags O
+  direction 02266\n12287\n22306\n32285\n
+}
+
+2306 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02286\n
+}
+
+2326 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12327\n22346\n32325\n
+}
+
+2346 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02326\n12347\n
+}
+
+2366 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22386\n32365\n
+}
+
+2386 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02366\n12387\n
+}
+
+2007 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12008\n22027\n
+}
+
+2027 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02007\n
+}
+
+2047 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12048\n32046\n
+}
+
+2067 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\n
+  flags O
+  direction 22087\n
+}
+
+2087 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02067\n22107\n
+}
+
+2107 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02087\n12108\n
+}
+
+2127 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12128\n22147\n32126\n
+}
+
+2147 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02127\n
+}
+
+2167 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12168\n32166\n
+}
+
+2187 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12188\n
+}
+
+2207 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32206\n
+}
+
+2227 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32226\n
+}
+
+2247 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12248\n22267\n32246\n
+}
+
+2267 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02247\n32266\n
+}
+
+2287 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12288\n32286\n
+}
+
+2307 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\n
+  flags O
+  direction 22327\n
+}
+
+2327 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02307\n12328\n32326\n
+}
+
+2347 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22367\n32346\n
+}
+
+2367 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02347\n12368\n
+}
+
+2387 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32386\n
+}
+
+2008 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12009\n22028\n32007\n
+}
+
+2028 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02008\n
+}
+
+2048 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22068\n32047\n
+}
+
+2068 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02048\n12069\n
+}
+
+2088 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\n
+  flags O
+  direction 22108\n
+}
+
+2108 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\n
+  flags O
+  direction 02088\n22128\n32107\n
+}
+
+2128 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02108\n32127\n
+}
+
+2148 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12149\n
+}
+
+2168 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12169\n22188\n32167\n
+}
+
+2188 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02168\n12189\n32187\n
+}
+
+2208 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12209\n
+}
+
+2228 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12229\n22248\n
+}
+
+2248 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02228\n12249\n32247\n
+}
+
+2268 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\n
+  flags O
+  direction 22288\n
+}
+
+2288 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02268\n32287\n
+}
+
+2308 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\n
+  flags O
+  direction 22328\n
+}
+
+2328 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02308\n32327\n
+}
+
+2348 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12349\n
+}
+
+2368 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12369\n32367\n
+}
+
+2388 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12389\n
+}
+
+2009 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12010\n22029\n32008\n
+}
+
+2029 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02009\n22049\n
+}
+
+2049 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02029\n12050\n
+}
+
+2069 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22089\n32068\n
+}
+
+2089 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south from here.\n
+  flags O
+  direction 02069\n12090\n22109\n
+}
+
+2109 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02089\n
+}
+
+2129 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12130\n
+}
+
+2149 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12150\n32148\n
+}
+
+2169 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12170\n32168\n
+}
+
+2189 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12190\n32188\n
+}
+
+2209 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12210\n22229\n32208\n
+}
+
+2229 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02209\n12230\n32228\n
+}
+
+2249 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12250\n22269\n32248\n
+}
+
+2269 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02249\n
+}
+
+2289 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12290\n22309\n
+}
+
+2309 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02289\n12310\n
+}
+
+2329 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\n
+  flags O
+  direction 22349\n
+}
+
+2349 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02329\n12350\n32348\n
+}
+
+2369 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22389\n32368\n
+}
+
+2389 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02369\n32388\n
+}
+
+2010 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32009\n
+}
+
+2030 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12031\n22050\n
+}
+
+2050 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02030\n12051\n32049\n
+}
+
+2070 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12071\n
+}
+
+2090 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32089\n
+}
+
+2110 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\n
+  flags O
+  direction 22130\n
+}
+
+2130 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south-west from here.\n
+  flags O
+  direction 02110\n12131\n22150\n32129\n
+}
+
+2150 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02130\n32149\n
+}
+
+2170 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32169\n
+}
+
+2190 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12191\n32189\n
+}
+
+2210 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32209\n
+}
+
+2230 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12231\n32229\n
+}
+
+2250 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12251\n22270\n32249\n
+}
+
+2270 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south from here.\n
+  flags O
+  direction 02250\n12271\n22290\n
+}
+
+2290 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02270\n12291\n32289\n
+}
+
+2310 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22330\n32309\n
+}
+
+2330 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south from here.\n
+  flags O
+  direction 02310\n12331\n22350\n
+}
+
+2350 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02330\n32349\n
+}
+
+2370 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12371\n22390\n
+}
+
+2390 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02370\n
+}
+
+2011 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\n
+  flags O
+  direction 22031\n
+}
+
+2031 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02011\n12032\n32030\n
+}
+
+2051 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12052\n22071\n32050\n
+}
+
+2071 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02051\n32070\n
+}
+
+2091 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12092\n22111\n
+}
+
+2111 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02091\n
+}
+
+2131 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12132\n22151\n32130\n
+}
+
+2151 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02131\n
+}
+
+2171 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\n
+  flags O
+  direction 22191\n
+}
+
+2191 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02171\n12192\n32190\n
+}
+
+2211 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12212\n
+}
+
+2231 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32230\n
+}
+
+2251 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32250\n
+}
+
+2271 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32270\n
+}
+
+2291 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32290\n
+}
+
+2311 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12312\n22331\n
+}
+
+2331 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\n
+  flags O
+  direction 02311\n22351\n32330\n
+}
+
+2351 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02331\n12352\n
+}
+
+2371 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22391\n32370\n
+}
+
+2391 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02371\n12392\n
+}
+
+2012 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12013\n
+}
+
+2032 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32031\n
+}
+
+2052 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12053\n32051\n
+}
+
+2072 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12073\n
+}
+
+2092 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22112\n32091\n
+}
+
+2112 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02092\n22132\n
+}
+
+2132 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02112\n12133\n32131\n
+}
+
+2152 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\n
+  flags O
+  direction 22172\n
+}
+
+2172 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south from here.\n
+  flags O
+  direction 02152\n12173\n22192\n
+}
+
+2192 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02172\n12193\n32191\n
+}
+
+2212 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12213\n22232\n32211\n
+}
+
+2232 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02212\n
+}
+
+2252 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\n
+  flags O
+  direction 22272\n
+}
+
+2272 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south from here.\n
+  flags O
+  direction 02252\n12273\n22292\n
+}
+
+2292 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02272\n22312\n
+}
+
+2312 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02292\n32311\n
+}
+
+2332 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\n
+  flags O
+  direction 22352\n
+}
+
+2352 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02332\n32351\n
+}
+
+2372 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12373\n22392\n
+}
+
+2392 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02372\n12393\n32391\n
+}
+
+2013 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12014\n22033\n32012\n
+}
+
+2033 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02013\n22053\n
+}
+
+2053 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02033\n32052\n
+}
+
+2073 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22093\n32072\n
+}
+
+2093 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02073\n12094\n
+}
+
+2113 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12114\n22133\n
+}
+
+2133 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02113\n12134\n32132\n
+}
+
+2153 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\n
+  flags O
+  direction 22173\n
+}
+
+2173 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02153\n32172\n
+}
+
+2193 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12194\n32192\n
+}
+
+2213 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22233\n32212\n
+}
+
+2233 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02213\n12234\n
+}
+
+2253 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12254\n22273\n
+}
+
+2273 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02253\n32272\n
+}
+
+2293 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12294\n
+}
+
+2313 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12314\n22333\n
+}
+
+2333 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02313\n
+}
+
+2353 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12354\n
+}
+
+2373 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12374\n32372\n
+}
+
+2393 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32392\n
+}
+
+2014 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12015\n32013\n
+}
+
+2034 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12035\n
+}
+
+2054 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12055\n
+}
+
+2074 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12075\n
+}
+
+2094 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12095\n22114\n32093\n
+}
+
+2114 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02094\n32113\n
+}
+
+2134 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12135\n22154\n32133\n
+}
+
+2154 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south from here.\n
+  flags O
+  direction 02134\n12155\n22174\n
+}
+
+2174 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02154\n
+}
+
+2194 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12195\n22214\n32193\n
+}
+
+2214 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02194\n22234\n
+}
+
+2234 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02214\n32233\n
+}
+
+2254 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12255\n22274\n32253\n
+}
+
+2274 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02254\n
+}
+
+2294 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12295\n22314\n32293\n
+}
+
+2314 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south-west from here.\n
+  flags O
+  direction 02294\n12315\n22334\n32313\n
+}
+
+2334 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02314\n12335\n
+}
+
+2354 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22374\n32353\n
+}
+
+2374 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02354\n12375\n32373\n
+}
+
+2394 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12395\n
+}
+
+2015 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12016\n22035\n32014\n
+}
+
+2035 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\n
+  flags O
+  direction 02015\n22055\n32034\n
+}
+
+2055 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02035\n12056\n32054\n
+}
+
+2075 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22095\n32074\n
+}
+
+2095 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02075\n12096\n32094\n
+}
+
+2115 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12116\n22135\n
+}
+
+2135 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02115\n32134\n
+}
+
+2155 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12156\n32154\n
+}
+
+2175 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12176\n22195\n
+}
+
+2195 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\n
+  flags O
+  direction 02175\n22215\n32194\n
+}
+
+2215 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south from here.\n
+  flags O
+  direction 02195\n12216\n22235\n
+}
+
+2235 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02215\n
+}
+
+2255 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22275\n32254\n
+}
+
+2275 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02255\n12276\n
+}
+
+2295 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12296\n32294\n
+}
+
+2315 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32314\n
+}
+
+2335 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12336\n22355\n32334\n
+}
+
+2355 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02335\n22375\n
+}
+
+2375 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\n
+  flags O
+  direction 02355\n22395\n32374\n
+}
+
+2395 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02375\n32394\n
+}
+
+2016 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12017\n32015\n
+}
+
+2036 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon.\n
+  flags O
+  direction 
+}
+
+2056 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22076\n32055\n
+}
+
+2076 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02056\n12077\n
+}
+
+2096 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12097\n32095\n
+}
+
+2116 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32115\n
+}
+
+2136 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12137\n
+}
+
+2156 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12157\n32155\n
+}
+
+2176 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12177\n22196\n32175\n
+}
+
+2196 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02176\n
+}
+
+2216 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22236\n32215\n
+}
+
+2236 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02216\n12237\n
+}
+
+2256 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12257\n22276\n
+}
+
+2276 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\n
+  flags O
+  direction 02256\n22296\n32275\n
+}
+
+2296 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02276\n32295\n
+}
+
+2316 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\n
+  flags O
+  direction 22336\n
+}
+
+2336 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\n
+  flags O
+  direction 02316\n22356\n32335\n
+}
+
+2356 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02336\n22376\n
+}
+
+2376 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02356\n12377\n
+}
+
+2396 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east from here.\n
+  flags O
+  direction 12397\n
+}
+
+2017 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12018\n22037\n32016\n
+}
+
+2037 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02017\n22057\n
+}
+
+2057 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02037\n12058\n
+}
+
+2077 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22097\n32076\n
+}
+
+2097 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\n
+  flags O
+  direction 02077\n22117\n32096\n
+}
+
+2117 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02097\n12118\n
+}
+
+2137 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12138\n32136\n
+}
+
+2157 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12158\n22177\n32156\n
+}
+
+2177 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\n
+  flags O
+  direction 02157\n22197\n32176\n
+}
+
+2197 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02177\n22217\n
+}
+
+2217 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02197\n12218\n
+}
+
+2237 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32236\n
+}
+
+2257 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22277\n32256\n
+}
+
+2277 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02257\n22297\n
+}
+
+2297 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02277\n12298\n
+}
+
+2317 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12318\n22337\n
+}
+
+2337 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south from here.\n
+  flags O
+  direction 02317\n12338\n22357\n
+}
+
+2357 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02337\n
+}
+
+2377 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22397\n32376\n
+}
+
+2397 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02377\n12398\n32396\n
+}
+
+2018 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-west from here.\n
+  flags O
+  direction 12019\n32017\n
+}
+
+2038 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12039\n22058\n
+}
+
+2058 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south-west from here.\n
+  flags O
+  direction 02038\n12059\n22078\n32057\n
+}
+
+2078 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south from here.\n
+  flags O
+  direction 02058\n12079\n22098\n
+}
+
+2098 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02078\n
+}
+
+2118 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32117\n
+}
+
+2138 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22158\n32137\n
+}
+
+2158 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02138\n12159\n32157\n
+}
+
+2178 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 22198\n
+}
+
+2198 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east from here.\n
+  flags O
+  direction 02178\n12199\n
+}
+
+2218 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32217\n
+}
+
+2238 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south from here.\n
+  flags O
+  direction 12239\n22258\n
+}
+
+2258 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02238\n22278\n
+}
+
+2278 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02258\n22298\n
+}
+
+2298 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-south-west from here.\n
+  flags O
+  direction 02278\n12299\n22318\n32297\n
+}
+
+2318 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-east-west from here.\n
+  flags O
+  direction 02298\n12319\n32317\n
+}
+
+2338 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running east-south-west from here.\n
+  flags O
+  direction 12339\n22358\n32337\n
+}
+
+2358 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02338\n22378\n
+}
+
+2378 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02358\n
+}
+
+2398 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32397\n
+}
+
+2019 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32018\n
+}
+
+2039 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32038\n
+}
+
+2059 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32058\n
+}
+
+2079 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22099\n32078\n
+}
+
+2099 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02079\n
+}
+
+2119 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\n
+  flags O
+  direction 22139\n
+}
+
+2139 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 02119\n22159\n
+}
+
+2159 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 02139\n22179\n32158\n
+}
+
+2179 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 02159\n10\n22199\n
+}
+
+2199 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south-west from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 02179\n22219\n32198\n
+}
+
+2219 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 02199\n
+}
+
+2239 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22259\n32238\n
+}
+
+2259 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02239\n
+}
+
+2279 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south from here.\n
+  flags O
+  direction 22299\n
+}
+
+2299 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-west from here.\n
+  flags O
+  direction 02279\n32298\n
+}
+
+2319 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running west from here.\n
+  flags O
+  direction 32318\n
+}
+
+2339 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running south-west from here.\n
+  flags O
+  direction 22359\n32338\n
+}
+
+2359 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02339\n22379\n
+}
+
+2379 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north-south from here.\n
+  flags O
+  direction 02359\n22399\n
+}
+
+2399 {
+  name A creepy dungeon
+  desc You are on A creepy dungeon running north from here.\n
+  flags O
+  direction 02379\n
+}
+

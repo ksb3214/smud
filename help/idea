@@ -1,0 +1,17 @@
+Reporting to the SMUD admin
+
+SMUD is a dynamic game and various parts are constantly changing. The GODs
+appreciate that they make the odd mistake and are happy to have this pointed
+out to them.  There are three commands available:
+
+     bug    :  if something is not working as you expect
+     typo   : if you find a mispelling
+     idea   : if you think something could be done better or a new idea
+
+For each of these you must have your `email' set and type the command followed by as much information as possible about the situation.  For example:
+   
+     bug in the blacksmith's armoury in the newbie area the blacksmith
+     appears twice.
+     >Bug logged, thankyou!
+
+See also: email.

@@ -1,0 +1,8 @@
+Boot
+
+Boot a player out of the mud, effectively forcing them to quit.  All player
+information is saved for that player on booting.
+
+Syntax: boot [player]
+
+See also: cunt, nuke

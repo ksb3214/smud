@@ -1,0 +1,8 @@
+Examine
+
+Syntax:
+examine [mob/object/player]
+
+Examine gives you more information about the object, player or mob at which you
+are looking, in line with a more detailed look than first impressions alone
+would give you.

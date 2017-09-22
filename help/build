@@ -1,0 +1,4 @@
+build
+
+Shows you the current build info, it will in the future show which builds have
+been tagged as version increases and maybe a few other bits of version info.

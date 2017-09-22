@@ -1,0 +1,3 @@
+Usage: shortcuts [number command]
+
+On its own the command will display your current shortcut mappings, using the shortcut number and any command you can change these mappings.  New mappings may not be created.

@@ -1,0 +1,13 @@
+Reboot
+
+There are several ways in which SMUD can be shutdown or rebooted.
+
+`reboot' without argument will do a seamless soft reboot of the game.
+
+`shutdown reboot' will do a hard reboot, losing current connections,
+but will automatically bring the game back up within 60 seconds.
+
+`shutdown die' will close down the game completely and will then have
+to have a manual restart.
+
+SMUD doesn't crash, ever... :) 

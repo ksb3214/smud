@@ -1,0 +1,9 @@
+Group Communication
+
+Groups have their own private communication channel:
+
+     gsay    : speak to group members in the same room
+     gtell   : speak to all group members
+     gemote  : emote to the group channel
+
+See also: group, grouping.

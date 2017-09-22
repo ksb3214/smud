@@ -1,0 +1,22 @@
+Grouping
+
+It's a lot easier to pick a fight with your mates than alone...
+
+If you form a group then you will move together, attack together and
+share experience.  To form a group, get in the same room and decide on
+a group leader.  All players should `follow' the designated leader.  It
+is up to the leader to use the `group' command for each following player.
+
+Once grouped, the group command on its own will list the xp, hp, mana and
+mv for each member of the group.  Players may leave the group at any time
+by ceasing to follow the leader.  All members of the group will follow
+the leader's movement.
+
+If one member of the group initiates combat or is attacked, then all of
+the group will have a brief turn to respond and then will automatically
+join combat.
+
+There is no bonus for being a group leader so it may as well be the player
+who knows their way!
+
+See also: gsay, gemote, gtell, group, follow

@@ -1,0 +1,9 @@
+Goto
+
+This is a useful command enabling you to transport to specified player
+or room.
+
+Syntax: 
+
+goto [player/vnum]
+

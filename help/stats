@@ -1,0 +1,21 @@
+Statistics
+
+The `score' command shows your current statistics:
+Your attributes (see help attributes)
+
+Your hit points (hp), mana and movement (mv).  Hp is a measure of how healthy
+you are, and will increase as your level increases - as you get tougher.  Mana
+is a measure of concentration, your mental ability and affects your ability to
+cast spells and perform complex actions.  Your movement score limits how many
+rooms you can visit before you are exhausted from walking.
+
+Your experience points (xp) determine your level and are, unsuprisingly, a
+measure of how experienced you are.  You recieve the benefits of gaining a
+level every 1000xp gained.
+
+Your rating is a combination of how tough and well equiped you are, and will 
+change if you change your level, armour or what currently affects you. (See
+`help affects'and `help rating').
+
+You are also given information about your race, guild membership, homeroom,
+your wimpy value and the amount of gold in your purse.

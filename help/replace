@@ -1,0 +1,13 @@
+Replace
+
+The replace command allows you to substitute one of your secondary
+characters as your primary character and head of your family.
+
+Use:
+
+replace <primary character> <secondary character>
+
+You will then be prompted for your family password.  Remember, once the
+change has been made the demoted family head will earn tax if they do not
+advance just the same as all the other secondary characters (see `help
+tax').

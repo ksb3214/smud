@@ -1,0 +1,1583 @@
+2529 {
+  name Builders Walk
+  desc You are on Builders Walk running east from here.\n
+  flags O
+  direction 12530\n
+}
+
+2530 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\n
+  flags O
+  direction 12531\n32529\n
+}
+
+2531 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\n
+  flags O
+  direction 12532\n32530\n
+}
+
+2555 {
+  name Morris Way
+  desc You are on Morris Way running southeast from here.\n
+  flags O
+  direction 62568\n
+}
+
+2532 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12533\n32531\n
+}
+
+2568 {
+  name Morris Way
+  desc You are on Morris Way running northwest-southeast from here.\n
+  flags O
+  direction 52555\n62589\n
+}
+
+2533 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12534\n32532\n
+}
+
+2589 {
+  name Morris Way
+  desc You are on Morris Way running northwest-southeast from here.\n
+  flags O
+  direction 52568\n62607\n
+}
+
+2534 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\nMergaul Street is to the northeast.\nTo the northeast you can make out other junctions.\n
+  flags O
+  direction 12535\n32533\n42517\n
+}
+
+2607 {
+  name Morris Way
+  desc You are on Morris Way running east-northwest from here.\n
+  flags O
+  direction 12608\n52589\n
+}
+
+2517 {
+  name Mergaul Street
+  desc You are on Mergaul Street running northeast from here.\nBuilders Walk is to the southwest.\nTo the southwest you can make out other junctions.\n
+  flags O
+  direction 42505\n72534\n
+}
+
+2535 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12536\n32534\n
+}
+
+2608 {
+  name Morris Way
+  desc You are on Morris Way running west-northeast from here.\n
+  flags O
+  direction 32607\n42590\n
+}
+
+2678 {
+  name Turin Way
+  desc You are on Turin Way running east-northeast from here.\n
+  flags O
+  direction 12679\n42670\n
+}
+
+2505 {
+  name Mergaul Street
+  desc You are on Mergaul Street running east-southwest from here.\nTo the southwest you can make out other junctions.\n
+  flags O
+  direction 12506\n72517\n
+}
+
+2536 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12537\n32535\n
+}
+
+2590 {
+  name Morris Way
+  desc You are on Morris Way running east-southwest from here.\n
+  flags O
+  direction 12591\n72608\n
+}
+
+2670 {
+  name Turin Way
+  desc You are on Turin Way running northeast-southwest from here.\n
+  flags O
+  direction 42657\n72678\n
+}
+
+2679 {
+  name Turin Way
+  desc You are on Turin Way running east-west from here.\n
+  flags O
+  direction 12680\n32678\n
+}
+
+2706 {
+  name Magelan Market
+  desc You are on Magelan Market running east-south-northeast from here.\n
+  flags O
+  direction 12707\n22715\n42698\n
+}
+
+2715 {
+  name Magelan Market
+  desc You are on Magelan Market running north-east-southeast from here.\n
+  flags O
+  direction 02706\n12716\n62724\n
+}
+
+2506 {
+  name Mergaul Street
+  desc You are on Mergaul Street running east-west from here.\n
+  flags O
+  direction 12507\n32505\n
+}
+
+2537 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\n
+  flags O
+  direction 12538\n32536\n
+}
+
+2591 {
+  name Morris Way
+  desc You are on Morris Way running west-southeast from here.\nTo the southeast you can make out other junctions.\n
+  flags O
+  direction 32590\n62609\n
+}
+
+2657 {
+  name Turin Way
+  desc You are on Turin Way running northeast-southwest from here.\nTo the northeast you can make out other junctions.\n
+  flags O
+  direction 42644\n72670\n
+}
+
+2680 {
+  name Turin Way
+  desc You are on Turin Way running east-west from here.\n
+  flags O
+  direction 12681\n32679\n
+}
+
+2698 {
+  name Magelan Market
+  desc You are on Magelan Market running east-southwest from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12699\n72706\n
+}
+
+2707 {
+  name Magelan Market
+  desc You are on Magelan Market running east-south-west from here.\n
+  flags O
+  direction 12708\n22716\n32706\n
+}
+
+2716 {
+  name Magelan Market
+  desc You are on Magelan Market running north-east-south-west from here.\n
+  flags O
+  direction 02707\n12717\n22724\n32715\n
+}
+
+2724 {
+  name Magelan Market
+  desc You are on Magelan Market running north-east-northwest from here.\n
+  flags O
+  direction 02716\n12725\n52715\n
+}
+
+2507 {
+  name Mergaul Street
+  desc You are on Mergaul Street running east-west from here.\n
+  flags O
+  direction 12508\n32506\n
+}
+
+2538 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12539\n32537\n
+}
+
+2609 {
+  name Morris Way
+  desc You are on Morris Way running northwest from here.\nTurin Way is to the southeast.\nTo the southeast you can make out other junctions.\n
+  flags O
+  direction 52591\n62624\n
+}
+
+2644 {
+  name Turin Way
+  desc You are on Turin Way running northeast-southwest from here.\nTo the northeast you can make out other junctions.\n
+  flags O
+  direction 42624\n72657\n
+}
+
+2681 {
+  name Turin Way
+  desc You are on Turin Way running east-west from here.\n
+  flags O
+  direction 12682\n32680\n
+}
+
+2699 {
+  name Magelan Market
+  desc You are on Magelan Market running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12700\n32698\n
+}
+
+2708 {
+  name Magelan Market
+  desc You are on Magelan Market running east-west from here.\n
+  flags O
+  direction 12709\n32707\n
+}
+
+2717 {
+  name Magelan Market
+  desc You are on Magelan Market running east-west from here.\n
+  flags O
+  direction 12718\n32716\n
+}
+
+2725 {
+  name Magelan Market
+  desc You are on Magelan Market running west-northeast from here.\n
+  flags O
+  direction 32724\n42718\n
+}
+
+2508 {
+  name Mergaul Street
+  desc You are on Mergaul Street running east-west from here.\n
+  flags O
+  direction 12509\n32507\n
+}
+
+2539 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12540\n32538\n
+}
+
+2624 {
+  name Turin Way
+  desc You are on Turin Way running southwest from here.\nCross Street is to the northeast.\nMorris Way is to the northwest.\nTo the northeast and northwest you can make out other junctions.\n
+  flags O
+  direction 42610\n52609\n72644\n
+}
+
+2682 {
+  name Turin Way
+  desc You are on Turin Way running south-west from here.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 22685\n32681\n
+}
+
+2685 {
+  name Turin Way
+  desc You are on Turin Way running north from here.\nMagelan Market is to the south.\nFergal Walk is to the east.\nTo the east and south you can make out other junctions.\n
+  flags O
+  direction 02682\n12686\n22700\n
+}
+
+2700 {
+  name Magelan Market
+  desc You are on Magelan Market running east-west from here.\nTurin Way is to the north.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 02685\n12701\n32699\n
+}
+
+2709 {
+  name Magelan Market
+  desc You are on Magelan Market running west-northeast from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 32708\n42701\n
+}
+
+2718 {
+  name Magelan Market
+  desc You are on Magelan Market running east-west-southwest from here.\n
+  flags O
+  direction 12719\n32717\n72725\n
+}
+
+2509 {
+  name Mergaul Street
+  desc You are on Mergaul Street running east-west from here.\n
+  flags O
+  direction 12510\n32508\n
+}
+
+2540 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\nCross Street is to the south.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 12541\n22556\n32539\n
+}
+
+2556 {
+  name Cross Street
+  desc You are on Cross Street running south from here.\nBuilders Walk is to the north.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 02540\n22569\n
+}
+
+2569 {
+  name Cross Street
+  desc You are on Cross Street running north-south from here.\nMeres Walk is to the east.\nTo the north,east and south you can make out other junctions.\n
+  flags O
+  direction 02556\n12570\n22592\n
+}
+
+2592 {
+  name Cross Street
+  desc You are on Cross Street running north-south from here.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 02569\n22610\n
+}
+
+2610 {
+  name Cross Street
+  desc You are on Cross Street running north-southeast from here.\nTurin Way is to the southwest.\nTo the north and southwest you can make out other junctions.\n
+  flags O
+  direction 02592\n62625\n72624\n
+}
+
+2686 {
+  name Fergal Walk
+  desc You are on Fergal Walk running east from here.\nTurin Way is to the west.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12687\n32685\n
+}
+
+2701 {
+  name Magelan Market
+  desc You are on Magelan Market running east-west-southeast-southwest from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12702\n32700\n62710\n72709\n
+}
+
+2719 {
+  name Magelan Market
+  desc You are on Magelan Market running east-west from here.\n
+  flags O
+  direction 12720\n32718\n
+}
+
+2510 {
+  name Mergaul Street
+  desc You are on Mergaul Street running east-west from here.\n
+  flags O
+  direction 12511\n32509\n
+}
+
+2541 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12542\n32540\n
+}
+
+2570 {
+  name Meres Walk
+  desc You are on Meres Walk running east from here.\nCross Street is to the west.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12571\n32569\n
+}
+
+2625 {
+  name Cross Street
+  desc You are on Cross Street running northwest-southeast from here.\nTo the northwest you can make out other junctions.\n
+  flags O
+  direction 52610\n62645\n
+}
+
+2687 {
+  name Fergal Walk
+  desc You are on Fergal Walk running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12688\n32686\n
+}
+
+2702 {
+  name Magelan Market
+  desc You are on Magelan Market running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12703\n32701\n
+}
+
+2710 {
+  name Magelan Market
+  desc You are on Magelan Market running northwest-southeast from here.\n
+  flags O
+  direction 52701\n62721\n
+}
+
+2720 {
+  name Magelan Market
+  desc You are on Magelan Market running east-west from here.\n
+  flags O
+  direction 12721\n32719\n
+}
+
+2511 {
+  name Mergaul Street
+  desc You are on Mergaul Street running east-west from here.\n
+  flags O
+  direction 12512\n32510\n
+}
+
+2542 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12543\n32541\n
+}
+
+2571 {
+  name Meres Walk
+  desc You are on Meres Walk running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12572\n32570\n
+}
+
+2645 {
+  name Cross Street
+  desc You are on Cross Street running northwest-southeast from here.\nTo the northwest you can make out other junctions.\n
+  flags O
+  direction 52625\n62658\n
+}
+
+2688 {
+  name Fergal Walk
+  desc You are on Fergal Walk running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12689\n32687\n
+}
+
+2703 {
+  name Magelan Market
+  desc You are on Magelan Market running east-west from here.\n
+  flags O
+  direction 12704\n32702\n
+}
+
+2711 {
+  name Magelan Market
+  desc You are on Magelan Market running east-south from here.\n
+  flags O
+  direction 12712\n22721\n
+}
+
+2721 {
+  name Magelan Market
+  desc You are on Magelan Market running north-east-west-northwest from here.\n
+  flags O
+  direction 02711\n12722\n32720\n52710\n
+}
+
+2512 {
+  name Mergaul Street
+  desc You are on Mergaul Street running west-southeast from here.\n
+  flags O
+  direction 32511\n62518\n
+}
+
+2543 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12544\n32542\n
+}
+
+2572 {
+  name Meres Walk
+  desc You are on Meres Walk running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12573\n32571\n
+}
+
+2658 {
+  name Cross Street
+  desc You are on Cross Street running northwest-southeast from here.\n
+  flags O
+  direction 52645\n62671\n
+}
+
+2689 {
+  name Fergal Walk
+  desc You are on Fergal Walk running east-west from here.\n
+  flags O
+  direction 12690\n32688\n
+}
+
+2704 {
+  name Magelan Market
+  desc You are on Magelan Market running west-southeast from here.\n
+  flags O
+  direction 32703\n62713\n
+}
+
+2712 {
+  name Magelan Market
+  desc You are on Magelan Market running east-west from here.\n
+  flags O
+  direction 12713\n32711\n
+}
+
+2722 {
+  name Magelan Market
+  desc You are on Magelan Market running west-northeast from here.\n
+  flags O
+  direction 32721\n42713\n
+}
+
+2518 {
+  name Mergaul Street
+  desc You are on Mergaul Street running east-northwest from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12519\n52512\n
+}
+
+2544 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12545\n32543\n
+}
+
+2573 {
+  name Meres Walk
+  desc You are on Meres Walk running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12574\n32572\n
+}
+
+2671 {
+  name Cross Street
+  desc You are on Cross Street running east-northwest from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12672\n52658\n
+}
+
+2690 {
+  name Fergal Walk
+  desc You are on Fergal Walk running east-west from here.\n
+  flags O
+  direction 12691\n32689\n
+}
+
+2713 {
+  name Magelan Market
+  desc You are on Magelan Market running west-northwest-southwest from here.\n
+  flags O
+  direction 32712\n52704\n72722\n
+}
+
+2500 {
+  name Neu Street
+  desc You are on Neu Street running south from here.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 22501\n
+}
+
+2501 {
+  name Neu Street
+  desc You are on Neu Street running north-south from here.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 02500\n22513\n
+}
+
+2513 {
+  name Neu Street
+  desc You are on Neu Street running north from here.\nMergaul Street is to the south.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 02501\n22519\n
+}
+
+2519 {
+  name Mergaul Street
+  desc You are on Mergaul Street running east-west from here.\nBuilders Walk is to the south.\nNeu Street is to the north.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 02513\n12520\n22545\n32518\n
+}
+
+2545 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\nMergaul Street is to the north.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 02519\n12546\n32544\n
+}
+
+2574 {
+  name Meres Walk
+  desc You are on Meres Walk running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12575\n32573\n
+}
+
+2672 {
+  name Cross Street
+  desc You are on Cross Street running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12673\n32671\n
+}
+
+2691 {
+  name Fergal Walk
+  desc You are on Fergal Walk running east-west from here.\n
+  flags O
+  direction 12692\n32690\n
+}
+
+2520 {
+  name Mergaul Street
+  desc You are on Mergaul Street running east-west from here.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 12521\n32519\n
+}
+
+2546 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 12547\n32545\n
+}
+
+2575 {
+  name Meres Walk
+  desc You are on Meres Walk running west-northeast from here.\nGate Street is to the south.\nTo the south and northeast you can make out other junctions.\n
+  flags O
+  direction 22593\n32574\n42557\n
+}
+
+2593 {
+  name Gate Street
+  desc You are on Gate Street running south from here.\nMeres Walk is to the north.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 02575\n22611\n
+}
+
+2611 {
+  name Gate Street
+  desc You are on Gate Street running north-south from here.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 02593\n22626\n
+}
+
+2626 {
+  name Gate Street
+  desc You are on Gate Street running north-south from here.\nPark Walk is to the east.\nTo the north,east and south you can make out other junctions.\n
+  flags O
+  direction 02611\n12627\n22646\n
+}
+
+2646 {
+  name Gate Street
+  desc You are on Gate Street running north-south from here.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 02626\n22659\n
+}
+
+2659 {
+  name Gate Street
+  desc You are on Gate Street running north from here.\nCross Street is to the south.\nTo the north and south you can make out other junctions.\n
+  flags O
+  direction 02646\n22673\n
+}
+
+2673 {
+  name Cross Street
+  desc You are on Cross Street running east-west from here.\nGate Street is to the north.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 02659\n12674\n32672\n
+}
+
+2692 {
+  name Fergal Walk
+  desc You are on Fergal Walk running east-west from here.\n
+  flags O
+  direction 12693\n32691\n
+}
+
+2521 {
+  name Mergaul Street
+  desc You are on Mergaul Street running east-west from here.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 12522\n32520\n
+}
+
+2547 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 12548\n32546\n
+}
+
+2557 {
+  name Meres Walk
+  desc You are on Meres Walk running southwest from here.\nBuilders Walk is to the northeast.\nTo the northeast and southwest you can make out other junctions.\n
+  flags O
+  direction 42548\n72575\n
+}
+
+2627 {
+  name Park Walk
+  desc You are on Park Walk running east from here.\nGate Street is to the west.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12628\n32626\n
+}
+
+2674 {
+  name Cross Street
+  desc You are on Cross Street running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12675\n32673\n
+}
+
+2693 {
+  name Fergal Walk
+  desc You are on Fergal Walk running east-west from here.\n
+  flags O
+  direction 12694\n32692\n
+}
+
+2514 {
+  name Jaris Street
+  desc You are on Jaris Street running east from here.\nMergaul Street is to the south.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 12515\n22522\n
+}
+
+2522 {
+  name Mergaul Street
+  desc You are on Mergaul Street running east-west from here.\nJaris Street is to the north.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 02514\n12523\n32521\n
+}
+
+2548 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\nMeres Walk is to the southwest.\nTo the north and southwest you can make out other junctions.\n
+  flags O
+  direction 12549\n32547\n72557\n
+}
+
+2628 {
+  name Park Walk
+  desc You are on Park Walk running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12629\n32627\n
+}
+
+2675 {
+  name Cross Street
+  desc You are on Cross Street running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12676\n32674\n
+}
+
+2694 {
+  name Fergal Walk
+  desc You are on Fergal Walk running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12695\n32693\n
+}
+
+2515 {
+  name Jaris Street
+  desc You are on Jaris Street running west-northeast from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 32514\n42502\n
+}
+
+2523 {
+  name Mergaul Street
+  desc You are on Mergaul Street running east-west from here.\nTo the west and southwest you can make out other junctions.\n
+  flags O
+  direction 12524\n32522\n
+}
+
+2549 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12550\n32548\n
+}
+
+2629 {
+  name Park Walk
+  desc You are on Park Walk running east-west from here.\nTo the east and west you can make out other junctions.\n
+  flags O
+  direction 12630\n32628\n
+}
+
+2676 {
+  name Cross Street
+  desc You are on Cross Street running west-southeast from here.\nTo the southeast you can make out other junctions.\n
+  flags O
+  direction 32675\n62683\n
+}
+
+2695 {
+  name Fergal Walk
+  desc You are on Fergal Walk running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12696\n32694\n
+}
+
+2502 {
+  name Jaris Street
+  desc You are on Jaris Street running east-southwest from here.\n
+  flags O
+  direction 12503\n72515\n
+}
+
+2524 {
+  name Mergaul Street
+  desc You are on Mergaul Street running west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 32523\n
+}
+
+2550 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12551\n32549\n
+}
+
+2630 {
+  name Park Walk
+  desc You are on Park Walk running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12631\n32629\n
+}
+
+2683 {
+  name Cross Street
+  desc You are on Cross Street running northwest-southeast from here.\nTo the southeast you can make out other junctions.\n
+  flags O
+  direction 52676\n62697\n
+}
+
+2696 {
+  name Fergal Walk
+  desc You are on Fergal Walk running west from here.\nCross Street is to the east.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12697\n32695\n
+}
+
+2503 {
+  name Jaris Street
+  desc You are on Jaris Street running east-west from here.\n
+  flags O
+  direction 12504\n32502\n
+}
+
+2551 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\n
+  flags O
+  direction 12552\n32550\n
+}
+
+2631 {
+  name Park Walk
+  desc You are on Park Walk running west from here.\nCity Park is to the east.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12632\n32630\n
+}
+
+2697 {
+  name Cross Street
+  desc You are on Cross Street running northwest-southeast from here.\nFergal Walk is to the west.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 32696\n52683\n62705\n
+}
+
+2504 {
+  name Jaris Street
+  desc You are on Jaris Street running west-southeast from here.\n
+  flags O
+  direction 32503\n62516\n
+}
+
+2552 {
+  name Builders Walk
+  desc You are on Builders Walk running east-west from here.\n
+  flags O
+  direction 12553\n32551\n
+}
+
+2576 {
+  name City Park
+  desc You are on City Park running east-south from here.\n
+  flags O
+  direction 12577\n22594\n
+}
+
+2594 {
+  name City Park
+  desc You are on City Park running north-east-south from here.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 02576\n12595\n22612\n
+}
+
+2612 {
+  name City Park
+  desc You are on City Park running north-east-south from here.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 02594\n12613\n22632\n
+}
+
+2632 {
+  name City Park
+  desc You are on City Park running north-east from here.\nPark Walk is to the west.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 02612\n12633\n32631\n
+}
+
+2647 {
+  name City Park
+  desc You are on City Park running east-south from here.\n
+  flags O
+  direction 12648\n22660\n
+}
+
+2660 {
+  name City Park
+  desc You are on City Park running north-east from here.\n
+  flags O
+  direction 02647\n12661\n
+}
+
+2705 {
+  name Cross Street
+  desc You are on Cross Street running northwest-southeast from here.\nTo the northwest you can make out other junctions.\n
+  flags O
+  direction 52697\n62714\n
+}
+
+2516 {
+  name Jaris Street
+  desc You are on Jaris Street running northwest-southeast from here.\n
+  flags O
+  direction 52504\n62525\n
+}
+
+2553 {
+  name Builders Walk
+  desc You are on Builders Walk running west from here.\n
+  flags O
+  direction 32552\n
+}
+
+2577 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12578\n32576\n
+}
+
+2595 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12596\n32594\n
+}
+
+2613 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12614\n32612\n
+}
+
+2633 {
+  name City Park
+  desc You are on City Park running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12634\n32632\n
+}
+
+2648 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12649\n32647\n
+}
+
+2661 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12662\n32660\n
+}
+
+2714 {
+  name Cross Street
+  desc You are on Cross Street running northwest-southeast from here.\nTo the northwest you can make out other junctions.\n
+  flags O
+  direction 52705\n62723\n
+}
+
+2525 {
+  name Jaris Street
+  desc You are on Jaris Street running east-northwest from here.\n
+  flags O
+  direction 12526\n52516\n
+}
+
+2578 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12579\n32577\n
+}
+
+2596 {
+  name City Park
+  desc You are on City Park running east-south-west from here.\n
+  flags O
+  direction 12597\n22614\n32595\n
+}
+
+2614 {
+  name City Park
+  desc You are on City Park running north-east-west from here.\n
+  flags O
+  direction 02596\n12615\n32613\n
+}
+
+2634 {
+  name City Park
+  desc You are on City Park running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12635\n32633\n
+}
+
+2649 {
+  name City Park
+  desc You are on City Park running east-south-west from here.\n
+  flags O
+  direction 12650\n22662\n32648\n
+}
+
+2662 {
+  name City Park
+  desc You are on City Park running north-east-west from here.\n
+  flags O
+  direction 02649\n12663\n32661\n
+}
+
+2723 {
+  name Cross Street
+  desc You are on Cross Street running northwest from here.\n
+  flags O
+  direction 52714\n
+}
+
+2526 {
+  name Jaris Street
+  desc You are on Jaris Street running east-west from here.\n
+  flags O
+  direction 12527\n32525\n
+}
+
+2579 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12580\n32578\n
+}
+
+2597 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12598\n32596\n
+}
+
+2615 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12616\n32614\n
+}
+
+2635 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12636\n32634\n
+}
+
+2650 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12651\n32649\n
+}
+
+2663 {
+  name City Park
+  desc You are on City Park running east-west-northeast from here.\n
+  flags O
+  direction 12664\n32662\n42651\n
+}
+
+2527 {
+  name Jaris Street
+  desc You are on Jaris Street running east-west from here.\n
+  flags O
+  direction 12528\n32526\n
+}
+
+2580 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12581\n32579\n
+}
+
+2598 {
+  name City Park
+  desc You are on City Park running east-south-west from here.\n
+  flags O
+  direction 12599\n22616\n32597\n
+}
+
+2616 {
+  name City Park
+  desc You are on City Park running north-east-west from here.\n
+  flags O
+  direction 02598\n12617\n32615\n
+}
+
+2636 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12637\n32635\n
+}
+
+2651 {
+  name City Park
+  desc You are on City Park running east-west-southwest from here.\n
+  flags O
+  direction 12652\n32650\n72663\n
+}
+
+2664 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12665\n32663\n
+}
+
+2528 {
+  name Jaris Street
+  desc You are on Jaris Street running west-southeast from here.\n
+  flags O
+  direction 32527\n62554\n
+}
+
+2581 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12582\n32580\n
+}
+
+2599 {
+  name City Park
+  desc You are on City Park running west from here.\n
+  flags O
+  direction 32598\n
+}
+
+2617 {
+  name City Park
+  desc You are on City Park running west-northeast from here.\n
+  flags O
+  direction 32616\n42600\n
+}
+
+2637 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12638\n32636\n
+}
+
+2652 {
+  name City Park
+  desc You are on City Park running east-south-west from here.\n
+  flags O
+  direction 12653\n22665\n32651\n
+}
+
+2665 {
+  name City Park
+  desc You are on City Park running north-east-west from here.\n
+  flags O
+  direction 02652\n12666\n32664\n
+}
+
+2554 {
+  name Jaris Street
+  desc You are on Jaris Street running northwest-southeast from here.\n
+  flags O
+  direction 52528\n62558\n
+}
+
+2582 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12583\n32581\n
+}
+
+2600 {
+  name City Park
+  desc You are on City Park running east-southwest from here.\n
+  flags O
+  direction 12601\n72617\n
+}
+
+2638 {
+  name City Park
+  desc You are on City Park running west from here.\n
+  flags O
+  direction 32637\n
+}
+
+2653 {
+  name City Park
+  desc You are on City Park running east-south-west from here.\n
+  flags O
+  direction 12654\n22666\n32652\n
+}
+
+2666 {
+  name City Park
+  desc You are on City Park running north-east-west from here.\n
+  flags O
+  direction 02653\n12667\n32665\n
+}
+
+2558 {
+  name Jaris Street
+  desc You are on Jaris Street running east-northwest from here.\n
+  flags O
+  direction 12559\n52554\n
+}
+
+2583 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12584\n32582\n
+}
+
+2601 {
+  name City Park
+  desc You are on City Park running south-west from here.\n
+  flags O
+  direction 22618\n32600\n
+}
+
+2618 {
+  name City Park
+  desc You are on City Park running north-south from here.\n
+  flags O
+  direction 02601\n22639\n
+}
+
+2639 {
+  name City Park
+  desc You are on City Park running north from here.\n
+  flags O
+  direction 02618\n
+}
+
+2654 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12655\n32653\n
+}
+
+2667 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12668\n32666\n
+}
+
+2559 {
+  name Jaris Street
+  desc You are on Jaris Street running east-west from here.\n
+  flags O
+  direction 12560\n32558\n
+}
+
+2584 {
+  name City Park
+  desc You are on City Park running east-south-west from here.\n
+  flags O
+  direction 12585\n22602\n32583\n
+}
+
+2602 {
+  name City Park
+  desc You are on City Park running north-east-south from here.\n
+  flags O
+  direction 02584\n12603\n22619\n
+}
+
+2619 {
+  name City Park
+  desc You are on City Park running north-east-south from here.\n
+  flags O
+  direction 02602\n12620\n22640\n
+}
+
+2640 {
+  name City Park
+  desc You are on City Park running north-south from here.\n
+  flags O
+  direction 02619\n22655\n
+}
+
+2655 {
+  name City Park
+  desc You are on City Park running north-south-west from here.\n
+  flags O
+  direction 02640\n22668\n32654\n
+}
+
+2668 {
+  name City Park
+  desc You are on City Park running north-west from here.\n
+  flags O
+  direction 02655\n32667\n
+}
+
+2560 {
+  name Jaris Street
+  desc You are on Jaris Street running east-west from here.\n
+  flags O
+  direction 12561\n32559\n
+}
+
+2585 {
+  name City Park
+  desc You are on City Park running east-south-west from here.\n
+  flags O
+  direction 12586\n22603\n32584\n
+}
+
+2603 {
+  name City Park
+  desc You are on City Park running north-east-west-southeast from here.\n
+  flags O
+  direction 02585\n12604\n32602\n62621\n
+}
+
+2620 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12621\n32619\n
+}
+
+2561 {
+  name Jaris Street
+  desc You are on Jaris Street running east-west from here.\n
+  flags O
+  direction 12562\n32560\n
+}
+
+2586 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12587\n32585\n
+}
+
+2604 {
+  name City Park
+  desc You are on City Park running east-west from here.\n
+  flags O
+  direction 12605\n32603\n
+}
+
+2621 {
+  name City Park
+  desc You are on City Park running east-west-northwest from here.\n
+  flags O
+  direction 12622\n32620\n52603\n
+}
+
+2641 {
+  name Down Way
+  desc You are on Down Way running east-south from here.\n
+  flags O
+  direction 12642\n22656\n
+}
+
+2656 {
+  name Down Way
+  desc You are on Down Way running north-south from here.\n
+  flags O
+  direction 02641\n22669\n
+}
+
+2669 {
+  name Down Way
+  desc You are on Down Way running north-south from here.\n
+  flags O
+  direction 02656\n22677\n
+}
+
+2677 {
+  name Down Way
+  desc You are on Down Way running north-south from here.\n
+  flags O
+  direction 02669\n22684\n
+}
+
+2684 {
+  name Down Way
+  desc You are on Down Way running north from here.\n
+  flags O
+  direction 02677\n
+}
+
+2562 {
+  name Jaris Street
+  desc You are on Jaris Street running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12563\n32561\n
+}
+
+2587 {
+  name City Park
+  desc You are on City Park running south-west from here.\n
+  flags O
+  direction 22605\n32586\n
+}
+
+2605 {
+  name City Park
+  desc You are on City Park running north-south-west from here.\n
+  flags O
+  direction 02587\n22622\n32604\n
+}
+
+2622 {
+  name City Park
+  desc You are on City Park running north-west from here.\n
+  flags O
+  direction 02605\n32621\n
+}
+
+2642 {
+  name Down Way
+  desc You are on Down Way running east-west from here.\n
+  flags O
+  direction 12643\n32641\n
+}
+
+2563 {
+  name Jaris Street
+  desc You are on Jaris Street running east-west from here.\nTo the east you can make out other junctions.\n
+  flags O
+  direction 12564\n32562\n
+}
+
+2643 {
+  name Down Way
+  desc You are on Down Way running west-northeast from here.\n
+  flags O
+  direction 32642\n42623\n
+}
+
+2564 {
+  name Jaris Street
+  desc You are on Jaris Street running east-west from here.\nDown Way is to the south.\nTo the south you can make out other junctions.\n
+  flags O
+  direction 12565\n22588\n32563\n
+}
+
+2588 {
+  name Down Way
+  desc You are on Down Way running south from here.\nJaris Street is to the north.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 02564\n22606\n
+}
+
+2606 {
+  name Down Way
+  desc You are on Down Way running north-south from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 02588\n22623\n
+}
+
+2623 {
+  name Down Way
+  desc You are on Down Way running north-southwest from here.\nTo the north you can make out other junctions.\n
+  flags O
+  direction 02606\n72643\n
+}
+
+2565 {
+  name Jaris Street
+  desc You are on Jaris Street running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12566\n32564\n
+}
+
+2566 {
+  name Jaris Street
+  desc You are on Jaris Street running east-west from here.\nTo the west you can make out other junctions.\n
+  flags O
+  direction 12567\n32565\n
+}
+
+2567 {
+  name Jaris Street
+  desc You are on Jaris Street running west from here.\n
+  flags O
+  direction 32566\n
+}
+
+# 226 rooms generated

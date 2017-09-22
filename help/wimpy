@@ -1,0 +1,5 @@
+wimpy
+
+This allows you to set a value which represents how low you want your hit
+points to get before you character tries to flee automatically. Typing the 
+command with no arguments will reset your wimpy value.

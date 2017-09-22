@@ -1,0 +1,7 @@
+Syntax: order [character] [commands]
+
+Order allows you to impose your will on a character under your control, e.g.
+`order callisto remove sword'
+will order the callisto character to remove her sword, providing that she is
+under your control of course! Giving orders to characters not under your
+control is liable to be bad for your health...

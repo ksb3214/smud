@@ -1,0 +1,18 @@
+SMUD Postal System
+
+You may send letters or items through the postal system to other players, as long as they have a home room to which it can be delivered.  To post an item you must be in the same room as a postbox or a postperson, letters may also be posted from your homeroom.
+
+To post:
+
+post [letter|item] to [player]
+
+Items for posting must be in your inventory and can only be posted with help of a postperson.  Parcels appear in the player's homeroom where the recipient can `unwrap' them.  After typing the `post letter to [player]' command, you will be asked for the message subject and then be put into the editor to write the letter (see `help editor'). Letters will be delivered to their mailbox which is accessed using the `mail' commands in your homeroom only:
+
+mail read             : reads next unread message
+mail read [number]    : reads message [number]
+mail list             : lists new mail only
+mail list [all]       : lists all mail
+mail delete [number]  : marks message [number] for deletion
+mail undelete [number]: unmarks message [number] for deletion
+mail purge            : deletes all messages marked for deletion
+

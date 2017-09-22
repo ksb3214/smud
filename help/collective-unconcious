@@ -1,0 +1,15 @@
+Syntax: cast collective-unconcious
+
+This spell links the minds and bodies of everyone in your group. Group members
+can donate health, mana and movement to an ethereal group spirit. Any equipment
+or gold gained as a result of killing mobs will automatically be taken by the
+spirit. Donated statistics will reduce individual statistics by the same
+amount, but the whole group has access to the spirit's statistics. Thus a
+warroir taking all the hits will effectively have a total health equal to that
+of the total donated plus whatever that warrior has not donated. A similar
+effect will occur for mages with mana. Death will only occur for group members
+when their individual health and the health of the spirit is reduced to zero.
+Upon leaving the group a player will recieve back all statistics they have
+donated, and their share of any equipment and gold collected. The spirit is
+created as only visable to the group and will vanish when the group disbands.
+See also the help files on _s_d_o_n_a_t_e and _s_w_i_t_h_d_r_a_w.

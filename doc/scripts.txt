@@ -1,0 +1,48 @@
+The Smud scripting lanuage.. ssl
+
+This file has and is being written along side development, so it may be crap, deal with it ;)
+
+Events..
+
+playerent:		// player enters a room
+playerleave:		// player is about to leave the room
+pleayerpostleave:	// player has left room
+playerlogon:		// player logs on
+playerlogoff:		// player logs off
+playersay:		// player 'says' to the room
+playeremote:		// player 'emotes' to the room
+
+mobent:			// A mob enters a room
+mobleave:		// A mob is about to leave
+mobpostleave:		// the mob has left
+moddie:			// the mob has died
+
+objuse:			// object is used
+objdrop:		// object is dropped
+objwield:		// object is wielded
+objhold:		// object is held
+objtaken:		// object taken
+
+tick:			// each game tick
+gamehour:		// each game hour (about 30 seconds)
+minute:			// real minute
+hour:			// real hour
+
+Variables..
+
+A few 'special' variables are set for you...
+
+$me			// the object the script is attached to
+$player			// The player associated with the event
+$mob			// the mob associated with the event
+$obj			// the object associated with the event
+$glob			// global variables available to the mud
+
+If any of these are not applicable they will be set to 'UNSET'
+
+The scripting portion can be in any object/room/mob in the 'script' attribute.
+All statements are semicolon seperated with the exception of event tags which all end in a colon. all other characters between the end of a statement and the beginning of a new one are ignored (carriage returns, spaces, etc).
+
+
+
+

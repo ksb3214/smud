@@ -1,0 +1,6 @@
+Advance
+
+Using `advance [playername]' you may increase the xp of a player by
+1000 pts, effectively advancing them a full level.  This should only 
+be used as rewards or in exceptional circumstances.
+

@@ -1,0 +1,22 @@
+Newbie Command Reference
+
+Here is a summary of commands to get you started. Use `help <commandname>' to get
+more detailed help, and `commands' to list all the commands available.
+
+   n ne e se s sw w nw u d move in that direction
+   consider                your chances of beating a mob
+   score                   your current score
+   inventory               your possessions
+   affects                 what affects you
+   kill                    attack a mob
+   flee                    run from a fight
+   wimpy                   set a level for auto flee
+   chat/chemote            speak/emote to everyone
+   question/qemote         ask/emote a question
+   tell/pemote             speak/emote to a specific player
+   look                    examine the room
+   examine                 examine an object
+   take/wear/wield/hold    take/wear/wield/hold object
+   recall                  return to your resurrection site
+
+See also `help new'.

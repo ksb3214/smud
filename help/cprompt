@@ -1,0 +1,26 @@
+Custom prompt..
+
+The prompt command allows you to put whatever information in your prompt
+you want using the tokens below...
+
+The cprompt command works in the same way but replaces the prompt command
+during combat...
+
+syntax: prompt [prompt str]
+syntax: cprompt [prompt str]
+
+If prompt/cprompt has no arguments it will revert your prompt to default.
+
+Tokens..
+
+%h - Hit points,   %H - Maximum Hit points
+%m - Mana,         %M - Maximum Mana
+%v - Movement,     %V - Maximum Movement
+%x - Experience,   %g - Current Gold
+%a - Alignment,    %r - Current room name
+%T - Current mob fighting name
+%t - Current mob fighting Hit points
+
+So... the default prompt would be
+
+prompt %hhp %mm %vmv>  

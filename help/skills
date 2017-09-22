@@ -1,0 +1,18 @@
+Skills
+
+Skills on SMUD are divided into levels.  Your Guild will determine to what
+extent each skill can be practiced. You must be in your guild practice room 
+to practise skills in exchange for practice points.
+
+Syntax: skills                  - lists the top level skills
+        skills [skill category] - lists the sub skills for that category
+	practice [skill]        - practice that skill
+
+For example, to practice dodge in the defense section of combat type:
+        practice com.def.dodge
+
+An asterix (*) next to the skill indicates that the skill is an extra
+command, other skills will be used automatically when appropriate or
+provide bonuses for certain actions.
+
+See also: guilds, train.

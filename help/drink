@@ -1,0 +1,10 @@
+Drinking
+
+In order to quench your thirst or take a potion you need to drink the
+relevant object. Depending on the type of object you may need to drink
+it or quaff it:
+
+Syntax:
+
+     drink [object]
+     quaff [object]

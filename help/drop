@@ -1,0 +1,9 @@
+  Drop
+  
+  Syntax:
+  ddrroopp [[oobbjjeecctt]]
+  
+  Drop allows you to drop an item from your inventory onto the floor in the
+  current room.
+
+  See also: give.

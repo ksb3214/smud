@@ -1,0 +1,10 @@
+Guilds
+
+The `guilds' command will list all the current guilds, the level at which 
+you may join and any fee.  You may remain in the Adventurers guild for as 
+long as you wish.  Joining a guild will affect the balance of skills that 
+you may learn.  The highest ranking player in a guild is automatically the 
+Guildmaster.
+
+To join a guild you must be in the guild rooms, fulfill any requirements
+of the guild and use the `join' command.

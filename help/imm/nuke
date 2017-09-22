@@ -1,0 +1,12 @@
+Nuke
+
+If a player has deliberately flouted the rules and they are no longer
+welcome on SMUD then you may nuke them:
+
+nuke [player]
+
+This will disconect the player if they are currently online and will
+permanently remove their pfile.  As such, nuke should be used as a 
+last resort.
+
+See also: boot, cunt

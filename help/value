@@ -1,0 +1,14 @@
+Shopping
+
+Across SMUD there are various shopkeepers who will be able to sell you
+items to aid you on your travels.  Shopkeepers are usually identified 
+by their description or by the description of the room in which they are 
+located.  To interact with shopkeepers:
+     list         : lists all items for sale
+     buy object   : purchase object for list price
+     value object : get shopkeeper's valuation of object 
+     sell object  : sell object from your inventory for valued price.
+
+Different shopkeeper will trade in different types of goods - what is 
+worthless to one may be priceless to another.  Costs of goods will vary
+so do your shopping carefully.

@@ -1,0 +1,17 @@
+Area file format
+
+
+vnum (MUST be unique)
+%
+name (60 char limit)
+%
+lower level
+%
+higher level
+%
+room def filename (just the file, don't include a path)
+%
+Author
+%
+mob idx filename (must be in /smud/mobs) leave blank if none
+%

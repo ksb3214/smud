@@ -1,0 +1,192 @@
+Things to do before SlightMUD goes live....
+*******************************************
+
+Stability and admin:
+____________________
+
+*autoboot after crashing 	(KSB)
+*logging 			(KSB)
+*shutdown 			(KSB)
+*auto email SMUD account with bugs/typos/ideas (KSB)
+*pfiles 			(KSB)
+colour usage			(KSB)
+*insert carriage returns into all output (May not be needed, KSB)
+dynamic configuring by players  (MJ)
+*idleout 			(KSB)
+*reconnect 			(KSB)
+statistics
+	memory used			(MJ)
+	slots left (mob/room/player)		(KSB)
+	averages on slots (adjust code when mud gets popular ;0 )
+	no. players on each hour	(MJ)
+	peak players			(MJ)
+	areas most hunted		(MJ)
+	top 20 most killed mobs		(MJ)
+	summary of average xp awarded per level
+	most used help files
+	unknown commands		(MJ)
+	unused helpfiles		(KSB)
+	popular typos
+report back to player when bugs/ypos fixed and ideas implemented
+
+Mechanics:
+__________
+
+*spirit help			(N/A)
+*combat system			(KSB)
+*	xp formulas		(KSB)
+*	damage			(KSB)
+*	hit tests		(KSB)
+grouping structures		(KSB)
+*music system
+*guild system			(KSB)
+*spell system			(KSB)
+*skill system			(KSB)
+player killing
+*rank system 			(KSB)
+*banking system			(KSB)
+*judge system			(KSB)
+*help command to cope with html (KSB)
+help to cope with paging
+*hide passwords 		(KSB)
+*confirm name 			(KSB)
+*implement areas		(KSB)
+corpse system			(KSB)
+dynamic reusable objects (e.g. body parts)
+home (family) rooms		(KSB)
+editor (NUTS???)		(KSB)
+news system			(KSB)
+leagues (players/families/clans/guilds - seperate for heros?) (KSB)
+family system
+*weather system			(KSB)
+*make shopkeepers sell things   (KSB)
+*mobs movement			(KSB)		
+mob memories			(KSB)
+number of recent deaths for mob to determine xp...	(KSB)
+make score useful ;)		(KSB)
+optional language filter	(KSB)
+voting system			(MJ)
+single/multi room explosions	(KSB)
+mortal wounds
+random luck system
+illnesses
+spirit help and autoalert imms if newbies seem stuck
+ask for players email address (redirect player@slightmud.org and email
+	updates)
+emergancy email system
+no exit room implementation	(KSB)
+weight of objects		(KSB)
+Code in MUD mail eventually     (MJ) 
+
+Player effects:
+_______________
+hunger
+thirst
+*movement loss/gain		(KSB)
+*mana loss/gain			(KSB)
+*health loss/gain 		(KSB)
+*age				(no point really)
+*number of deaths		(KSB)
+*logon time			(KSB)
+*total logon time		(KSB)
+*clan/guild/family info		(KSB)
+number mobs killed ?		(KSB)
+league position			(KSB)
+area most hunted in		(MJ)
+% of SMUD explored bonuses at 25, 50,75 and 100 %                       
+Explorers League - option to become a guide when 100% reached (or 95?)
+Auto delete characters that are inactive for 6months unless arranged
+        with admin for an extension - flag as nodelete                          
+
+Basic commands:
+_______________
+
+ignore [player/channel inc friends lists ;)]  	(KSB)
+configure			(MJ used set)
+title				(KSB)
+league				(KSB)
+*finger				(KSB)
+*time 				(KSB)
+*tell 				(KSB)
+*pemote 			(KSB)
+*emote				(KSB)
+drivel				(KSB)
+dremote				(KSB)
+*question			(KSB)
+*qemote				(KSB)
+*answer				(KSB)
+*ansemote			(KSB)
+showlist			(KSB)
+list (etc)			(KSB)
+group				(KSB)
+follow				(KSB)
+gtell				(KSB)
+gemote				(KSB)
+*play				(N/A)
+*open				(KSB)
+*close				(KSB)
+visit				(KSB)
+*areas				(KSB)
+*use				(KSB)
+*put
+*train				(KSB)
+*practise			(KSB)
+*give				(KSB)
+*autoexit			(MJ)
+*autoloot			(MJ)
+*autosac			(MJ)
+colour				(KSB)
+hitells				(KSB)
+prompt				(KSB)
+cprompt				(KSB)
+quiet
+snoop				(KSB used watch)
+telnetga			(KSB)
+filter
+nominate
+vote
+debate				(MJ)
+throw				(KSB as a skill)
+*sleep				(KSB)
+*sacrifice/bury			(KSB)
+*spirithelp(?)			(abandonned for now)
+
+
+Immortals commands:
+___________________
+
+*oload (object load)			(KSB)
+*opurge (object purge)
+*mpurge (mob purge)			(KSB)
+*wizlist
+*locate room (get vnum) 		(KSB)
+*search [string] (get vnum)		(KSB using locate)
+*immon					(KSB)
+*immoff					(KSB)
+*goto [character/room vnum]		(KSB)
+*summon (non spell version for imms)	(KSB)
+*assist [character]
+*promote [character] [level]            (KSB advance)
+
+Ranks
+---------------------------------------------
+Guide   - can transport to newbie area (and back to where they were?)
+        - allows lower level characters to follow (but not group)
+        - can summon helper spirit to newbie location????
+Caretaker all of the above plus:
+        - can transport to any location/character
+        - can reset rooms/ reload mobs/objects
+        - can purge mobs/objects
+        - can create home rooms for characters
+Overseer all of the above plus:
+        - can change sex/race/stats/xp/gold of players
+        - can load in new areas/mob/object files and reboot game
+        - can change idle times and set nodelete on pfiles
+        - can punish players who are repeatedly offensive (how?)
+        - can code new commands/skills/spells/music
+        - can summon players (no mana needed)
+GOD      all of the above plus:
+        - unlimmited access to SMUD code base
+        - can promote players
+        - anything else????                                                     
+

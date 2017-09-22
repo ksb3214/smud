@@ -1,0 +1,11 @@
+Say                               
+			       
+`Say' echos your message to your current room and will be heard by everyone in
+that room. Since people may enter the room at any time it is not suitable for
+private conversations. You may emote to the room as well.
+
+Syntax:
+say [message]
+'[message]
+emote [emote]
+:[emote]

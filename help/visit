@@ -1,0 +1,12 @@
+Home
+
+You may go to your homeroom from any location as long as you are not in 
+combat by typing `home'.  While at home, time is effectively stopped -
+you will not gain any health and affects will not decrease.  To return 
+to the world, the `leave' command will return you to the location in 
+which you were before you went home.
+
+To visit another player's home, type `visit playername'.  You may only
+visit if their room is visitable and you are not barred, or if they have 
+set the invite flag for you.  The leave command stil applies if you are
+visiting.

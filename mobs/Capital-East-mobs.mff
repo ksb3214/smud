@@ -1,0 +1,312 @@
+# Auto generated with makemob
+
+1600 {
+  name a sad man
+  shortdesc a sad man
+  objects 1201\n1202\n1203\n1212
+  level 70
+  home 1603
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1601 {
+  name a happy man
+  shortdesc a happy man
+  objects 1201\n1202\n1203\n1211
+  level 66
+  home 1666
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1602 {
+  name a sad woman
+  shortdesc a sad woman
+  objects 1201\n1202\n1203\n1209
+  level 51
+  home 1661
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1603 {
+  name a happy woman
+  shortdesc a happy woman
+  objects 1201\n1202\n1203\n1212
+  level 72
+  home 1623
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1604 {
+  name a fat man
+  shortdesc a fat man
+  objects 1201\n1202\n1203\n1209
+  level 45
+  home 1626
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1605 {
+  name a fat woman
+  shortdesc a fat woman
+  objects 1201\n1202\n1203\n1211
+  level 63
+  home 1747
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1606 {
+  name a young girl
+  shortdesc a young girl
+  objects 1201\n1202\n1203\n1212
+  level 73
+  home 1641
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1607 {
+  name a young boy
+  shortdesc a young boy
+  objects 1201\n1202\n1203\n1209
+  level 48
+  home 1650
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1608 {
+  name a demonic child
+  shortdesc a demonic child
+  objects 1201\n1202\n1203\n1210
+  level 52
+  home 1656
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1609 {
+  name a mutant child
+  shortdesc a mutant child
+  objects 1201\n1202\n1203\n1210
+  level 58
+  home 1662
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1610 {
+  name a fearless warrior
+  shortdesc a fearless warrior
+  objects 1201\n1202\n1203\n1211
+  level 66
+  home 1692
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1611 {
+  name a fat mercenary
+  shortdesc a fat mercenary
+  objects 1201\n1202\n1203\n1210
+  level 57
+  home 1734
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1612 {
+  name a bored man
+  shortdesc a bored man
+  objects 1201\n1202\n1203\n1210
+  level 52
+  home 1741
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1613 {
+  name a bored woman
+  shortdesc a bored woman
+  objects 1201\n1202\n1203\n1209
+  level 49
+  home 1697
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+# Auto generated with makemob
+
+1614 {
+  name a sad man
+  shortdesc a sad man
+  objects 1201\n1202\n1203\n1210
+  level 55
+  home 1663
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1615 {
+  name a happy man
+  shortdesc a happy man
+  objects 1201\n1202\n1203\n1212
+  level 70
+  home 1703
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1616 {
+  name a sad woman
+  shortdesc a sad woman
+  objects 1201\n1202\n1203\n1209
+  level 51
+  home 1668
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1617 {
+  name a happy woman
+  shortdesc a happy woman
+  objects 1201\n1202\n1203\n1210
+  level 58
+  home 1709
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1618 {
+  name a fat man
+  shortdesc a fat man
+  objects 1201\n1202\n1203\n1211
+  level 64
+  home 1641
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1619 {
+  name a fat woman
+  shortdesc a fat woman
+  objects 1201\n1202\n1203\n1211
+  level 64
+  home 1691
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1620 {
+  name a young girl
+  shortdesc a young girl
+  objects 1201\n1202\n1203\n1210
+  level 52
+  home 1620
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1621 {
+  name a young boy
+  shortdesc a young boy
+  objects 1201\n1202\n1203\n1209
+  level 45
+  home 1684
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1622 {
+  name a demonic child
+  shortdesc a demonic child
+  objects 1201\n1202\n1203\n1211
+  level 61
+  home 1710
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1623 {
+  name a mutant child
+  shortdesc a mutant child
+  objects 1201\n1202\n1203\n1210
+  level 55
+  home 1606
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1624 {
+  name a fearless warrior
+  shortdesc a fearless warrior
+  objects 1201\n1202\n1203\n1211
+  level 66
+  home 1713
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1625 {
+  name a fat mercenary
+  shortdesc a fat mercenary
+  objects 1201\n1202\n1203\n1210
+  level 54
+  home 1672
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1626 {
+  name a bored man
+  shortdesc a bored man
+  objects 1201\n1202\n1203\n1212
+  level 70
+  home 1719
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
+1627 {
+  name a bored woman
+  shortdesc a bored woman
+  objects 1201\n1202\n1203\n1209
+  level 48
+  home 1601
+  longdesc Just another citizen of our new capital, showing signs of the new\nfound poverty which rules this land, there is nothing unusual\nabout this individual.
+  sex N
+  alignment 0
+}
+
