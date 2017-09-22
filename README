@@ -6,12 +6,12 @@ As with most MUDs, enthusiasm died out in time and the code has sat in a CVS arc
 
 USAGE:
 
-If you're mad enough to want to try and use it then please do so.  I haven't attempted to compile it recently but in short here's what I think one should try...
+If you're mad enough to want to try and use it then please do so.  The code compiles on 16.04 as is, but here's a quick guide to building:
 
 You'll need to add a UU.rank=GOD into src/login.c so your first user gets immortal(admin) status then remove it after, or write a nice little routine for it.
 
 First compile libmff in its own directory
-Then compile the main code in the src directory, you might need to edit the Makefile and set the UNAME to be 'Linux' but tbh I can't remember, you might also need to use pmake/bmake
+Then compile the main code in the src directory, you might need to edit the Makefile and set the UNAME to be 'Linux' or 'FREEBSD', also you need to use pmake/bmake.
 After that it should run quite nicely from the src directory with a ./smud on port 4000
 
 FEATURES:
