@@ -37,10 +37,5 @@ void name_get_func(char *id)
 
 void get_host_name(SU)
 {
-	pthread_t child;
-	char text[128];
-	sprintf(text,"%d",uid);
-/*	name_get_func(text); */
-	pthread_create(&child,NULL,(void *)&name_get_func, text);
-	__pthread_detach(child); 
+	name_get_func(text);
 }

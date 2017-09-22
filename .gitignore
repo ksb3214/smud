@@ -1,0 +1,8 @@
+libmff/libmff.a
+libmff/libmff.o
+other/debates.mff
+other/home-room-objs.mff
+rooms/home-rooms.mff
+src/.ver
+src/.verinfo
+

@@ -97,7 +97,10 @@ short read_rooms(char *fname, short area)
 	{ 
 		freefile(roomfile);
 		printf("Room file missing (%s)\n",text);
+/* This wasn't commented out before but needed to be for the github version to work
 		exit(-1); 
+*/
+		return 0; // remove this if you uncomment the above
 	}
 
 	for(loop=0; loop<roomfile->vnumcount; loop++)

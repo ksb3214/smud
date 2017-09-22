@@ -7,7 +7,8 @@ BIN			= ./
 # Specific flags according to your operating system
 #
 
-UNAME = FREEBSD
+#UNAME = FREEBSD
+UNAME = LINUX
 #UNAME != perl -e'print uc(`uname`)'
 OS = -D$(UNAME)
 
@@ -68,9 +69,9 @@ OBJECTS = 	atm.o \
 CFLAGS	= -I./include -I../libmff -O3 -ggdb3
 LDFLAGS	= -L/usr/local/lib -L../libmff -ggdb3
 .ifdef ${UNAME} == LINUX
-LIBS	= -lpthread -lm -lcrypt -lmff -lz -O3
+LIBS	= -lm -lcrypt -lmff -lz -O3
 .else
-LIBS	= -lpthread -lm -lcrypt -lmff -lz -O3 -L/usr/local/lib/pth
+LIBS	= -lm -lcrypt -lmff -lz -O3 -L/usr/local/lib/pth
 .endif
 
 CFLAGS	+= $(OS)
