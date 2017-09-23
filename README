@@ -1,5 +1,7 @@
 SMUD - SlightMUD
 
+NEW: example compiled from git running at amber.org.uk 4000
+
 I wrote this MUD in 2000 as an entry to the 16k MUD competition (see below), as you can see it grew well beyond those tight bounds into something that was a lot of fun for a lot of people.
 
 As with most MUDs, enthusiasm died out in time and the code has sat in a CVS archive since about 2005.  It isn't perfect and has kept its flagrant use of static arrays but I loved writing and playing it, so I thought I'd dig it out and shove it on github.
@@ -8,7 +10,9 @@ USAGE:
 
 If you're mad enough to want to try and use it then please do so.  The code compiles on 16.04 as is, but here's a quick guide to building:
 
-You'll need to add a UU.rank=GOD into src/login.c so your first user gets immortal(admin) status then remove it after, or write a nice little routine for it.
+You'll need to uncomment UU.rank=GOD into src/login.c so your first user gets immortal(admin) status then remove it after, or write a nice little routine for it.
+
+Also other/fund.def is the maximum gold for the game, I had plans to turn this into a limited economy but never really got around to it.
 
 First compile libmff in its own directory
 Then compile the main code in the src directory, you might need to edit the Makefile and set the UNAME to be 'Linux' or 'FREEBSD', also you need to use pmake/bmake.
@@ -31,6 +35,7 @@ Weather
 Homerooms
 Basic scripting
 MCCP
+Economy... it's quite basic!
 and more...
 
 NOTES:
