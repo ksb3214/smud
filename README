@@ -1,5 +1,7 @@
 SMUD - SlightMUD
 
+NEW: example compiled from git running at amber.org.uk 4000
+
 I wrote this MUD in 2000 as an entry to the 16k MUD competition (see below), as you can see it grew well beyond those tight bounds into something that was a lot of fun for a lot of people.
 
 As with most MUDs, enthusiasm died out in time and the code has sat in a CVS archive since about 2005.  It isn't perfect and has kept its flagrant use of static arrays but I loved writing and playing it, so I thought I'd dig it out and shove it on github.
