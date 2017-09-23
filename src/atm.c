@@ -34,15 +34,16 @@ unsigned long getfund()
 
 	sprintf(text,"%s",FUNDFILE);
 	if (!(fp=fopen(text,"r"))) {
-		printf("no fund.def file\n");
-		return 0;
+		printf("no fund.def file... defaulting\n");
+		fund=STARTFUNDS;
+		putfund(fund);
 	}
-
-	fgets(text,255,fp);
-
-	fund=atol(text);
-
-	fclose(fp);
+	else
+	{
+		fgets(text,255,fp);
+		fund=atol(text);
+		fclose(fp);
+	}
 
 	return fund;
 }

@@ -34,6 +34,7 @@
 #define ACTIVEDEBATES	10	/* maximum number of active debates */
 #define MAXSCRIPT	500	/* maximum script lines */
 #define SCRIPTLINE	255	/* maximum single line */
+#define	STARTFUNDS	100000  /* This needs a lot more thought */
 
 /* MCCP */
 #define COMPRESS1	85	/* IAC for MCCP version 1 */
