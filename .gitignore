@@ -50,4 +50,5 @@ src/weather.o
 src/wiz.o
 src/write.o
 src/Makefile
+src/nohup.out
 
