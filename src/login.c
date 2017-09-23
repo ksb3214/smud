@@ -41,6 +41,9 @@ void end_login(SU)
 	DEBUG("end_login")
 
 	/* Defaults */
+	/* Uncomment on first run or edit your pfile 
+	**	UU.rank=GOD;
+	*/
 	UU.login=0;
 	UU.lvl=1;
 	UU.maxlvl=1;
