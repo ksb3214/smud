@@ -12,7 +12,7 @@ If you're mad enough to want to try and use it then please do so.  The code comp
 
 You'll need to uncomment UU.rank=GOD into src/login.c so your first user gets immortal(admin) status then remove it after, or write a nice little routine for it.
 
-Also other/fund.def is the maximum gold for the game, I had plans to turn this into a limited economy but never really got around to it.
+Also other/fund.def (set to 100k on first run) is the maximum gold for the game, I had plans to turn this into a limited economy but never really got around to it.
 
 First compile libmff in its own directory
 Then compile the main code in the src directory, you might need to edit the Makefile and set the UNAME to be 'Linux' or 'FREEBSD', also you need to use pmake/bmake.
