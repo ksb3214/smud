@@ -57,6 +57,8 @@ short compressStart(SU)
 {
     z_stream *s;
 
+    if (!ENABLE_MCCP) return FALSE;
+
     if (UU.out_compress) /* already compressing */
         return TRUE;
 

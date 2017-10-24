@@ -324,7 +324,7 @@ struct areas_st {
 //};
 
 typedef struct terminal_info_s {
-	char type[20];
+	char type[100]; /* a total guess, used to be 20 but OSX terminal broke that */
 	short width;
 	short height;
 } terminal_info;

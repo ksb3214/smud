@@ -37,6 +37,7 @@
 #define	STARTFUNDS	100000  /* This needs a lot more thought */
 
 /* MCCP */
+#define ENABLE_MCCP	0	/* disabled by default as it appears to cause problems these days */
 #define COMPRESS1	85	/* IAC for MCCP version 1 */
 #define COMPRESS2	86	/* IAC for MCCP version 2 */
 #define COMPRESS_BUF_SIZE	8192
